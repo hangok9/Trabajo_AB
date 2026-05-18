@@ -1,0 +1,3666 @@
+>Cluster 0
+0	2239aa, >A0A814JPK7|unreview... *
+1	839aa, >A0A814RRU2|unreview... at 92.73%
+2	838aa, >A0A815KER9|unreview... at 99.28%
+>Cluster 1
+0	1991aa, >A0A8J6H7V1|unreview... *
+>Cluster 2
+0	1634aa, >B4HB16|unreviewed|P... *
+>Cluster 3
+0	1614aa, >A0A812B874|unreview... *
+>Cluster 4
+0	1593aa, >A0AA85K6W5|unreview... *
+>Cluster 5
+0	1517aa, >A0A095AMB1|unreview... at 96.04%
+1	1523aa, >A0A183MGW9|unreview... *
+2	1503aa, >A0A922IPP2|unreview... at 95.74%
+3	1508aa, >A0AA84ZTB3|unreview... at 99.14%
+4	1520aa, >A0AA84ZTY0|unreview... at 99.14%
+5	1496aa, >A0AA85BHW4|unreview... at 91.78%
+>Cluster 6
+0	1523aa, >A0AAE2D3K9|unreview... *
+>Cluster 7
+0	1515aa, >A0A3Q0KD62|unreview... *
+1	1514aa, >A0AA85FLB8|unreview... at 96.24%
+>Cluster 8
+0	1502aa, >A0A4Z2DC10|unreview... *
+>Cluster 9
+0	1418aa, >A0A814D1M7|unreview... *
+1	342aa, >A0A820IU91|unreview... at 100.00%
+2	337aa, >A0A820IUH8|unreview... at 98.52%
+>Cluster 10
+0	1416aa, >A0AAV2SZV8|unreview... *
+1	1366aa, >A0AAV2T0G6|unreview... at 100.00%
+>Cluster 11
+0	1409aa, >A0A8T0D256|unreview... *
+>Cluster 12
+0	1400aa, >A0A8J4SNL7|unreview... *
+>Cluster 13
+0	1390aa, >A0A9Q0N090|unreview... *
+>Cluster 14
+0	1387aa, >A0A0L0BTB0|unreview... *
+>Cluster 15
+0	1349aa, >A0A4S2L5T4|unreview... at 92.81%
+1	1349aa, >A0A4V3SCX3|unreview... at 93.25%
+2	1349aa, >A0A8T1MRZ0|unreview... at 99.78%
+3	1364aa, >H2KUM6|unreviewed|S... *
+>Cluster 16
+0	1330aa, >A0A1A9VYI8|unreview... *
+1	802aa, >A0A1A9Z3G8|unreview... at 96.26%
+2	1302aa, >A0A1B0B9C9|unreview... at 95.39%
+3	1128aa, >A0A1B0FA06|unreview... at 93.53%
+4	1298aa, >A0A9C5ZF44|unreview... at 95.15%
+>Cluster 17
+0	1263aa, >A0A1I8PHH9|unreview... at 100.00%
+1	1268aa, >A0A1I8PHI0|unreview... *
+2	1153aa, >A0A1I8PHN8|unreview... at 98.96%
+3	1158aa, >A0A1I8PHP0|unreview... at 98.96%
+>Cluster 18
+0	1268aa, >A0A6I8TXI7|unreview... *
+1	933aa, >Q16IY0|unreviewed|P... at 99.68%
+>Cluster 19
+0	1261aa, >A0ABM1YU73|unreview... *
+>Cluster 20
+0	1237aa, >A0A182I4S7|unreview... at 91.43%
+1	1257aa, >A0A6E8VR57|unreview... *
+2	833aa, >A0A8W7P1I6|unreview... at 93.88%
+3	1257aa, >Q7PT20|unreviewed|P... at 98.73%
+>Cluster 21
+0	1248aa, >A0A182R2G4|unreview... *
+>Cluster 22
+0	1247aa, >A0A182KF29|unreview... *
+>Cluster 23
+0	1235aa, >A0AAG5DF50|unreview... *
+>Cluster 24
+0	1234aa, >A0A6I8U0E0|unreview... *
+>Cluster 25
+0	1231aa, >A0A182YNJ1|unreview... *
+>Cluster 26
+0	1230aa, >A0A182PHT4|unreview... *
+>Cluster 27
+0	1227aa, >A0A182X1C6|unreview... *
+>Cluster 28
+0	1227aa, >A0ABM1YU82|unreview... *
+>Cluster 29
+0	1226aa, >A0ABS2YAK6|unreview... *
+>Cluster 30
+0	671aa, >A0A3B4GHH9|unreview... at 91.06%
+1	648aa, >A0A3B4UDZ3|unreview... at 92.59%
+2	667aa, >A0A3B4UGX6|unreview... at 92.95%
+3	674aa, >A0A3B4WEF3|unreview... at 92.28%
+4	667aa, >A0A3B4WEI4|unreview... at 92.95%
+5	673aa, >A0A3B4WJX1|unreview... at 93.76%
+6	668aa, >A0A3P8P3K1|unreview... at 90.12%
+7	671aa, >A0A3P8SH81|unreview... at 93.14%
+8	671aa, >A0A3P9BI98|unreview... at 91.06%
+9	671aa, >A0A3P9HYQ0|unreview... at 91.51%
+10	671aa, >A0A3Q1GP79|unreview... at 93.14%
+11	671aa, >A0A3Q2VUN6|unreview... at 91.21%
+12	673aa, >A0A3Q3N2F1|unreview... at 92.72%
+13	678aa, >A0A3Q3N5B8|unreview... at 91.45%
+14	674aa, >A0A3Q3SKU4|unreview... at 91.25%
+15	679aa, >A0A484DI11|unreview... at 93.81%
+16	689aa, >A0A4U5V035|unreview... at 90.42%
+17	661aa, >A0A4Z2I5W5|unreview... at 91.23%
+18	685aa, >A0A5J5DL55|unreview... at 93.14%
+19	674aa, >A0A665TII8|unreview... at 90.95%
+20	659aa, >A0A665TQ73|unreview... at 92.41%
+21	675aa, >A0A667XX87|unreview... at 92.30%
+22	673aa, >A0A667YCG7|unreview... at 91.08%
+23	679aa, >A0A671UN03|unreview... at 92.05%
+24	675aa, >A0A671UPB1|unreview... at 90.96%
+25	679aa, >A0A672ZJT7|unreview... at 92.05%
+26	654aa, >A0A6A5FI37|unreview... at 92.81%
+27	677aa, >A0A6G0IUF6|unreview... at 92.91%
+28	677aa, >A0A6G1PQY7|unreview... at 91.73%
+29	676aa, >A0A6I9PEX5|unreview... at 99.26%
+30	671aa, >A0A6P7P3I2|unreview... at 92.85%
+31	676aa, >A0A6P8SSP3|unreview... at 99.70%
+32	726aa, >A0A7J5YDN0|unreview... at 96.14%
+33	673aa, >A0A7N6BFI6|unreview... at 92.27%
+34	676aa, >A0A7N6FB25|unreview... at 90.68%
+35	681aa, >A0A7N8YMQ7|unreview... at 90.75%
+36	648aa, >A0A8C2X1A2|unreview... at 94.14%
+37	646aa, >A0A8C7YTN2|unreview... at 90.40%
+38	671aa, >A0A8C7YWH4|unreview... at 91.51%
+39	679aa, >A0A8D0ATX9|unreview... at 94.11%
+40	350aa, >A0A9N7VXT6|unreview... at 90.57%
+41	672aa, >A0AA88MZS8|unreview... at 92.71%
+42	1221aa, >A0AAD6ASQ6|unreview... *
+43	676aa, >A0AAD9FJ56|unreview... at 99.26%
+44	678aa, >A0AAN7XZH2|unreview... at 96.17%
+45	676aa, >A0AAN8CLZ6|unreview... at 99.56%
+46	676aa, >A0AAN8DZM9|unreview... at 99.56%
+47	671aa, >A0AAQ6AAM4|unreview... at 93.14%
+48	679aa, >A0AAV1FXM8|unreview... at 91.61%
+49	645aa, >A0AAW1EG14|unreview... at 93.95%
+50	670aa, >A0AAW1EHB3|unreview... at 95.07%
+51	676aa, >A0ABD2GTN9|unreview... at 99.11%
+52	1215aa, >A0ACB9WMU9|unreview... at 98.44%
+>Cluster 31
+0	1220aa, >A0A182WIC4|unreview... *
+>Cluster 32
+0	1218aa, >A0ABM1YU71|unreview... *
+>Cluster 33
+0	1217aa, >A0A183AJ69|unreview... *
+1	1217aa, >A0A3P8KLJ5|unreview... at 99.92%
+>Cluster 34
+0	1214aa, >A0A182N7Q4|unreview... *
+>Cluster 35
+0	1182aa, >A0A182FFS6|unreview... at 90.86%
+1	1214aa, >A0A2M3ZG61|unreview... *
+2	1211aa, >A0A2M4AAD9|unreview... at 93.31%
+3	1211aa, >A0A2M4AAJ9|unreview... at 93.39%
+4	1138aa, >A0A2M4BAV4|unreview... at 94.99%
+5	894aa, >A0A2M4BDQ7|unreview... at 94.74%
+6	1204aa, >W5JME4|unreviewed|P... at 92.94%
+>Cluster 36
+0	925aa, >A0A034VBM8|unreview... at 99.78%
+1	945aa, >A0A0K8U5E3|unreview... at 94.29%
+2	845aa, >A0A0K8W9I1|unreview... at 97.04%
+3	1211aa, >A0A6I9VHF4|unreview... *
+4	1062aa, >A0A6J0RKA6|unreview... at 98.78%
+>Cluster 37
+0	1210aa, >B4J158|unreviewed|P... *
+>Cluster 38
+0	1209aa, >A0A0A1WTF3|unreview... *
+1	1064aa, >A0A0A1XMS0|unreview... at 98.78%
+>Cluster 39
+0	1049aa, >A0A6P8X2F8|unreview... at 92.66%
+1	1200aa, >A0A6P8XFQ3|unreview... at 92.92%
+2	1203aa, >A0AAD4JYL5|unreview... *
+>Cluster 40
+0	1192aa, >A0A0Q9XDN3|unreview... at 98.41%
+1	1201aa, >A0A484BSX5|unreview... *
+2	1032aa, >A0A6J1LVV4|unreview... at 93.12%
+3	1034aa, >A0A6J1LXR0|unreview... at 93.13%
+4	1164aa, >A0ABM1PAA0|unreview... at 96.91%
+5	1041aa, >B4KVW4|unreviewed|P... at 97.41%
+>Cluster 41
+0	1198aa, >A0A813S1H4|unreview... *
+1	1198aa, >A0A8S2CZ66|unreview... at 99.92%
+>Cluster 42
+0	1192aa, >A0A811V002|unreview... *
+1	178aa, >A0A811V012|unreview... at 97.19%
+2	890aa, >W8ASN9|unreviewed|P... at 99.89%
+>Cluster 43
+0	1189aa, >A0A0M3JR49|unreview... *
+>Cluster 44
+0	1189aa, >A0A6J2TBG8|unreview... *
+1	1095aa, >A0A6J2TEE8|unreview... at 96.26%
+>Cluster 45
+0	1187aa, >A0A813U829|unreview... *
+1	1187aa, >A0A8S2I0M5|unreview... at 99.92%
+>Cluster 46
+0	1182aa, >A0A6J1LZM8|unreview... *
+>Cluster 47
+0	1175aa, >A0A8D8EZS9|unreview... at 97.79%
+1	1179aa, >A0ABD1DKF0|unreview... *
+>Cluster 48
+0	997aa, >A0A0V1E7M8|unreview... at 91.07%
+1	715aa, >A0A0V1H0E1|unreview... at 97.48%
+2	1003aa, >A0A0V1H125|unreview... at 97.41%
+3	998aa, >A0A0V1JF25|unreview... at 90.98%
+4	989aa, >A0A0V1JF91|unreview... at 90.19%
+5	1159aa, >A0A0V1N642|unreview... at 98.19%
+6	1170aa, >A0A0V1N6E0|unreview... at 98.21%
+7	1177aa, >A0A0V1N6V7|unreview... *
+>Cluster 49
+0	95aa, >A0A093CPP5|unreview... at 95.79%
+1	617aa, >A0A1S3EV27|unreview... at 95.95%
+2	610aa, >A0A2D0VMX2|unreview... at 95.08%
+3	649aa, >A0A2K5EZ12|unreview... at 91.83%
+4	606aa, >A0A2K5J1Q2|unreview... at 95.38%
+5	617aa, >A0A2K5NW35|unreview... at 95.30%
+6	606aa, >A0A2K5NWB0|unreview... at 95.54%
+7	616aa, >A0A2K5QGT1|unreview... at 94.48%
+8	627aa, >A0A2K5QGT9|unreview... at 94.10%
+9	606aa, >A0A2K5ZEP6|unreview... at 95.54%
+10	617aa, >A0A2K6BX91|unreview... at 95.30%
+11	606aa, >A0A2K6BXC8|unreview... at 95.54%
+12	606aa, >A0A2K6G8E6|unreview... at 96.70%
+13	606aa, >A0A2K6MWL2|unreview... at 95.54%
+14	617aa, >A0A2K6QN26|unreview... at 95.30%
+15	606aa, >A0A2K6QN48|unreview... at 95.54%
+16	601aa, >A0A2R9BYD0|unreview... at 95.84%
+17	617aa, >A0A3Q7QCI2|unreview... at 95.62%
+18	617aa, >A0A3Q7TMV8|unreview... at 95.79%
+19	599aa, >A0A455BSJ9|unreview... at 94.49%
+20	644aa, >A0A484GV85|unreview... at 91.93%
+21	344aa, >A0A5E4BPN6|unreview... at 92.73%
+22	408aa, >A0A5E4BQ51|unreview... at 93.63%
+23	652aa, >A0A6G1BF36|unreview... at 90.64%
+24	617aa, >A0A6J2B386|unreview... at 95.62%
+25	617aa, >A0A6J3FMY6|unreview... at 95.79%
+26	302aa, >A0A6P5QSE6|unreview... at 92.72%
+27	610aa, >A0A6P5QZN1|unreview... at 94.75%
+28	656aa, >A0A6P6C6L9|unreview... at 90.40%
+29	305aa, >A0A6P6F494|unreview... at 93.11%
+30	613aa, >A0A6P6F576|unreview... at 95.92%
+31	616aa, >A0A7J8B4R1|unreview... at 95.78%
+32	408aa, >A0A834UXY9|unreview... at 94.12%
+33	344aa, >A0A834UZ70|unreview... at 93.31%
+34	657aa, >A0A8B7RIZ2|unreview... at 90.26%
+35	617aa, >A0A8B7RJ10|unreview... at 96.11%
+36	481aa, >A0A8B7UEP7|unreview... at 95.43%
+37	460aa, >A0A8B7UHV1|unreview... at 95.65%
+38	619aa, >A0A8B8T7F2|unreview... at 95.64%
+39	629aa, >A0A8B8WJ13|unreview... at 95.39%
+40	621aa, >A0A8C2LZX6|unreview... at 94.20%
+41	610aa, >A0A8C2M1D2|unreview... at 95.25%
+42	221aa, >A0A8C4L5P4|unreview... at 92.31%
+43	639aa, >A0A8C5LE32|unreview... at 92.02%
+44	218aa, >A0A8C5XVY6|unreview... at 96.33%
+45	617aa, >A0A8C5Y540|unreview... at 96.27%
+46	301aa, >A0A8C6GYC3|unreview... at 92.36%
+47	612aa, >A0A8C6R5E6|unreview... at 96.90%
+48	226aa, >A0A8D0JQI7|unreview... at 92.04%
+49	652aa, >A0A8D1B4Y0|unreview... at 90.64%
+50	469aa, >A0A8J6ABR3|unreview... at 93.18%
+51	309aa, >A0A8U0NU37|unreview... at 92.88%
+52	617aa, >A0A8U0TE33|unreview... at 95.62%
+53	613aa, >A0A9W3EZL3|unreview... at 94.78%
+54	1167aa, >A0AA41T5T1|unreview... *
+55	617aa, >A0AAJ7HHZ5|unreview... at 95.30%
+56	367aa, >A0AAW0HGU7|unreview... at 91.01%
+57	611aa, >A0AAX6NRT9|unreview... at 95.42%
+58	365aa, >A0AAX6T5Y6|unreview... at 93.70%
+59	608aa, >A0ABK0LLU5|unreview... at 94.90%
+60	612aa, >A0ABM0KYN0|unreview... at 94.44%
+61	617aa, >A0ABM1CJL6|unreview... at 93.84%
+62	613aa, >A0ABM2F192|unreview... at 95.60%
+63	618aa, >A0ABM3W2X1|unreview... at 94.66%
+64	309aa, >A0ABM3W2Y0|unreview... at 90.29%
+65	638aa, >A0ABM4MCA0|unreview... at 92.79%
+66	305aa, >A0ABM4MCC5|unreview... at 91.80%
+67	656aa, >A0ABM4T108|unreview... at 91.31%
+68	660aa, >A0ABM5DE55|unreview... at 90.61%
+69	618aa, >A0AC55CVY3|unreview... at 94.01%
+70	618aa, >A0AC55CVY4|unreview... at 94.01%
+71	617aa, >A0AC58M3V1|unreview... at 96.60%
+72	302aa, >A6KE37|unreviewed|P... at 91.72%
+73	472aa, >A6QPG4|unreviewed|P... at 95.13%
+74	610aa, >B5DF21|reviewed|Pro... at 94.59%
+75	645aa, >D2HCL3|unreviewed|P... at 90.85%
+76	582aa, >F1M7M7|unreviewed|P... at 94.16%
+77	653aa, >G7MXY2|unreviewed|P... at 90.05%
+78	653aa, >G7PAB3|unreviewed|P... at 90.05%
+79	390aa, >G9KMC3|unreviewed|P... at 94.10%
+80	631aa, >L5K445|unreviewed|P... at 93.98%
+81	663aa, >L5LP84|unreviewed|P... at 90.35%
+82	657aa, >L8I0C7|unreviewed|P... at 90.11%
+83	288aa, >U6DID1|unreviewed|P... at 94.10%
+>Cluster 50
+0	1163aa, >A0A814F264|unreview... at 99.57%
+1	953aa, >A0A814F722|unreview... at 93.18%
+2	953aa, >A0A814H1U4|unreview... at 93.18%
+3	1166aa, >A0A814Z5I7|unreview... *
+4	1164aa, >A0A814ZIQ4|unreview... at 99.57%
+5	953aa, >A0A818M1P7|unreview... at 93.07%
+>Cluster 51
+0	1166aa, >B4N6N9|unreviewed|P... *
+>Cluster 52
+0	977aa, >A0A0V1E6X9|unreview... at 92.73%
+1	1159aa, >A0A0V1FF65|unreview... *
+2	1061aa, >A0A0V1IX79|unreview... at 91.14%
+>Cluster 53
+0	1157aa, >A0A182MU59|unreview... *
+>Cluster 54
+0	1151aa, >A0A158RAB1|unreview... *
+>Cluster 55
+0	1026aa, >A0A3B0KB53|unreview... at 97.47%
+1	1135aa, >A0A6I8WBM1|unreview... at 94.71%
+2	1148aa, >A0AAU9FUM1|unreview... *
+>Cluster 56
+0	1127aa, >A0A084WLM4|unreview... *
+>Cluster 57
+0	1124aa, >A0A1A9WT97|unreview... *
+>Cluster 58
+0	1115aa, >A0A6P4J1L3|unreview... *
+1	998aa, >A0ABM4GHQ3|unreview... at 99.00%
+>Cluster 59
+0	998aa, >A0A0J9RRT4|unreview... at 94.99%
+1	1108aa, >A0A0J9RS79|unreview... at 95.67%
+2	1110aa, >A0A0Q5U332|unreview... at 95.86%
+3	1112aa, >A0A0R1DV27|unreview... at 95.41%
+4	996aa, >A0A6P4E560|unreview... at 94.88%
+5	1111aa, >A0A6P4E5F4|unreview... at 95.68%
+6	998aa, >A0A6P8JX77|unreview... at 94.99%
+7	1108aa, >A0A6P8K9P5|unreview... at 95.76%
+8	1112aa, >A0A9P9YPK2|unreview... at 95.50%
+9	999aa, >A0AB39ZEM1|unreview... at 99.00%
+10	1113aa, >A0ABM4TS56|unreview... *
+11	997aa, >B3NFQ7|reviewed|Pro... at 95.09%
+12	998aa, >B4HKJ7|reviewed|Pro... at 94.69%
+13	998aa, >B4QMP1|reviewed|Pro... at 94.99%
+14	999aa, >P60320|reviewed|Pro... at 94.79%
+15	999aa, >Q23972|reviewed|Pro... at 94.89%
+>Cluster 60
+0	1096aa, >A0ABR4QNR7|unreview... *
+>Cluster 61
+0	1091aa, >A0A182VJ51|unreview... *
+>Cluster 62
+0	984aa, >A0A0P8XTS6|unreview... at 98.78%
+1	1082aa, >A0A0P8XTT1|unreview... *
+2	985aa, >B3M5V9|unreviewed|P... at 98.78%
+>Cluster 63
+0	1080aa, >A0AAE0R163|unreview... *
+>Cluster 64
+0	1068aa, >A0A1I8MTY8|unreview... at 100.00%
+1	1073aa, >A0A1I8MTY9|unreview... *
+>Cluster 65
+0	1072aa, >A0A182IR44|unreview... *
+>Cluster 66
+0	925aa, >A0A0V0RRS0|unreview... at 93.51%
+1	1005aa, >A0A0V0ZQR1|unreview... at 92.74%
+2	958aa, >A0A0V0ZQS6|unreview... at 93.74%
+3	1018aa, >A0A0V1BLE8|unreview... at 93.03%
+4	1052aa, >A0A0V1BLV7|unreview... *
+>Cluster 67
+0	1041aa, >A0A0V0Y3T8|unreview... *
+>Cluster 68
+0	1031aa, >W6U4E8|unreviewed|P... *
+>Cluster 69
+0	1030aa, >A0A182Q8A1|unreview... *
+>Cluster 70
+0	672aa, >A0A2U9B4H2|unreview... at 98.81%
+1	527aa, >A0A2U9B4H5|unreview... at 100.00%
+2	644aa, >A0A3B3BFM7|unreview... at 91.46%
+3	669aa, >A0A3B3BFP3|unreview... at 92.53%
+4	671aa, >A0A3B3HYQ8|unreview... at 91.36%
+5	671aa, >A0A3B5B602|unreview... at 93.74%
+6	672aa, >A0A3P8VSA0|unreview... at 91.82%
+7	684aa, >A0A3P8VV50|unreview... at 90.35%
+8	670aa, >A0A3P9KGY3|unreview... at 91.34%
+9	671aa, >A0A3Q0RGH8|unreview... at 90.31%
+10	644aa, >A0A3S2MRA1|unreview... at 90.99%
+11	648aa, >A0A4W6G418|unreview... at 93.67%
+12	670aa, >A0A4W6G662|unreview... at 94.93%
+13	677aa, >A0A665TJI8|unreview... at 90.99%
+14	545aa, >A0A665TQ80|unreview... at 90.46%
+15	671aa, >A0A668UZ63|unreview... at 90.61%
+16	1028aa, >A0A6A4SFQ8|unreview... *
+17	671aa, >A0A6P7JEG9|unreview... at 91.51%
+18	675aa, >A0A6P7JHL0|unreview... at 90.96%
+19	555aa, >A0A7N9B218|unreview... at 90.63%
+20	676aa, >A0A8D3ABH0|unreview... at 98.22%
+21	643aa, >A0A8D3BRV7|unreview... at 94.09%
+22	686aa, >A0A8D3C0M4|unreview... at 96.94%
+23	653aa, >A0A8D3CSI5|unreview... at 97.09%
+24	674aa, >A0A8D3EEE9|unreview... at 97.77%
+25	659aa, >A0A9Y4N0F1|unreview... at 93.47%
+26	673aa, >A0AAD3MH59|unreview... at 94.95%
+27	673aa, >A0AAJ7LJZ4|unreview... at 94.80%
+28	675aa, >A0AAV1P5N3|unreview... at 92.59%
+29	651aa, >A0ACB8VF82|unreview... at 91.71%
+30	671aa, >I3K5W1|unreviewed|S... at 90.61%
+>Cluster 71
+0	1023aa, >A0A0D2VV27|unreview... *
+1	839aa, >A0A0D2WU12|unreview... at 100.00%
+>Cluster 72
+0	1009aa, >B4LEV0|unreviewed|P... *
+>Cluster 73
+0	1006aa, >A0A4Y7LZV1|unreview... *
+>Cluster 74
+0	1002aa, >A0A915CDF6|unreview... *
+1	672aa, >A0A915CE68|unreview... at 98.51%
+2	744aa, >A0A915CEB6|unreview... at 100.00%
+3	913aa, >A0A915CEG7|unreview... at 100.00%
+4	920aa, >A0A915CF75|unreview... at 99.89%
+5	913aa, >F1KUM0|unreviewed|S... at 93.43%
+>Cluster 75
+0	921aa, >A0A0V0UC38|unreview... at 98.70%
+1	926aa, >A0A0V1CZX1|unreview... at 99.78%
+2	1000aa, >A0A0V1D023|unreview... *
+3	968aa, >A0A0V1L933|unreview... at 90.81%
+4	717aa, >A0A0V1LAI4|unreview... at 96.65%
+>Cluster 76
+0	983aa, >A0A0V0ZRN1|unreview... *
+>Cluster 77
+0	983aa, >A0A814A364|unreview... *
+>Cluster 78
+0	978aa, >A0A817YV78|unreview... *
+1	978aa, >A0A818DSY1|unreview... at 99.69%
+2	960aa, >A0A818FIM6|unreview... at 99.48%
+3	978aa, >A0A818Q1U4|unreview... at 99.80%
+4	596aa, >A0A818UHJ4|unreview... at 99.66%
+5	978aa, >A0A820J1S4|unreview... at 99.59%
+6	740aa, >A0A820STG1|unreview... at 99.73%
+7	571aa, >A0A821MTV3|unreview... at 99.65%
+>Cluster 79
+0	974aa, >A0A482WW87|unreview... *
+>Cluster 80
+0	972aa, >A0A814GHH3|unreview... *
+1	969aa, >A0A814GM75|unreview... at 95.15%
+>Cluster 81
+0	970aa, >U5EX72|unreviewed|P... *
+>Cluster 82
+0	964aa, >A0A4Y7M8V1|unreview... *
+>Cluster 83
+0	670aa, >A0A5N5M4W8|unreview... at 95.52%
+1	672aa, >A0A7J6AUB4|unreview... at 94.64%
+2	666aa, >A0A8T0B548|unreview... at 94.74%
+3	694aa, >A0A9D3NGM1|unreview... at 95.24%
+4	670aa, >A0AA88M727|unreview... at 96.42%
+5	961aa, >A0AAE0QS59|unreview... *
+6	669aa, >A0ACC5X2Q9|unreview... at 95.22%
+7	682aa, >A0ACC5YWM4|unreview... at 94.13%
+8	669aa, >W5UL70|unreviewed|S... at 94.92%
+>Cluster 84
+0	957aa, >A0A498MBQ3|unreview... *
+1	670aa, >A0A6P6LHC3|unreview... at 93.28%
+2	679aa, >A0A8C1N7U4|unreview... at 95.14%
+3	670aa, >A0A8C1N9G7|unreview... at 96.27%
+4	679aa, >A0A8C1YAK4|unreview... at 95.14%
+5	673aa, >A0A8C2BXZ9|unreview... at 96.14%
+6	670aa, >A0A9J8A0F0|unreview... at 96.27%
+7	678aa, >A0A9J8AIA1|unreview... at 95.58%
+8	679aa, >A0A9J8AR52|unreview... at 95.14%
+9	670aa, >A0A9W7TQL1|unreview... at 92.24%
+10	673aa, >A0AA88PHH4|unreview... at 97.92%
+11	669aa, >A0AAN9DE49|unreview... at 94.02%
+12	675aa, >A0AAW1ZM21|unreview... at 95.26%
+13	674aa, >A0AC58HE68|unreview... at 90.95%
+14	674aa, >A0AC58HE69|unreview... at 90.95%
+15	674aa, >A0AC58HE84|unreview... at 90.95%
+>Cluster 85
+0	939aa, >A0A815D663|unreview... at 99.36%
+1	937aa, >A0A816GDA8|unreview... at 99.36%
+2	937aa, >A0A816SXF2|unreview... at 99.57%
+3	938aa, >A0A816Y5J2|unreview... at 99.79%
+4	956aa, >A0A819HP92|unreview... *
+5	647aa, >A0A8S2NL03|unreview... at 96.29%
+6	65aa, >A0A8S2URZ7|unreview... at 95.38%
+7	65aa, >A0A8S2XCL7|unreview... at 95.38%
+>Cluster 86
+0	955aa, >A0A0V1BM53|unreview... *
+>Cluster 87
+0	954aa, >A0A162CFN3|unreview... *
+1	814aa, >A0A4Y7LS50|unreview... at 94.84%
+2	922aa, >A0A4Y7LVU1|unreview... at 97.72%
+3	814aa, >A0A4Y7M4L1|unreview... at 94.84%
+4	644aa, >A0A4Y7M9Z0|unreview... at 91.46%
+5	642aa, >A0A4Y7MAH1|unreview... at 91.90%
+6	814aa, >A0A4Y7MAV4|unreview... at 96.81%
+7	709aa, >A0A4Y7MCR2|unreview... at 97.32%
+8	645aa, >A0A4Y7MKM6|unreview... at 93.33%
+9	641aa, >A0A4Y7MKP7|unreview... at 93.29%
+10	709aa, >A0A4Y7MM88|unreview... at 97.60%
+11	806aa, >A0A4Y7MPY8|unreview... at 96.15%
+12	697aa, >A0A4Y7MZE4|unreview... at 93.11%
+13	806aa, >A0A4Y7N8B2|unreview... at 95.41%
+14	925aa, >A0A4Y7N9Z9|unreview... at 97.84%
+15	879aa, >A0A4Y7ND16|unreview... at 96.25%
+16	806aa, >A0A4Y7NF07|unreview... at 95.78%
+17	925aa, >A0AAD5L3R6|unreview... at 98.05%
+18	851aa, >A0ABR0ACK8|unreview... at 99.76%
+>Cluster 88
+0	947aa, >T1FFX9|unreviewed|S... *
+>Cluster 89
+0	755aa, >A0A4Y7MS22|unreview... at 92.19%
+1	945aa, >A0A8J2RGS0|unreview... *
+2	869aa, >E9HAQ1|unreviewed|S... at 90.91%
+>Cluster 90
+0	943aa, >A0A8B7NWY0|unreview... *
+>Cluster 91
+0	942aa, >A0A0V1JEX0|unreview... *
+>Cluster 92
+0	940aa, >A0AAV4CUS1|unreview... *
+>Cluster 93
+0	939aa, >A0A814E5E2|unreview... *
+1	937aa, >A0A814N5G1|unreview... at 99.15%
+2	937aa, >A0A814Q566|unreview... at 98.72%
+3	938aa, >A0A818R0U5|unreview... at 98.83%
+>Cluster 94
+0	718aa, >A0A1Q3EVK7|unreview... at 99.72%
+1	712aa, >A0A1Q3EVL8|unreview... at 99.58%
+2	938aa, >A0A1Q3EVP2|unreview... *
+3	819aa, >A0A1Q3EVQ1|unreview... at 99.63%
+>Cluster 95
+0	357aa, >A0A093EHM8|unreview... at 94.40%
+1	718aa, >A0A096NV59|unreview... at 96.80%
+2	493aa, >A0A099ZQ90|unreview... at 90.26%
+3	718aa, >A0A0D9RQN4|unreview... at 96.80%
+4	716aa, >A0A0G2JUK8|unreview... at 93.72%
+5	711aa, >A0A0G2JVW7|unreview... at 95.36%
+6	718aa, >A0A1D5RBE2|unreview... at 96.66%
+7	719aa, >A0A1S3A0F5|unreview... at 96.24%
+8	718aa, >A0A1S3EV58|unreview... at 95.13%
+9	713aa, >A0A1U7R212|unreview... at 95.37%
+10	718aa, >A0A250Y4I0|unreview... at 95.82%
+11	712aa, >A0A287D585|unreview... at 96.63%
+12	718aa, >A0A2J8PHI7|unreview... at 97.21%
+13	718aa, >A0A2J8WKZ6|unreview... at 97.08%
+14	716aa, >A0A2K5EZ02|unreview... at 96.65%
+15	718aa, >A0A2K5J1H3|unreview... at 96.66%
+16	718aa, >A0A2K5NW91|unreview... at 96.80%
+17	690aa, >A0A2K5NWA1|unreview... at 93.33%
+18	718aa, >A0A2K5QGN9|unreview... at 96.80%
+19	718aa, >A0A2K5VV40|unreview... at 94.85%
+20	730aa, >A0A2K5VVE9|unreview... at 92.60%
+21	718aa, >A0A2K5ZEQ6|unreview... at 96.80%
+22	718aa, >A0A2K6BX94|unreview... at 96.80%
+23	718aa, >A0A2K6G8D7|unreview... at 97.35%
+24	607aa, >A0A2K6QN60|unreview... at 93.08%
+25	718aa, >A0A2K6SSH0|unreview... at 96.52%
+26	641aa, >A0A2R9C1L4|unreview... at 90.64%
+27	718aa, >A0A2U3W9F8|unreview... at 97.35%
+28	718aa, >A0A2Y9HZI5|unreview... at 98.19%
+29	718aa, >A0A2Y9L0P8|unreview... at 97.21%
+30	718aa, >A0A2Y9MWK0|unreview... at 97.63%
+31	718aa, >A0A340WEM7|unreview... at 97.77%
+32	718aa, >A0A341AL22|unreview... at 97.63%
+33	718aa, >A0A384AZW7|unreview... at 98.19%
+34	718aa, >A0A3Q1LJM1|unreview... at 99.44%
+35	677aa, >A0A3Q2HRK4|unreview... at 93.21%
+36	673aa, >A0A3Q2I5C8|unreview... at 93.91%
+37	717aa, >A0A3Q2KRP9|unreview... at 95.12%
+38	714aa, >A0A3Q2LSA7|unreview... at 96.64%
+39	660aa, >A0A3Q7NX60|unreview... at 97.12%
+40	718aa, >A0A3Q7P650|unreview... at 97.63%
+41	718aa, >A0A3Q7SJ78|unreview... at 97.21%
+42	690aa, >A0A452ETN4|unreview... at 91.16%
+43	679aa, >A0A452EU56|unreview... at 91.02%
+44	672aa, >A0A452ULB1|unreview... at 93.45%
+45	642aa, >A0A455BRU9|unreview... at 94.39%
+46	670aa, >A0A455BRV5|unreview... at 91.94%
+47	647aa, >A0A455BSJ4|unreview... at 94.59%
+48	645aa, >A0A455C700|unreview... at 94.26%
+49	718aa, >A0A480YHQ7|unreview... at 98.19%
+50	718aa, >A0A4W2CMN9|unreview... at 99.44%
+51	718aa, >A0A4X1WDA4|unreview... at 98.19%
+52	648aa, >A0A4X2KIT2|unreview... at 90.12%
+53	707aa, >A0A4X2KPD0|unreview... at 90.66%
+54	718aa, >A0A671DLF5|unreview... at 97.63%
+55	938aa, >A0A6B0RBM8|unreview... *
+56	718aa, >A0A6D2XCN8|unreview... at 97.21%
+57	720aa, >A0A6I9I1A1|unreview... at 97.64%
+58	716aa, >A0A6I9M0Q0|unreview... at 94.69%
+59	718aa, >A0A6J2B5M7|unreview... at 97.63%
+60	349aa, >A0A6J2B5N2|unreview... at 91.40%
+61	722aa, >A0A6J2L864|unreview... at 97.09%
+62	718aa, >A0A6J3FMP8|unreview... at 96.94%
+63	724aa, >A0A6J3QXD9|unreview... at 95.99%
+64	718aa, >A0A6J3QYT2|unreview... at 97.63%
+65	714aa, >A0A6P3F4P1|unreview... at 95.10%
+66	702aa, >A0A6P3I573|unreview... at 94.30%
+67	718aa, >A0A6P3RLJ1|unreview... at 97.91%
+68	718aa, >A0A6P5CGP8|unreview... at 99.44%
+69	711aa, >A0A6P5QSE2|unreview... at 95.36%
+70	717aa, >A0A7J8B4J0|unreview... at 96.93%
+71	718aa, >A0A7J8IS30|unreview... at 97.63%
+72	718aa, >A0A7J8K077|unreview... at 97.63%
+73	689aa, >A0A811ZJ84|unreview... at 93.18%
+74	720aa, >A0A834ETH2|unreview... at 97.36%
+75	717aa, >A0A836AC95|unreview... at 99.58%
+76	718aa, >A0A8B7AKE4|unreview... at 97.35%
+77	718aa, >A0A8B7RKP8|unreview... at 97.21%
+78	697aa, >A0A8B7RKQ4|unreview... at 92.25%
+79	720aa, >A0A8B8T6S3|unreview... at 97.36%
+80	730aa, >A0A8B8WJ08|unreview... at 95.75%
+81	718aa, >A0A8B8WLS8|unreview... at 98.19%
+82	716aa, >A0A8B9YMF2|unreview... at 99.30%
+83	697aa, >A0A8B9YMJ6|unreview... at 92.54%
+84	734aa, >A0A8C0L0M2|unreview... at 94.55%
+85	718aa, >A0A8C0M1D1|unreview... at 97.49%
+86	664aa, >A0A8C0M1I5|unreview... at 96.39%
+87	717aa, >A0A8C0PTQ8|unreview... at 97.49%
+88	711aa, >A0A8C2LYR1|unreview... at 95.50%
+89	714aa, >A0A8C2VQD1|unreview... at 95.80%
+90	718aa, >A0A8C3WPQ9|unreview... at 97.49%
+91	714aa, >A0A8C4L1A4|unreview... at 96.64%
+92	717aa, >A0A8C4L8C9|unreview... at 95.12%
+93	680aa, >A0A8C5LAG5|unreview... at 90.74%
+94	600aa, >A0A8C5V4T3|unreview... at 93.33%
+95	712aa, >A0A8C5YNY6|unreview... at 96.77%
+96	718aa, >A0A8C6BYA8|unreview... at 97.63%
+97	718aa, >A0A8C6DWY3|unreview... at 98.89%
+98	644aa, >A0A8C6GZH0|unreview... at 95.81%
+99	713aa, >A0A8C6W7F4|unreview... at 96.35%
+100	718aa, >A0A8C7A5H3|unreview... at 97.49%
+101	734aa, >A0A8C8WLY3|unreview... at 94.55%
+102	736aa, >A0A8C8Z0P9|unreview... at 93.07%
+103	718aa, >A0A8C8Z456|unreview... at 96.38%
+104	718aa, >A0A8C9BMU9|unreview... at 97.63%
+105	718aa, >A0A8C9IUS5|unreview... at 96.80%
+106	712aa, >A0A8C9Q591|unreview... at 92.70%
+107	700aa, >A0A8D1XCQ6|unreview... at 95.14%
+108	714aa, >A0A8D2B462|unreview... at 97.34%
+109	718aa, >A0A8D2EX58|unreview... at 96.80%
+110	718aa, >A0A8D2H013|unreview... at 96.66%
+111	740aa, >A0A8I3MWY0|unreview... at 90.27%
+112	664aa, >A0A8I3MXW6|unreview... at 96.39%
+113	718aa, >A0A8I3N924|unreview... at 97.49%
+114	714aa, >A0A8I3WTC0|unreview... at 96.64%
+115	732aa, >A0A8I3WXU3|unreview... at 93.85%
+116	658aa, >A0A8J8XSB6|unreview... at 96.81%
+117	718aa, >A0A8M1GRQ6|unreview... at 97.77%
+118	740aa, >A0A8P0SR14|unreview... at 90.27%
+119	715aa, >A0A9B0TPR4|unreview... at 97.06%
+120	711aa, >A0A9J7ETZ1|unreview... at 95.64%
+121	691aa, >A0A9W2WYX3|unreview... at 90.16%
+122	718aa, >A0AAJ7HHL0|unreview... at 96.80%
+123	712aa, >A0AAX6TB27|unreview... at 94.94%
+124	718aa, >A0ABM0HFW0|unreview... at 95.26%
+125	678aa, >A0ABM0QRC6|unreview... at 94.54%
+126	309aa, >A0ABM1CJL8|unreview... at 91.59%
+127	713aa, >A0ABM1UAL3|unreview... at 95.09%
+128	677aa, >A0ABM2F2W4|unreview... at 93.06%
+129	665aa, >A0ABM2F7E1|unreview... at 94.74%
+130	670aa, >A0ABM3TCT6|unreview... at 96.42%
+131	718aa, >A0ABM4ICD0|unreview... at 98.89%
+132	690aa, >A0ABM4MCA1|unreview... at 90.29%
+133	714aa, >A0ABM4MCB0|unreview... at 96.50%
+134	739aa, >A0ABM4MCB1|unreview... at 92.56%
+135	757aa, >A0ABM4T0Z7|unreview... at 93.13%
+136	761aa, >A0ABM5DE54|unreview... at 91.33%
+137	742aa, >A0ABM5DE58|unreview... at 93.80%
+138	718aa, >A0ABN8ZSU5|unreview... at 98.89%
+139	717aa, >A0ABN9Z1E4|unreview... at 96.79%
+140	718aa, >A0AC11BTC1|unreview... at 99.44%
+141	719aa, >A0AC55CVY2|unreview... at 95.97%
+142	670aa, >A0AC55CVY5|unreview... at 94.33%
+143	718aa, >A0AC58M3V3|unreview... at 95.82%
+144	720aa, >A0AC58QH52|unreview... at 97.36%
+145	718aa, >A0AC60A4P9|unreview... at 98.89%
+146	718aa, >A0ACB0FBW6|unreview... at 98.89%
+147	757aa, >F1MNI0|unreviewed|P... at 93.13%
+148	700aa, >F1SFD4|unreviewed|P... at 95.14%
+149	731aa, >F6RI05|unreviewed|P... at 94.12%
+150	718aa, >G1MA06|unreviewed|P... at 97.49%
+151	718aa, >G3QEG9|unreviewed|P... at 97.21%
+152	718aa, >G3TAY4|unreviewed|P... at 97.21%
+153	656aa, >G3U2D4|unreviewed|P... at 95.73%
+154	712aa, >G5BF81|unreviewed|P... at 95.08%
+155	714aa, >H0VRH5|unreviewed|P... at 95.24%
+156	720aa, >H0X122|unreviewed|P... at 92.08%
+157	717aa, >H9ES72|unreviewed|P... at 96.79%
+158	717aa, >K7D9Z0|unreviewed|P... at 97.21%
+159	718aa, >M3Y2C1|unreviewed|P... at 97.49%
+160	711aa, >Q8CBY1|reviewed|Pro... at 95.64%
+161	718aa, >Q95LV5|reviewed|Pro... at 96.24%
+162	718aa, >Q9UPU9|reviewed|Pro... at 97.21%
+163	718aa, >U3DY12|unreviewed|P... at 96.52%
+164	718aa, >U3E0Y5|unreviewed|P... at 96.80%
+>Cluster 96
+0	931aa, >A0A0M3QW88|unreview... *
+>Cluster 97
+0	927aa, >A0AAD4MN98|unreview... *
+>Cluster 98
+0	867aa, >A0A4Y7M1Q0|unreview... at 94.12%
+1	926aa, >A0A4Y7M364|unreview... *
+>Cluster 99
+0	925aa, >A0A3S1A1E5|unreview... *
+1	896aa, >A0AAE1CU84|unreview... at 93.42%
+2	905aa, >A0AAE1CUE5|unreview... at 92.15%
+>Cluster 100
+0	923aa, >A0A336LB92|unreview... *
+>Cluster 101
+0	923aa, >A0A4Y7NIK2|unreview... *
+>Cluster 102
+0	908aa, >Q174C4|unreviewed|P... *
+>Cluster 103
+0	907aa, >A0ABR3KU51|unreview... *
+>Cluster 104
+0	902aa, >A0A158R685|unreview... *
+>Cluster 105
+0	897aa, >A0A4Y7M1H3|unreview... *
+1	830aa, >A0A4Y7M3F6|unreview... at 94.34%
+>Cluster 106
+0	893aa, >A0A7R8YQH6|unreview... *
+>Cluster 107
+0	892aa, >A0A1I7RNW5|unreview... *
+>Cluster 108
+0	694aa, >A0A091CMC0|unreview... at 96.97%
+1	694aa, >A0A0A0MVY1|unreview... at 97.55%
+2	694aa, >A0A0D9QV47|unreview... at 97.55%
+3	695aa, >A0A1U7TD69|unreview... at 97.84%
+4	694aa, >A0A250YKW4|unreview... at 96.83%
+5	677aa, >A0A2I3GLP1|unreview... at 96.16%
+6	627aa, >A0A2I3GSZ0|unreview... at 93.30%
+7	639aa, >A0A2I3H9U2|unreview... at 92.18%
+8	692aa, >A0A2I3LET3|unreview... at 97.69%
+9	686aa, >A0A2I3RY15|unreview... at 97.67%
+10	692aa, >A0A2K5EQ33|unreview... at 96.97%
+11	687aa, >A0A2K5EQ73|unreview... at 96.94%
+12	694aa, >A0A2K5EQ75|unreview... at 96.83%
+13	694aa, >A0A2K5HKI7|unreview... at 97.41%
+14	694aa, >A0A2K5NF99|unreview... at 97.55%
+15	694aa, >A0A2K5RGQ6|unreview... at 97.26%
+16	692aa, >A0A2K5RGS7|unreview... at 97.40%
+17	687aa, >A0A2K5RGW3|unreview... at 97.38%
+18	694aa, >A0A2K5XBZ0|unreview... at 97.55%
+19	694aa, >A0A2K6GV28|unreview... at 97.84%
+20	694aa, >A0A2K6KX03|unreview... at 97.41%
+21	687aa, >A0A2K6KX52|unreview... at 97.53%
+22	687aa, >A0A2K6NSP2|unreview... at 97.53%
+23	694aa, >A0A2K6NSQ2|unreview... at 97.41%
+24	687aa, >A0A2K6UWV7|unreview... at 97.23%
+25	694aa, >A0A2K6UX06|unreview... at 96.97%
+26	686aa, >A0A2R9CF22|unreview... at 97.67%
+27	392aa, >A0A2U3YIQ5|unreview... at 97.96%
+28	695aa, >A0A2Y9E820|unreview... at 95.68%
+29	695aa, >A0A2Y9LGF1|unreview... at 98.71%
+30	695aa, >A0A2Y9P2U8|unreview... at 97.84%
+31	611aa, >A0A2Y9TDE4|unreview... at 90.83%
+32	695aa, >A0A2Y9TFK3|unreview... at 97.84%
+33	695aa, >A0A340YH74|unreview... at 96.69%
+34	670aa, >A0A341DAY6|unreview... at 98.51%
+35	695aa, >A0A384BXM9|unreview... at 98.71%
+36	751aa, >A0A3Q1MC91|unreview... at 91.34%
+37	695aa, >A0A3Q7P4B3|unreview... at 98.56%
+38	695aa, >A0A452G928|unreview... at 96.83%
+39	705aa, >A0A452G9I9|unreview... at 95.46%
+40	698aa, >A0A452G9K8|unreview... at 95.56%
+41	695aa, >A0A452R249|unreview... at 98.71%
+42	672aa, >A0A455AB18|unreview... at 92.11%
+43	714aa, >A0A455AD71|unreview... at 95.52%
+44	685aa, >A0A484H5S6|unreview... at 97.81%
+45	703aa, >A0A485NLU8|unreview... at 98.15%
+46	693aa, >A0A485NP82|unreview... at 99.13%
+47	499aa, >A0A485NQJ3|unreview... at 97.19%
+48	695aa, >A0A485NS53|unreview... at 99.14%
+49	687aa, >A0A4U1ETX9|unreview... at 97.96%
+50	664aa, >A0A4W2CH55|unreview... at 91.27%
+51	693aa, >A0A4W2EA34|unreview... at 96.97%
+52	695aa, >A0A4W2FUN3|unreview... at 96.83%
+53	688aa, >A0A4X2M2P8|unreview... at 91.72%
+54	703aa, >A0A4X2MAH8|unreview... at 90.18%
+55	693aa, >A0A5F5PKK7|unreview... at 97.98%
+56	696aa, >A0A5J5MP72|unreview... at 96.98%
+57	696aa, >A0A5N3VJ62|unreview... at 97.13%
+58	695aa, >A0A5N4DQY9|unreview... at 97.12%
+59	695aa, >A0A667IHX8|unreview... at 99.14%
+60	694aa, >A0A671G5W2|unreview... at 97.41%
+61	692aa, >A0A671G6E6|unreview... at 97.69%
+62	697aa, >A0A673UFM1|unreview... at 97.70%
+63	695aa, >A0A673UPX1|unreview... at 97.99%
+64	686aa, >A0A6G1AKT0|unreview... at 98.83%
+65	695aa, >A0A6J1Y665|unreview... at 99.14%
+66	695aa, >A0A6J2F2L1|unreview... at 98.56%
+67	696aa, >A0A6J2N618|unreview... at 96.41%
+68	694aa, >A0A6J3FH04|unreview... at 97.26%
+69	695aa, >A0A6J3QIF4|unreview... at 97.55%
+70	695aa, >A0A6P3HY23|unreview... at 96.83%
+71	695aa, >A0A6P3QUB7|unreview... at 96.69%
+72	695aa, >A0A6P3YMJ9|unreview... at 96.83%
+73	695aa, >A0A6P5DCG5|unreview... at 96.83%
+74	683aa, >A0A6P5JS85|unreview... at 90.78%
+75	695aa, >A0A6P6H4W9|unreview... at 99.14%
+76	741aa, >A0A7E6CLD4|unreview... at 92.31%
+77	640aa, >A0A7E6CLE4|unreview... at 91.25%
+78	672aa, >A0A7J7F8Q5|unreview... at 96.73%
+79	696aa, >A0A7J7SDA6|unreview... at 94.97%
+80	696aa, >A0A7J7SP05|unreview... at 94.54%
+81	694aa, >A0A7J7SPM7|unreview... at 94.81%
+82	695aa, >A0A7J8CAR9|unreview... at 96.40%
+83	594aa, >A0A7J8CAS3|unreview... at 95.96%
+84	693aa, >A0A7J8CAU4|unreview... at 96.68%
+85	216aa, >A0A7J8CLC1|unreview... at 95.37%
+86	595aa, >A0A7J8CLE9|unreview... at 96.47%
+87	696aa, >A0A7J8CLM2|unreview... at 96.84%
+88	694aa, >A0A7J8CLN8|unreview... at 96.83%
+89	688aa, >A0A7N4PLF6|unreview... at 92.01%
+90	693aa, >A0A7N5K4K5|unreview... at 98.70%
+91	695aa, >A0A811ZU08|unreview... at 98.56%
+92	690aa, >A0A833YPA3|unreview... at 96.96%
+93	694aa, >A0A834DFX8|unreview... at 96.54%
+94	694aa, >A0A834DIJ8|unreview... at 96.40%
+95	697aa, >A0A8B7B914|unreview... at 95.84%
+96	695aa, >A0A8B7K5V7|unreview... at 97.12%
+97	593aa, >A0A8B7TYP6|unreview... at 96.29%
+98	594aa, >A0A8B8TI97|unreview... at 96.63%
+99	612aa, >A0A8B8VT24|unreview... at 90.85%
+100	696aa, >A0A8B8VTN9|unreview... at 97.84%
+101	695aa, >A0A8B9YMG6|unreview... at 96.83%
+102	692aa, >A0A8B9YR29|unreview... at 96.97%
+103	694aa, >A0A8B9YR76|unreview... at 96.83%
+104	663aa, >A0A8B9YWF9|unreview... at 91.25%
+105	694aa, >A0A8C0E2S5|unreview... at 97.98%
+106	695aa, >A0A8C0KTI1|unreview... at 98.56%
+107	677aa, >A0A8C0R1X3|unreview... at 98.67%
+108	693aa, >A0A8C0R280|unreview... at 98.85%
+109	693aa, >A0A8C0R9E4|unreview... at 98.85%
+110	695aa, >A0A8C0R9E6|unreview... at 98.56%
+111	687aa, >A0A8C0WE70|unreview... at 96.80%
+112	694aa, >A0A8C2YR72|unreview... at 97.69%
+113	676aa, >A0A8C4LXW3|unreview... at 96.75%
+114	695aa, >A0A8C4LZ79|unreview... at 97.70%
+115	694aa, >A0A8C5KK91|unreview... at 95.82%
+116	688aa, >A0A8C5KMU3|unreview... at 95.93%
+117	694aa, >A0A8C5UTJ8|unreview... at 97.98%
+118	694aa, >A0A8C6A7J9|unreview... at 97.41%
+119	693aa, >A0A8C6AFJ7|unreview... at 97.98%
+120	695aa, >A0A8C6AJ80|unreview... at 97.84%
+121	693aa, >A0A8C6CJB7|unreview... at 97.26%
+122	695aa, >A0A8C6CMX1|unreview... at 97.12%
+123	694aa, >A0A8C6RME7|unreview... at 96.83%
+124	695aa, >A0A8C7EP74|unreview... at 98.56%
+125	693aa, >A0A8C7EPF8|unreview... at 98.70%
+126	693aa, >A0A8C8X4J5|unreview... at 99.28%
+127	695aa, >A0A8C8X603|unreview... at 98.99%
+128	692aa, >A0A8C9AHD8|unreview... at 98.12%
+129	694aa, >A0A8C9AQ15|unreview... at 97.98%
+130	700aa, >A0A8C9ECB8|unreview... at 98.43%
+131	695aa, >A0A8C9ECD7|unreview... at 97.55%
+132	692aa, >A0A8C9IVJ6|unreview... at 97.40%
+133	694aa, >A0A8C9J063|unreview... at 97.26%
+134	693aa, >A0A8C9JIN5|unreview... at 97.98%
+135	695aa, >A0A8C9JL37|unreview... at 97.70%
+136	694aa, >A0A8D2E0C8|unreview... at 97.26%
+137	694aa, >A0A8D2E7S6|unreview... at 97.55%
+138	694aa, >A0A8D2IEC3|unreview... at 97.55%
+139	699aa, >A0A8D2INH2|unreview... at 97.14%
+140	692aa, >A0A8D2JSZ2|unreview... at 97.54%
+141	693aa, >A0A8I3MT31|unreview... at 98.56%
+142	692aa, >A0A8J8YHI5|unreview... at 97.25%
+143	667aa, >A0A8M1M0D4|unreview... at 98.65%
+144	695aa, >A0A8M1M2Y1|unreview... at 98.56%
+145	693aa, >A0A8P0SB08|unreview... at 98.56%
+146	594aa, >A0A8U0RXW6|unreview... at 98.32%
+147	611aa, >A0A8U0UZP8|unreview... at 91.65%
+148	695aa, >A0A9B0LGW2|unreview... at 98.13%
+149	693aa, >A0A9B0WY92|unreview... at 95.38%
+150	695aa, >A0A9W2VTG6|unreview... at 98.99%
+151	695aa, >A0A9W3EEF0|unreview... at 96.98%
+152	695aa, >A0A9W3FU91|unreview... at 96.98%
+153	691aa, >A0A9X9LGA1|unreview... at 97.68%
+154	694aa, >A0AA41N0F4|unreview... at 97.12%
+155	695aa, >A0AAD4Y4S9|unreview... at 96.83%
+156	691aa, >A0AAX6RE07|unreview... at 96.09%
+157	692aa, >A0AAX6RHG8|unreview... at 96.39%
+158	696aa, >A0AB34GG77|unreview... at 97.70%
+159	694aa, >A0ABD2D933|unreview... at 98.27%
+160	692aa, >A0ABD2D979|unreview... at 98.27%
+161	676aa, >A0ABD2D9E5|unreview... at 97.34%
+162	692aa, >A0ABD2D9F1|unreview... at 98.41%
+163	693aa, >A0ABI7X2Y7|unreview... at 99.42%
+164	675aa, >A0ABI7X2Z5|unreview... at 97.48%
+165	700aa, >A0ABI7X322|unreview... at 98.71%
+166	695aa, >A0ABI7X361|unreview... at 99.14%
+167	891aa, >A0ABI7X3N3|unreview... *
+168	695aa, >A0ABM0IXX4|unreview... at 94.39%
+169	694aa, >A0ABM0RI72|unreview... at 97.69%
+170	687aa, >A0ABM0RI78|unreview... at 98.25%
+171	695aa, >A0ABM1DIH2|unreview... at 97.27%
+172	612aa, >A0ABM3SJ71|unreview... at 90.69%
+173	595aa, >A0ABM3SJ72|unreview... at 97.31%
+174	696aa, >A0ABM3SJ76|unreview... at 97.70%
+175	708aa, >A0ABM3WZ98|unreview... at 94.63%
+176	695aa, >A0ABM4GUM4|unreview... at 96.83%
+177	695aa, >A0ABM4JD05|unreview... at 97.99%
+178	693aa, >A0ABM4JD17|unreview... at 98.12%
+179	695aa, >A0ABM5A0L5|unreview... at 98.56%
+180	695aa, >A0ABM5DQL5|unreview... at 97.12%
+181	594aa, >A0ABM5DQL9|unreview... at 96.63%
+182	695aa, >A0ABN8YJA1|unreview... at 97.27%
+183	696aa, >A0ABN9ZFG3|unreview... at 94.68%
+184	753aa, >A0AC11CLM5|unreview... at 90.57%
+185	713aa, >A0AC11CMR2|unreview... at 94.95%
+186	695aa, >A0AC11EPM2|unreview... at 96.83%
+187	693aa, >A0AC55DAB1|unreview... at 94.52%
+188	594aa, >A0AC58QU13|unreview... at 96.63%
+189	695aa, >A0AC58QU19|unreview... at 97.12%
+190	695aa, >A0AC59YUL7|unreview... at 97.27%
+191	695aa, >A0ACB0EAB9|unreview... at 97.27%
+192	695aa, >A0ACB9UJD9|unreview... at 96.83%
+193	695aa, >E1B893|unreviewed|S... at 96.69%
+194	684aa, >F6W5T3|unreviewed|S... at 90.94%
+195	695aa, >G1LPQ6|unreviewed|S... at 98.56%
+196	696aa, >G1NYZ5|unreviewed|S... at 95.26%
+197	679aa, >G1RWF5|unreviewed|S... at 96.02%
+198	695aa, >G3T8H6|unreviewed|S... at 95.40%
+199	628aa, >G3W4G3|unreviewed|S... at 90.45%
+200	694aa, >G5BJE2|unreviewed|S... at 96.11%
+201	411aa, >G9KMC4|unreviewed|S... at 97.32%
+202	692aa, >H0V6M8|unreviewed|S... at 97.25%
+203	694aa, >I3M275|unreviewed|P... at 97.41%
+204	694aa, >K9IZ89|unreviewed|S... at 96.11%
+205	696aa, >K9IZ91|unreviewed|S... at 96.12%
+206	695aa, >L8IVV8|unreviewed|S... at 96.83%
+207	695aa, >M3Z206|unreviewed|S... at 98.56%
+208	696aa, >S7PFX6|unreviewed|S... at 95.11%
+209	694aa, >U3E243|unreviewed|S... at 97.12%
+210	291aa, >U6D3F6|unreviewed|P... at 99.31%
+>Cluster 109
+0	889aa, >A0AAV4JSR3|unreview... *
+>Cluster 110
+0	878aa, >A0A5C6NKF6|unreview... *
+1	622aa, >A0A6I9Q5B5|unreview... at 90.35%
+2	214aa, >H3C7T7|unreviewed|S... at 91.59%
+>Cluster 111
+0	876aa, >A0A9N9RNM5|unreview... *
+>Cluster 112
+0	876aa, >B0WDN0|unreviewed|P... *
+>Cluster 113
+0	872aa, >A0A4Y7MPX8|unreview... *
+>Cluster 114
+0	866aa, >B7Q1W7|unreviewed|S... *
+>Cluster 115
+0	504aa, >A0A091KQY3|unreview... at 94.44%
+1	404aa, >A0A091R414|unreview... at 96.53%
+2	477aa, >A0A093J2E0|unreview... at 96.23%
+3	164aa, >A0A7K4S5B5|unreview... at 93.90%
+4	164aa, >A0A7K4SRT7|unreview... at 95.73%
+5	169aa, >A0A7K4VN12|unreview... at 94.08%
+6	164aa, >A0A7K4XKU8|unreview... at 93.90%
+7	164aa, >A0A7K5A9E6|unreview... at 92.07%
+8	164aa, >A0A7K5AMV5|unreview... at 94.51%
+9	164aa, >A0A7K5DVB4|unreview... at 96.34%
+10	164aa, >A0A7K5I592|unreview... at 94.51%
+11	164aa, >A0A7K5LC26|unreview... at 96.95%
+12	164aa, >A0A7K5PLB2|unreview... at 96.95%
+13	164aa, >A0A7K5VR20|unreview... at 96.95%
+14	708aa, >A0A7K6CRA5|unreview... at 90.25%
+15	708aa, >A0A7K6ELJ9|unreview... at 90.40%
+16	164aa, >A0A7K6KMN6|unreview... at 96.95%
+17	164aa, >A0A7K6LDC2|unreview... at 96.95%
+18	164aa, >A0A7K6M265|unreview... at 96.95%
+19	164aa, >A0A7K6NF15|unreview... at 94.51%
+20	708aa, >A0A7K6PH65|unreview... at 90.54%
+21	164aa, >A0A7K6TTE0|unreview... at 94.51%
+22	164aa, >A0A7K6XXG7|unreview... at 96.34%
+23	708aa, >A0A7K7C9V7|unreview... at 90.25%
+24	167aa, >A0A7K7D567|unreview... at 94.61%
+25	164aa, >A0A7K7EL26|unreview... at 96.95%
+26	630aa, >A0A7K7G866|unreview... at 96.03%
+27	164aa, >A0A7K7LYP0|unreview... at 97.56%
+28	164aa, >A0A7K7PTA1|unreview... at 96.34%
+29	708aa, >A0A7K7QVL5|unreview... at 90.82%
+30	169aa, >A0A7K7RI14|unreview... at 93.49%
+31	705aa, >A0A7K7TCM0|unreview... at 90.64%
+32	708aa, >A0A7K7X0E1|unreview... at 90.54%
+33	164aa, >A0A7K8AQG2|unreview... at 96.34%
+34	707aa, >A0A7K8E0M2|unreview... at 90.38%
+35	164aa, >A0A7K8FXU8|unreview... at 96.34%
+36	164aa, >A0A7K8HBH6|unreview... at 96.95%
+37	164aa, >A0A7K8J057|unreview... at 96.95%
+38	164aa, >A0A7K8MJV5|unreview... at 97.56%
+39	705aa, >A0A7K8QUK5|unreview... at 90.50%
+40	164aa, >A0A7K8XEA3|unreview... at 95.12%
+41	164aa, >A0A7K8ZLK0|unreview... at 95.12%
+42	164aa, >A0A7K9BSZ5|unreview... at 94.51%
+43	704aa, >A0A7K9LTP0|unreview... at 90.62%
+44	708aa, >A0A7K9N4J0|unreview... at 90.68%
+45	164aa, >A0A7K9P5G7|unreview... at 96.95%
+46	705aa, >A0A7K9QSP2|unreview... at 90.07%
+47	164aa, >A0A7K9SED9|unreview... at 94.51%
+48	128aa, >A0A7K9UGN9|unreview... at 93.75%
+49	164aa, >A0A7K9Z085|unreview... at 90.85%
+50	164aa, >A0A7L0FUP8|unreview... at 94.51%
+51	164aa, >A0A7L0J1Z2|unreview... at 93.29%
+52	161aa, >A0A7L0LC11|unreview... at 96.89%
+53	167aa, >A0A7L0QR44|unreview... at 94.01%
+54	164aa, >A0A7L1FXX0|unreview... at 94.51%
+55	164aa, >A0A7L1TRH9|unreview... at 97.56%
+56	164aa, >A0A7L2A7H4|unreview... at 95.73%
+57	164aa, >A0A7L2CUT6|unreview... at 97.56%
+58	168aa, >A0A7L2FUB7|unreview... at 94.64%
+59	164aa, >A0A7L2IE49|unreview... at 95.12%
+60	709aa, >A0A7L2J685|unreview... at 90.41%
+61	166aa, >A0A7L2L1S8|unreview... at 95.18%
+62	164aa, >A0A7L2NXB5|unreview... at 97.56%
+63	164aa, >A0A7L2T1Y9|unreview... at 96.95%
+64	164aa, >A0A7L2Z4L1|unreview... at 94.51%
+65	162aa, >A0A7L3A0R7|unreview... at 97.53%
+66	164aa, >A0A7L3E850|unreview... at 95.73%
+67	164aa, >A0A7L3HWY4|unreview... at 97.56%
+68	164aa, >A0A7L3KE03|unreview... at 96.34%
+69	165aa, >A0A7L3L7X8|unreview... at 91.52%
+70	164aa, >A0A7L3P9A3|unreview... at 93.90%
+71	187aa, >A0A7L3PEF4|unreview... at 92.51%
+72	164aa, >A0A7L3Q530|unreview... at 96.95%
+73	168aa, >A0A7L3VYC0|unreview... at 94.64%
+74	164aa, >A0A7L3Z862|unreview... at 95.12%
+75	164aa, >A0A7L4GX32|unreview... at 95.12%
+76	164aa, >A0A7L4HPE9|unreview... at 95.73%
+77	164aa, >A0A7L4KMS5|unreview... at 96.95%
+78	864aa, >A0A835TQS6|unreview... *
+79	161aa, >A0A850VH38|unreview... at 96.89%
+80	164aa, >A0A850XMK5|unreview... at 92.68%
+81	164aa, >A0A850Z3C4|unreview... at 95.12%
+82	164aa, >A0A851AWJ3|unreview... at 96.95%
+83	708aa, >A0A851JPN7|unreview... at 90.25%
+84	164aa, >A0A851K1Y8|unreview... at 97.56%
+85	108aa, >A0A851LSM8|unreview... at 95.37%
+86	204aa, >A0A851ME74|unreview... at 98.53%
+87	164aa, >A0A851R923|unreview... at 93.90%
+88	706aa, >A0A851SCA2|unreview... at 90.65%
+89	705aa, >A0A851UA52|unreview... at 90.21%
+90	708aa, >A0A851WQA8|unreview... at 90.54%
+91	169aa, >A0A852A1T6|unreview... at 91.72%
+92	706aa, >A0A852B4V7|unreview... at 90.79%
+93	164aa, >A0A852BXL1|unreview... at 95.12%
+94	170aa, >A0A852D8X7|unreview... at 92.35%
+95	164aa, >A0A852J9C5|unreview... at 93.29%
+96	164aa, >A0A852M200|unreview... at 90.85%
+97	164aa, >A0A852MU48|unreview... at 96.95%
+98	164aa, >A0A852NS36|unreview... at 95.12%
+99	732aa, >A0A8C0U5R4|unreview... at 91.39%
+100	705aa, >A0A8C0U609|unreview... at 90.07%
+101	706aa, >A0A8C3KWB8|unreview... at 91.78%
+102	738aa, >A0A8C3RCS5|unreview... at 90.51%
+103	735aa, >A0A8C3U262|unreview... at 91.56%
+104	609aa, >A0A8C3U5K2|unreview... at 97.54%
+105	229aa, >A0A8D0FZU0|unreview... at 93.01%
+106	734aa, >A0A8U7NJK0|unreview... at 90.87%
+107	708aa, >A0AA97N7P0|unreview... at 90.40%
+>Cluster 116
+0	857aa, >A0A4Y7MXV2|unreview... *
+>Cluster 117
+0	857aa, >A0A9J2PFL8|unreview... *
+>Cluster 118
+0	722aa, >A0A7R8VLM3|unreview... at 95.43%
+1	289aa, >A0A7R9C985|unreview... at 98.27%
+2	706aa, >A0A7R9CF34|unreview... at 97.88%
+3	798aa, >A0A7R9FUH1|unreview... at 96.74%
+4	704aa, >A0A7R9IJQ3|unreview... at 96.73%
+5	856aa, >A0A7R9P400|unreview... *
+>Cluster 119
+0	853aa, >A0A816WLL2|unreview... at 90.97%
+1	855aa, >A0A818M130|unreview... *
+2	853aa, >A0A818ZFD0|unreview... at 91.21%
+3	853aa, >A0A820D796|unreview... at 91.09%
+4	855aa, >A0A821M8R3|unreview... at 99.88%
+5	265aa, >A0A8S3EA29|unreview... at 91.70%
+6	363aa, >A0A8S3F4F0|unreview... at 91.46%
+>Cluster 120
+0	743aa, >A0AAJ7SR81|unreview... at 91.92%
+1	854aa, >A0AAJ7SRB2|unreview... at 100.00%
+2	855aa, >A0AAJ7SRD2|unreview... *
+3	848aa, >A0AAJ7SRE1|unreview... at 100.00%
+>Cluster 121
+0	855aa, >A0AAV7K8C7|unreview... *
+>Cluster 122
+0	853aa, >A0A814IW20|unreview... *
+1	853aa, >A0A814TCT5|unreview... at 99.53%
+2	852aa, >A0A814UWS8|unreview... at 99.53%
+3	853aa, >A0A815H7P7|unreview... at 99.65%
+4	853aa, >A0A819IBI4|unreview... at 99.41%
+>Cluster 123
+0	852aa, >A0AAN8JNR8|unreview... *
+>Cluster 124
+0	851aa, >A0A7R9A4U3|unreview... *
+>Cluster 125
+0	454aa, >A0A087V6C2|unreview... at 99.34%
+1	686aa, >A0A091H3S0|unreview... at 91.25%
+2	703aa, >A0A091IW61|unreview... at 90.75%
+3	164aa, >A0A091LB86|unreview... at 98.78%
+4	164aa, >A0A091NZG1|unreview... at 98.17%
+5	558aa, >A0A091PCY9|unreview... at 99.46%
+6	695aa, >A0A091RX94|unreview... at 93.53%
+7	558aa, >A0A091TPU5|unreview... at 98.92%
+8	487aa, >A0A091U8Q6|unreview... at 97.95%
+9	705aa, >A0A091VRF7|unreview... at 93.05%
+10	633aa, >A0A093CNF0|unreview... at 94.15%
+11	162aa, >A0A093ERG7|unreview... at 97.53%
+12	666aa, >A0A093HI04|unreview... at 91.44%
+13	98aa, >A0A093I8Y1|unreview... at 98.98%
+14	705aa, >A0A093J778|unreview... at 92.06%
+15	708aa, >A0A093PTY3|unreview... at 92.09%
+16	558aa, >A0A093R5L0|unreview... at 99.46%
+17	98aa, >A0A094KZ15|unreview... at 96.94%
+18	698aa, >A0A0A0B3M3|unreview... at 91.98%
+19	705aa, >A0A0Q3U3L9|unreview... at 93.05%
+20	705aa, >A0A1V4KBN1|unreview... at 92.77%
+21	705aa, >A0A663E2E3|unreview... at 92.77%
+22	705aa, >A0A669QSN4|unreview... at 91.91%
+23	705aa, >A0A672TSS5|unreview... at 93.05%
+24	705aa, >A0A6J0IZU1|unreview... at 92.62%
+25	734aa, >A0A6J0J044|unreview... at 92.37%
+26	633aa, >A0A6J0J274|unreview... at 91.15%
+27	734aa, >A0A6J2GXN4|unreview... at 92.51%
+28	705aa, >A0A6J2GY99|unreview... at 92.62%
+29	705aa, >A0A6J3D6L7|unreview... at 92.06%
+30	164aa, >A0A7K4KLA7|unreview... at 92.07%
+31	705aa, >A0A7K4LKV6|unreview... at 92.77%
+32	716aa, >A0A7K4QMZ4|unreview... at 92.18%
+33	716aa, >A0A7K4WSP9|unreview... at 92.18%
+34	705aa, >A0A7K4YC31|unreview... at 94.33%
+35	164aa, >A0A7K5D0G6|unreview... at 98.17%
+36	164aa, >A0A7K5FZS5|unreview... at 99.39%
+37	164aa, >A0A7K5GS52|unreview... at 99.39%
+38	707aa, >A0A7K5J3Q0|unreview... at 90.81%
+39	717aa, >A0A7K5K3C6|unreview... at 91.77%
+40	164aa, >A0A7K5NTH6|unreview... at 99.39%
+41	710aa, >A0A7K5T5C5|unreview... at 90.70%
+42	716aa, >A0A7K5UNE1|unreview... at 90.78%
+43	164aa, >A0A7K5XBJ4|unreview... at 100.00%
+44	164aa, >A0A7K5Z640|unreview... at 98.78%
+45	714aa, >A0A7K5ZYG5|unreview... at 92.16%
+46	720aa, >A0A7K6B4D0|unreview... at 90.42%
+47	705aa, >A0A7K6C5U3|unreview... at 92.20%
+48	708aa, >A0A7K6H2G4|unreview... at 92.94%
+49	715aa, >A0A7K6QRT9|unreview... at 90.63%
+50	705aa, >A0A7K6S9R6|unreview... at 94.04%
+51	164aa, >A0A7K6TDG8|unreview... at 99.39%
+52	555aa, >A0A7K6WLR3|unreview... at 91.89%
+53	164aa, >A0A7K6YC66|unreview... at 100.00%
+54	705aa, >A0A7K6ZSX3|unreview... at 92.34%
+55	705aa, >A0A7K7ATY7|unreview... at 92.34%
+56	164aa, >A0A7K7F2G7|unreview... at 100.00%
+57	705aa, >A0A7K7L513|unreview... at 93.48%
+58	705aa, >A0A7K7NHR7|unreview... at 94.18%
+59	164aa, >A0A7K7U565|unreview... at 100.00%
+60	705aa, >A0A7K7V2N2|unreview... at 92.06%
+61	164aa, >A0A7K7W9P4|unreview... at 93.29%
+62	164aa, >A0A7K8KBY2|unreview... at 99.39%
+63	164aa, >A0A7K8L058|unreview... at 99.39%
+64	718aa, >A0A7K8NEK5|unreview... at 91.36%
+65	164aa, >A0A7K8PPE7|unreview... at 99.39%
+66	164aa, >A0A7K8T7G0|unreview... at 98.17%
+67	164aa, >A0A7K8TRU3|unreview... at 99.39%
+68	715aa, >A0A7K8UZU3|unreview... at 90.91%
+69	164aa, >A0A7K8WQS5|unreview... at 98.78%
+70	718aa, >A0A7K9B806|unreview... at 91.36%
+71	166aa, >A0A7K9DMA7|unreview... at 98.19%
+72	164aa, >A0A7K9EAR9|unreview... at 98.78%
+73	164aa, >A0A7K9F748|unreview... at 98.78%
+74	708aa, >A0A7K9HLM6|unreview... at 92.09%
+75	709aa, >A0A7K9KAD9|unreview... at 91.96%
+76	167aa, >A0A7K9RCE8|unreview... at 95.81%
+77	720aa, >A0A7K9UTL7|unreview... at 90.42%
+78	696aa, >A0A7K9XC83|unreview... at 94.25%
+79	705aa, >A0A7K9ZUK9|unreview... at 91.77%
+80	705aa, >A0A7L0BV29|unreview... at 94.04%
+81	164aa, >A0A7L0DHM2|unreview... at 98.78%
+82	164aa, >A0A7L0E9I7|unreview... at 98.78%
+83	705aa, >A0A7L0G3J2|unreview... at 93.90%
+84	164aa, >A0A7L0HJR2|unreview... at 99.39%
+85	718aa, >A0A7L0KJZ9|unreview... at 91.64%
+86	164aa, >A0A7L0M6T1|unreview... at 99.39%
+87	705aa, >A0A7L0P8B2|unreview... at 94.33%
+88	705aa, >A0A7L0RQ82|unreview... at 94.47%
+89	705aa, >A0A7L0STC6|unreview... at 94.33%
+90	164aa, >A0A7L0UM65|unreview... at 98.78%
+91	164aa, >A0A7L0W3T2|unreview... at 96.34%
+92	164aa, >A0A7L0XLJ2|unreview... at 98.17%
+93	710aa, >A0A7L1A0X7|unreview... at 91.27%
+94	705aa, >A0A7L1CLJ1|unreview... at 92.48%
+95	705aa, >A0A7L1E191|unreview... at 90.07%
+96	164aa, >A0A7L1H6F5|unreview... at 98.78%
+97	164aa, >A0A7L1IM56|unreview... at 98.78%
+98	164aa, >A0A7L1JRB7|unreview... at 99.39%
+99	164aa, >A0A7L1LA25|unreview... at 100.00%
+100	705aa, >A0A7L1NT94|unreview... at 91.91%
+101	705aa, >A0A7L1SHE4|unreview... at 92.62%
+102	705aa, >A0A7L1X015|unreview... at 92.20%
+103	700aa, >A0A7L1YZ86|unreview... at 92.14%
+104	164aa, >A0A7L2B732|unreview... at 96.95%
+105	705aa, >A0A7L2EPA3|unreview... at 92.06%
+106	164aa, >A0A7L2GTK9|unreview... at 98.17%
+107	164aa, >A0A7L2I496|unreview... at 98.78%
+108	164aa, >A0A7L2UTR0|unreview... at 99.39%
+109	164aa, >A0A7L2V1B9|unreview... at 95.73%
+110	705aa, >A0A7L2WX80|unreview... at 94.18%
+111	164aa, >A0A7L3B8M7|unreview... at 98.78%
+112	705aa, >A0A7L3CIH1|unreview... at 94.18%
+113	164aa, >A0A7L3CSH0|unreview... at 99.39%
+114	164aa, >A0A7L3G1B2|unreview... at 98.17%
+115	705aa, >A0A7L3J4V4|unreview... at 93.05%
+116	164aa, >A0A7L3NF43|unreview... at 96.95%
+117	705aa, >A0A7L3RK57|unreview... at 94.04%
+118	164aa, >A0A7L3SWD9|unreview... at 100.00%
+119	164aa, >A0A7L3U612|unreview... at 100.00%
+120	164aa, >A0A7L4A190|unreview... at 98.78%
+121	164aa, >A0A7L4BGF9|unreview... at 99.39%
+122	705aa, >A0A7L4CFD4|unreview... at 92.34%
+123	164aa, >A0A7L4DJR6|unreview... at 99.39%
+124	719aa, >A0A7L4F6K2|unreview... at 91.79%
+125	164aa, >A0A7L4MG19|unreview... at 100.00%
+126	705aa, >A0A850TLC1|unreview... at 94.04%
+127	705aa, >A0A850W548|unreview... at 92.91%
+128	699aa, >A0A850YIX2|unreview... at 91.70%
+129	164aa, >A0A851DP03|unreview... at 98.17%
+130	698aa, >A0A851P7F1|unreview... at 91.98%
+131	164aa, >A0A851QAQ0|unreview... at 98.17%
+132	705aa, >A0A851T6P0|unreview... at 92.91%
+133	705aa, >A0A851XB75|unreview... at 94.18%
+134	164aa, >A0A851ZH53|unreview... at 98.78%
+135	706aa, >A0A852G1A5|unreview... at 91.64%
+136	705aa, >A0A852G4N4|unreview... at 94.18%
+137	705aa, >A0A852KX67|unreview... at 93.62%
+138	604aa, >A0A8B9C769|unreview... at 90.89%
+139	705aa, >A0A8B9D659|unreview... at 92.20%
+140	705aa, >A0A8B9FM62|unreview... at 93.05%
+141	670aa, >A0A8B9NGX8|unreview... at 93.58%
+142	705aa, >A0A8B9TRY9|unreview... at 91.77%
+143	705aa, >A0A8B9ZPM9|unreview... at 92.20%
+144	732aa, >A0A8C0B5F9|unreview... at 92.76%
+145	716aa, >A0A8C0B6G7|unreview... at 92.04%
+146	850aa, >A0A8C0EZ44|unreview... *
+147	601aa, >A0A8C0HKS8|unreview... at 92.35%
+148	695aa, >A0A8C0Z8S4|unreview... at 90.50%
+149	705aa, >A0A8C2Y7Z9|unreview... at 91.91%
+150	730aa, >A0A8C3CHU0|unreview... at 91.37%
+151	705aa, >A0A8C4U7B6|unreview... at 92.77%
+152	732aa, >A0A8C6ZWB9|unreview... at 90.16%
+153	705aa, >A0A8C7EH87|unreview... at 90.92%
+154	705aa, >A0A8C8AVJ7|unreview... at 93.19%
+155	716aa, >A0A8D0FT60|unreview... at 92.46%
+156	716aa, >A0A8D0FZS0|unreview... at 91.20%
+157	164aa, >A0A8J4I805|unreview... at 99.39%
+158	164aa, >A0A8J4PDX9|unreview... at 99.39%
+159	164aa, >A0A8S9F036|unreview... at 99.39%
+160	732aa, >A0A8V0ZEY7|unreview... at 91.26%
+161	734aa, >A0A8V5H7F3|unreview... at 92.78%
+162	164aa, >A0AA40GUC8|unreview... at 99.39%
+163	705aa, >A0ABC9X0E9|unreview... at 92.77%
+164	705aa, >G1NLQ5|unreviewed|P... at 92.06%
+>Cluster 126
+0	723aa, >A0A091IG39|unreview... at 90.73%
+1	468aa, >A0A091SGP9|unreview... at 97.01%
+2	400aa, >A0A226MES7|unreview... at 92.00%
+3	378aa, >A0A2P4SV55|unreview... at 96.03%
+4	794aa, >A0A493TXJ4|unreview... at 93.07%
+5	701aa, >A0A6P7Z0Y0|unreview... at 90.16%
+6	721aa, >A0A7L0AYD7|unreview... at 94.45%
+7	721aa, >A0A851AGP2|unreview... at 92.79%
+8	684aa, >A0A8B9C5C8|unreview... at 93.57%
+9	846aa, >A0A8B9D3M7|unreview... *
+10	677aa, >A0A8C3KVC7|unreview... at 93.06%
+11	479aa, >A0A8C3LEY5|unreview... at 92.07%
+12	692aa, >A0A8C4JVR2|unreview... at 91.04%
+13	708aa, >A0A8C5T942|unreview... at 91.95%
+14	604aa, >A0A8C5TDY3|unreview... at 94.04%
+15	705aa, >A0A8C5X1F4|unreview... at 91.91%
+16	625aa, >A0A8C6J0H8|unreview... at 95.52%
+17	600aa, >A0A8D0FY94|unreview... at 93.33%
+18	728aa, >A0A8D0L3R0|unreview... at 90.25%
+19	716aa, >A0A8D2P9M0|unreview... at 95.11%
+20	738aa, >A0A8K1GEL9|unreview... at 94.17%
+21	705aa, >A0AA97KQI0|unreview... at 90.21%
+22	705aa, >A0ABM1JNF3|unreview... at 90.07%
+23	683aa, >R0KZ23|unreviewed|P... at 93.70%
+>Cluster 127
+0	846aa, >A0A8S3ZJG9|unreview... *
+>Cluster 128
+0	845aa, >A0A0N8JYM9|unreview... *
+1	682aa, >A0A8C9RNW5|unreview... at 91.35%
+2	678aa, >A0A8C9RPG6|unreview... at 91.15%
+>Cluster 129
+0	844aa, >A0A315VZZ4|unreview... *
+>Cluster 130
+0	844aa, >A0A498L7L2|unreview... *
+>Cluster 131
+0	844aa, >A0A4Z2BG68|unreview... *
+>Cluster 132
+0	843aa, >A0A813U019|unreview... *
+1	607aa, >A0A814PVL0|unreview... at 97.36%
+2	689aa, >A0A815DLB6|unreview... at 92.74%
+3	724aa, >A0A815LU42|unreview... at 98.76%
+4	503aa, >A0A820FBE9|unreview... at 99.20%
+5	524aa, >A0A820GB35|unreview... at 98.85%
+>Cluster 133
+0	843aa, >A0A9J6C958|unreview... *
+>Cluster 134
+0	813aa, >A0A673UNN5|unreview... at 97.54%
+1	842aa, >A0ABI7X334|unreview... *
+>Cluster 135
+0	802aa, >A0A131Y0W5|unreview... at 98.13%
+1	815aa, >A0A4D5RMV1|unreview... at 98.28%
+2	797aa, >A0A4D5RMY5|unreview... at 98.24%
+3	811aa, >A0A4D5RNU6|unreview... at 98.27%
+4	840aa, >A0AC60QEY1|unreview... *
+>Cluster 136
+0	837aa, >A0A643BRP8|unreview... *
+>Cluster 137
+0	829aa, >A0A1J1I5I6|unreview... *
+>Cluster 138
+0	763aa, >A0A4Y7LN15|unreview... at 92.79%
+1	829aa, >A0A4Y7LRY9|unreview... *
+>Cluster 139
+0	828aa, >A0AAE1NPF8|unreview... *
+>Cluster 140
+0	695aa, >A0A4X1SWW8|unreview... at 100.00%
+1	810aa, >A0A5E4AFY3|unreview... at 92.22%
+2	808aa, >A0A5E4AGE0|unreview... at 91.46%
+3	693aa, >A0A5G2QW52|unreview... at 99.13%
+4	785aa, >A0A7J8CL81|unreview... at 92.36%
+5	787aa, >A0A7J8CL86|unreview... at 93.14%
+6	695aa, >A0A8C3WZI8|unreview... at 99.42%
+7	780aa, >A0A8D1JAW6|unreview... at 98.72%
+8	827aa, >A0A8D1VPQ5|unreview... *
+9	693aa, >A0A8D1XLX8|unreview... at 99.13%
+10	827aa, >K7GPV1|unreviewed|S... at 100.00%
+>Cluster 141
+0	631aa, >A0A1S3A0G4|unreview... at 95.09%
+1	630aa, >A0A1S3ETQ5|unreview... at 93.81%
+2	625aa, >A0A1U7RCG3|unreview... at 94.40%
+3	626aa, >A0A286XBD5|unreview... at 94.09%
+4	630aa, >A0A2I2YXP4|unreview... at 96.19%
+5	522aa, >A0A2I3BPM7|unreview... at 93.68%
+6	630aa, >A0A2I3MBB4|unreview... at 95.71%
+7	630aa, >A0A2J8PHI4|unreview... at 96.19%
+8	630aa, >A0A2J8WKY2|unreview... at 96.03%
+9	628aa, >A0A2K5EZ48|unreview... at 95.54%
+10	630aa, >A0A2K5J1L9|unreview... at 95.56%
+11	630aa, >A0A2K5NVQ3|unreview... at 95.71%
+12	630aa, >A0A2K5QGP1|unreview... at 95.71%
+13	660aa, >A0A2K5VVE4|unreview... at 91.06%
+14	527aa, >A0A2K5VVG8|unreview... at 93.36%
+15	630aa, >A0A2K5ZEV9|unreview... at 95.71%
+16	630aa, >A0A2K6BX96|unreview... at 95.71%
+17	630aa, >A0A2K6G8F6|unreview... at 96.51%
+18	630aa, >A0A2K6MWK8|unreview... at 95.71%
+19	630aa, >A0A2K6QMZ3|unreview... at 95.71%
+20	630aa, >A0A2K6SSJ5|unreview... at 95.40%
+21	560aa, >A0A2R9C8C9|unreview... at 90.18%
+22	630aa, >A0A2U3W9G1|unreview... at 96.67%
+23	630aa, >A0A2Y9HZT8|unreview... at 97.62%
+24	630aa, >A0A2Y9KZ40|unreview... at 96.35%
+25	630aa, >A0A2Y9N494|unreview... at 96.83%
+26	662aa, >A0A2Y9QEY9|unreview... at 93.05%
+27	630aa, >A0A340W9D8|unreview... at 96.98%
+28	630aa, >A0A341ALW5|unreview... at 96.83%
+29	630aa, >A0A384B057|unreview... at 97.30%
+30	582aa, >A0A3Q2GX39|unreview... at 92.27%
+31	641aa, >A0A3Q2HVH5|unreview... at 93.92%
+32	630aa, >A0A3Q7NW76|unreview... at 96.98%
+33	630aa, >A0A3Q7S9Q2|unreview... at 96.51%
+34	517aa, >A0A452ULC3|unreview... at 96.52%
+35	557aa, >A0A455C705|unreview... at 93.90%
+36	630aa, >A0A481C6W8|unreview... at 97.46%
+37	825aa, >A0A4W2CRE4|unreview... *
+38	825aa, >A0A4W2HP78|unreview... at 99.88%
+39	630aa, >A0A4X1WD40|unreview... at 97.46%
+40	630aa, >A0A667GMX9|unreview... at 96.67%
+41	630aa, >A0A671DQ96|unreview... at 96.67%
+42	630aa, >A0A673UBH5|unreview... at 96.83%
+43	632aa, >A0A6I9I227|unreview... at 96.68%
+44	628aa, >A0A6I9LSL3|unreview... at 93.47%
+45	630aa, >A0A6J1ZVT3|unreview... at 96.67%
+46	630aa, >A0A6J2B6M3|unreview... at 96.98%
+47	634aa, >A0A6J2L628|unreview... at 96.21%
+48	630aa, >A0A6J3FNL5|unreview... at 95.87%
+49	636aa, >A0A6J3QWZ0|unreview... at 96.23%
+50	630aa, >A0A6J3QX88|unreview... at 96.67%
+51	626aa, >A0A6P3FFT4|unreview... at 93.93%
+52	630aa, >A0A6P3RVC0|unreview... at 96.98%
+53	630aa, >A0A6P5CF56|unreview... at 98.89%
+54	623aa, >A0A6P5R531|unreview... at 94.38%
+55	630aa, >A0A6P6HHJ4|unreview... at 95.24%
+56	630aa, >A0A7J8AR71|unreview... at 96.98%
+57	629aa, >A0A7J8B460|unreview... at 96.34%
+58	630aa, >A0A7J8ISS9|unreview... at 96.83%
+59	630aa, >A0A7J8K1E7|unreview... at 96.67%
+60	630aa, >A0A7N5JT62|unreview... at 96.83%
+61	630aa, >A0A8B7RJ03|unreview... at 96.19%
+62	632aa, >A0A8B8T6T7|unreview... at 96.36%
+63	630aa, >A0A8B8WIX5|unreview... at 97.46%
+64	642aa, >A0A8B8WJ05|unreview... at 96.57%
+65	628aa, >A0A8B9YI46|unreview... at 98.73%
+66	545aa, >A0A8C0L0Y9|unreview... at 95.23%
+67	630aa, >A0A8C0M1G5|unreview... at 96.83%
+68	629aa, >A0A8C0PY23|unreview... at 96.82%
+69	623aa, >A0A8C2LZY4|unreview... at 94.22%
+70	626aa, >A0A8C2VK08|unreview... at 94.73%
+71	630aa, >A0A8C3WJ77|unreview... at 96.51%
+72	626aa, >A0A8C4L100|unreview... at 95.69%
+73	551aa, >A0A8C5P4M9|unreview... at 94.56%
+74	630aa, >A0A8C5XYC9|unreview... at 96.51%
+75	624aa, >A0A8C5YPS0|unreview... at 95.83%
+76	630aa, >A0A8C6BYB5|unreview... at 96.83%
+77	630aa, >A0A8C6DMQ8|unreview... at 98.10%
+78	521aa, >A0A8C6MUV6|unreview... at 93.47%
+79	625aa, >A0A8C6W7L8|unreview... at 95.36%
+80	630aa, >A0A8C7AFH2|unreview... at 96.67%
+81	630aa, >A0A8C8WLY4|unreview... at 96.83%
+82	648aa, >A0A8C8Z0N8|unreview... at 94.14%
+83	630aa, >A0A8C9BCJ9|unreview... at 96.83%
+84	630aa, >A0A8C9IZE2|unreview... at 95.71%
+85	624aa, >A0A8C9QF64|unreview... at 91.19%
+86	633aa, >A0A8D1VIY8|unreview... at 96.84%
+87	626aa, >A0A8D2AX66|unreview... at 96.49%
+88	630aa, >A0A8D2ESV1|unreview... at 95.71%
+89	630aa, >A0A8D2KDA3|unreview... at 95.56%
+90	630aa, >A0A8I3MX01|unreview... at 96.83%
+91	623aa, >A0A8I6GLX6|unreview... at 94.22%
+92	630aa, >A0A8M1GPZ5|unreview... at 97.14%
+93	630aa, >A0A8U0MEB1|unreview... at 96.67%
+94	627aa, >A0A9B0TIW8|unreview... at 96.01%
+95	626aa, >A0A9L0S207|unreview... at 95.69%
+96	630aa, >A0A9V1FQL5|unreview... at 96.83%
+97	630aa, >A0AAA9SI30|unreview... at 98.89%
+98	629aa, >A0AAD4U9M5|unreview... at 98.89%
+99	624aa, >A0AAX6NRS6|unreview... at 93.75%
+100	630aa, >A0ABI7Z1H3|unreview... at 96.83%
+101	630aa, >A0ABM0HFW1|unreview... at 93.97%
+102	529aa, >A0ABM0QRC7|unreview... at 95.27%
+103	625aa, >A0ABM1UAL4|unreview... at 93.92%
+104	630aa, >A0ABM4ICD1|unreview... at 98.25%
+105	651aa, >A0ABM4MCA6|unreview... at 92.78%
+106	626aa, >A0ABM4MCA9|unreview... at 95.53%
+107	525aa, >A0ABM4MCB7|unreview... at 94.67%
+108	577aa, >A0ABM4MCC3|unreview... at 92.72%
+109	669aa, >A0ABM4T130|unreview... at 94.62%
+110	673aa, >A0ABM5DE51|unreview... at 92.57%
+111	630aa, >A0AC11BTL6|unreview... at 98.89%
+112	583aa, >A0AC11BUF1|unreview... at 96.23%
+113	630aa, >A0AC58M3W4|unreview... at 94.60%
+114	632aa, >A0AC58QH31|unreview... at 96.36%
+115	630aa, >F6RI67|unreviewed|P... at 95.56%
+116	577aa, >F7DQR1|unreviewed|P... at 92.89%
+117	623aa, >G3H7B9|unreviewed|P... at 94.54%
+118	565aa, >G3U6Z8|unreviewed|P... at 95.75%
+119	629aa, >H9ERS0|unreviewed|P... at 95.55%
+120	624aa, >I3MPH2|unreviewed|P... at 95.67%
+121	629aa, >K7CBK0|unreviewed|P... at 96.03%
+122	630aa, >U3D3G8|unreviewed|P... at 95.71%
+123	630aa, >U3FBS9|unreviewed|P... at 95.40%
+>Cluster 142
+0	723aa, >A0A131XG99|unreview... at 97.23%
+1	800aa, >A0A131YHC6|unreview... at 94.00%
+2	800aa, >A0A224YZ41|unreview... at 94.50%
+3	795aa, >A0A224Z6Z2|unreview... at 94.47%
+4	751aa, >A0A9J6E167|unreview... at 90.68%
+5	825aa, >A0ACB7RYI4|unreview... *
+6	796aa, >A0ACB8CG20|unreview... at 90.33%
+>Cluster 143
+0	648aa, >A0A060X9X9|unreview... at 97.22%
+1	500aa, >A0A060Y4T1|unreview... at 95.80%
+2	676aa, >A0A1S3NSX6|unreview... at 94.67%
+3	669aa, >A0A1S3NSY3|unreview... at 94.62%
+4	679aa, >A0A1S3T1B8|unreview... at 93.08%
+5	672aa, >A0A1S3T1C0|unreview... at 93.01%
+6	682aa, >A0A4W5Q629|unreview... at 95.75%
+7	680aa, >A0A4W5Q677|unreview... at 92.50%
+8	823aa, >A0A4W5QAF4|unreview... *
+9	682aa, >A0A4W5QV01|unreview... at 93.26%
+10	668aa, >A0A674DCD9|unreview... at 93.71%
+11	677aa, >A0A674DDJ1|unreview... at 93.21%
+12	639aa, >A0A674DDL3|unreview... at 90.61%
+13	681aa, >A0A8C7GJX9|unreview... at 93.83%
+14	668aa, >A0A8C7GN70|unreview... at 94.61%
+15	651aa, >A0A8C7GP01|unreview... at 93.39%
+16	680aa, >A0A8C7GPX6|unreview... at 93.09%
+17	577aa, >A0A8C7GQA1|unreview... at 90.29%
+18	702aa, >A0A8C7GQA3|unreview... at 94.30%
+19	677aa, >A0A8C7GS77|unreview... at 93.65%
+20	682aa, >A0A8C7GS79|unreview... at 92.67%
+21	682aa, >A0A8C7GUM2|unreview... at 90.91%
+22	690aa, >A0A8C7TI84|unreview... at 93.33%
+23	680aa, >A0A8C7TLP6|unreview... at 93.38%
+24	681aa, >A0A8C7TLX7|unreview... at 94.13%
+25	668aa, >A0A8C7TM05|unreview... at 94.91%
+26	685aa, >A0A8C7TRG7|unreview... at 91.82%
+27	682aa, >A0A8C7VQP2|unreview... at 92.82%
+28	682aa, >A0A8C8CM17|unreview... at 92.96%
+29	665aa, >A0A8C8ITK3|unreview... at 92.78%
+30	654aa, >A0A8K9XSV3|unreview... at 94.19%
+31	680aa, >A0A8U0P2L8|unreview... at 93.97%
+32	673aa, >A0A8U0P2Q8|unreview... at 93.91%
+33	673aa, >A0A8U0PUU3|unreview... at 92.72%
+34	680aa, >A0A8U0TVS3|unreview... at 92.50%
+35	683aa, >A0AAZ3PNV1|unreview... at 91.07%
+>Cluster 144
+0	820aa, >A0A493TE82|unreview... *
+1	731aa, >A0A8B9UB77|unreview... at 99.04%
+2	817aa, >A0A8B9UBG6|unreview... at 90.58%
+3	731aa, >A0A8B9ZKJ4|unreview... at 99.04%
+4	731aa, >U3IBU1|unreviewed|P... at 99.18%
+>Cluster 145
+0	819aa, >A0A2J7Q4W0|unreview... *
+1	725aa, >A0A2J7Q4W2|unreview... at 100.00%
+2	744aa, >A0A2J7Q4W4|unreview... at 100.00%
+>Cluster 146
+0	817aa, >A0A4Y7NP05|unreview... *
+>Cluster 147
+0	814aa, >A0A1J1INJ4|unreview... *
+>Cluster 148
+0	813aa, >A0A1E1X585|unreview... *
+1	813aa, >A0A1E1XMA2|unreview... at 94.83%
+2	809aa, >A0AAQ4DFU7|unreview... at 94.81%
+>Cluster 149
+0	810aa, >A0A8B9UB33|unreview... *
+>Cluster 150
+0	692aa, >A0A1W2Q6J6|unreview... at 91.91%
+1	687aa, >A0A2K5HKQ4|unreview... at 92.43%
+2	687aa, >A0A2K5NF08|unreview... at 92.58%
+3	687aa, >A0A2K5XBZ1|unreview... at 92.58%
+4	687aa, >A0A2K6GUZ1|unreview... at 93.16%
+5	809aa, >A0A5F9CX57|unreview... *
+6	687aa, >A0A6I9LLZ9|unreview... at 92.14%
+7	687aa, >A0A6P5Q7C1|unreview... at 91.99%
+8	593aa, >A0A6P6EYG7|unreview... at 90.39%
+9	694aa, >A0A6P6EZB9|unreview... at 91.79%
+10	695aa, >A0A8B7TD67|unreview... at 91.22%
+11	681aa, >A0A8C2MAZ9|unreview... at 93.25%
+12	687aa, >A0A8C2QJH3|unreview... at 92.14%
+13	687aa, >A0A8C5VGN4|unreview... at 93.01%
+14	687aa, >A0A8C6MP44|unreview... at 92.14%
+15	687aa, >A0A8C6RMW9|unreview... at 92.29%
+16	685aa, >A0A8J6GLD2|unreview... at 92.41%
+17	687aa, >A0AAV0A8T0|unreview... at 92.29%
+18	687aa, >A0ABM0LRH1|unreview... at 92.87%
+19	586aa, >A0ABM1TVV2|unreview... at 91.30%
+20	588aa, >A0ABM2WHC4|unreview... at 90.48%
+21	689aa, >A0ABM2WM29|unreview... at 92.16%
+22	687aa, >A6J9J0|unreviewed|S... at 92.29%
+23	687aa, >D4A769|unreviewed|S... at 92.29%
+24	809aa, >G1SD37|unreviewed|S... at 95.80%
+25	687aa, >G5E8A7|unreviewed|S... at 92.14%
+26	694aa, >H0XR96|unreviewed|S... at 91.93%
+27	687aa, >Q80XS6|reviewed|Pro... at 91.99%
+>Cluster 151
+0	809aa, >A0A8C5CLB6|unreview... *
+>Cluster 152
+0	807aa, >A0AAD9NHD6|unreview... *
+>Cluster 153
+0	806aa, >A0A0N4VC62|unreview... *
+>Cluster 154
+0	805aa, >A0AC11DTR2|unreview... *
+>Cluster 155
+0	804aa, >A0A915LCV3|unreview... *
+>Cluster 156
+0	803aa, >A0A4Y7NIH1|unreview... *
+>Cluster 157
+0	802aa, >A0AAD9PBZ6|unreview... *
+>Cluster 158
+0	690aa, >A0AAY4AJU2|unreview... at 98.26%
+1	598aa, >A0AAY4AJV4|unreview... at 96.66%
+2	802aa, >A0AAY4AJV9|unreview... *
+3	692aa, >A0AAY4AJW6|unreview... at 98.70%
+>Cluster 159
+0	786aa, >A0A1B0C856|unreview... at 100.00%
+1	801aa, >A0A7G3AWH2|unreview... *
+>Cluster 160
+0	800aa, >A0A8D0GC77|unreview... *
+1	250aa, >A0A8D0GGC5|unreview... at 90.40%
+2	737aa, >A0A8D0GK72|unreview... at 97.29%
+>Cluster 161
+0	798aa, >A0A7J7EHP8|unreview... *
+>Cluster 162
+0	797aa, >A0A3P8YGU9|unreview... at 93.85%
+1	788aa, >A0ABD0WDZ6|unreview... at 91.88%
+2	798aa, >A0ACC2FIC0|unreview... *
+>Cluster 163
+0	797aa, >A0A7J7JD18|unreview... *
+>Cluster 164
+0	711aa, >A0A1S3SMC6|unreview... at 95.64%
+1	776aa, >A0A1S3SMC7|unreview... at 96.13%
+2	795aa, >A0AAN8L9R1|unreview... *
+>Cluster 165
+0	602aa, >A0A1A6HIX9|unreview... at 90.53%
+1	794aa, >A0A8C9AHP2|unreview... *
+>Cluster 166
+0	794aa, >L7MMX7|unreviewed|S... *
+>Cluster 167
+0	752aa, >A0A4W5LF87|unreview... at 96.14%
+1	775aa, >A0A674C0E1|unreview... at 94.32%
+2	775aa, >A0A8C7FFH1|unreview... at 94.71%
+3	774aa, >A0A8K9XJX7|unreview... at 95.61%
+4	793aa, >A0A8K9XSA7|unreview... *
+>Cluster 168
+0	793aa, >A0AAE1K298|unreview... *
+>Cluster 169
+0	792aa, >A0A6M2DFS0|unreview... *
+>Cluster 170
+0	791aa, >A0A493U0N0|unreview... *
+>Cluster 171
+0	790aa, >A0A1L8DL47|unreview... *
+1	780aa, >A0A1L8DLC3|unreview... at 98.21%
+2	790aa, >A0A1L8DLL0|unreview... at 99.87%
+>Cluster 172
+0	735aa, >A0A4W5S040|unreview... at 96.19%
+1	744aa, >A0A673ZPV8|unreview... at 94.49%
+2	787aa, >A0A8C7JEB9|unreview... *
+3	738aa, >A0A8C8DFH3|unreview... at 98.24%
+>Cluster 173
+0	705aa, >A0A091F021|unreview... at 97.59%
+1	705aa, >A0A091FY91|unreview... at 96.74%
+2	705aa, >A0A218UAI4|unreview... at 97.59%
+3	673aa, >A0A674G888|unreview... at 98.37%
+4	705aa, >A0A674HG52|unreview... at 97.87%
+5	719aa, >A0A6I9HD83|unreview... at 97.77%
+6	721aa, >A0A7K4P7I1|unreview... at 97.36%
+7	706aa, >A0A7K4UL58|unreview... at 98.44%
+8	712aa, >A0A7K5BN31|unreview... at 98.03%
+9	718aa, >A0A7K5MFN8|unreview... at 97.91%
+10	705aa, >A0A7K5S988|unreview... at 97.73%
+11	706aa, >A0A7K5W028|unreview... at 98.44%
+12	705aa, >A0A7K6FJW6|unreview... at 97.87%
+13	705aa, >A0A7K6HWD8|unreview... at 97.87%
+14	705aa, >A0A7K6IJ70|unreview... at 97.73%
+15	723aa, >A0A7K7J1P4|unreview... at 98.62%
+16	722aa, >A0A7K7K023|unreview... at 97.78%
+17	706aa, >A0A7K7YGA8|unreview... at 98.30%
+18	706aa, >A0A7K8A1Q0|unreview... at 98.30%
+19	705aa, >A0A7K8BZ17|unreview... at 97.73%
+20	705aa, >A0A7K8CRI0|unreview... at 97.87%
+21	705aa, >A0A7K8GTK4|unreview... at 97.87%
+22	720aa, >A0A7K8S4U5|unreview... at 97.64%
+23	720aa, >A0A7K9GV27|unreview... at 98.89%
+24	705aa, >A0A7K9IYJ8|unreview... at 97.59%
+25	706aa, >A0A7K9VTM3|unreview... at 98.30%
+26	709aa, >A0A7L0MZU3|unreview... at 95.20%
+27	719aa, >A0A7L0V7Z4|unreview... at 95.69%
+28	706aa, >A0A7L0Y631|unreview... at 98.30%
+29	705aa, >A0A7L1AI73|unreview... at 97.16%
+30	706aa, >A0A7L1BZ73|unreview... at 98.30%
+31	706aa, >A0A7L1FHN7|unreview... at 98.16%
+32	706aa, >A0A7L1MP91|unreview... at 98.02%
+33	705aa, >A0A7L1P601|unreview... at 98.01%
+34	704aa, >A0A7L1QK05|unreview... at 97.73%
+35	707aa, >A0A7L1RRL2|unreview... at 97.88%
+36	705aa, >A0A7L1UYR8|unreview... at 97.73%
+37	724aa, >A0A7L1WAK1|unreview... at 95.30%
+38	709aa, >A0A7L2BI75|unreview... at 96.90%
+39	706aa, >A0A7L2LHM9|unreview... at 98.58%
+40	708aa, >A0A7L2MU01|unreview... at 98.31%
+41	705aa, >A0A7L2Y390|unreview... at 97.87%
+42	735aa, >A0A803UZX7|unreview... at 93.20%
+43	720aa, >A0A851CBF0|unreview... at 95.69%
+44	705aa, >A0A851EEU2|unreview... at 97.87%
+45	705aa, >A0A851FJ69|unreview... at 96.03%
+46	709aa, >A0A851V2J6|unreview... at 96.47%
+47	705aa, >A0A852E413|unreview... at 97.87%
+48	705aa, >A0A8C3EX50|unreview... at 97.73%
+49	719aa, >A0A8C3N7B5|unreview... at 97.91%
+50	719aa, >A0A8C9MFN8|unreview... at 99.03%
+51	787aa, >A0A8C9U2Y7|unreview... *
+52	727aa, >H0ZS80|unreviewed|P... at 95.74%
+53	706aa, >U3JMF9|unreviewed|P... at 96.46%
+>Cluster 174
+0	786aa, >A0ABQ8M0X1|unreview... *
+>Cluster 175
+0	782aa, >A0AAV2H3M5|unreview... *
+>Cluster 176
+0	781aa, >A0A8B9ZPQ6|unreview... *
+>Cluster 177
+0	779aa, >A0A3B3HFK3|unreview... *
+1	754aa, >A0A3B3IC85|unreview... at 99.20%
+2	688aa, >A0A3P9HYL7|unreview... at 92.01%
+3	671aa, >A0A3Q2ZXH0|unreview... at 90.01%
+4	656aa, >A0A672G1D0|unreview... at 92.23%
+5	678aa, >A0A672GMY8|unreview... at 91.00%
+6	638aa, >A0A7N8X6I7|unreview... at 91.07%
+7	687aa, >H2LK02|unreviewed|S... at 96.80%
+>Cluster 178
+0	725aa, >A0A3B3CJD3|unreview... at 98.90%
+1	730aa, >A0A3B3HX94|unreview... at 96.03%
+2	722aa, >A0A3B3IJ45|unreview... at 96.95%
+3	716aa, >A0A3B4GRY9|unreview... at 90.36%
+4	723aa, >A0A3B4V069|unreview... at 90.87%
+5	723aa, >A0A3B4YEC4|unreview... at 90.87%
+6	716aa, >A0A3P8P8M9|unreview... at 90.22%
+7	716aa, >A0A3P9CD71|unreview... at 90.22%
+8	727aa, >A0A3P9HJZ8|unreview... at 96.01%
+9	719aa, >A0A3P9HKM2|unreview... at 96.94%
+10	718aa, >A0A3P9KCS1|unreview... at 96.94%
+11	687aa, >A0A3P9KD66|unreview... at 96.94%
+12	614aa, >A0A3Q1E9I2|unreview... at 91.21%
+13	721aa, >A0A3Q1EC37|unreview... at 91.40%
+14	716aa, >A0A3Q2VQU7|unreview... at 90.36%
+15	688aa, >A0A3Q2WUJ3|unreview... at 90.26%
+16	719aa, >A0A3Q3GJ63|unreview... at 90.13%
+17	722aa, >A0A3Q3SI74|unreview... at 91.00%
+18	716aa, >A0A3Q4GZF1|unreview... at 90.36%
+19	726aa, >A0A4W6EF98|unreview... at 91.05%
+20	727aa, >A0A4W6EIS4|unreview... at 90.78%
+21	719aa, >A0A4W6EJT2|unreview... at 91.79%
+22	716aa, >A0A668V5T5|unreview... at 90.64%
+23	723aa, >A0A671VQA2|unreview... at 90.18%
+24	720aa, >A0A6P7HW39|unreview... at 90.83%
+25	718aa, >A0A6P7IBU4|unreview... at 90.81%
+26	715aa, >A0A7J5X979|unreview... at 90.35%
+27	777aa, >A0A834BZT6|unreview... *
+28	723aa, >A0A8P4GMY9|unreview... at 90.04%
+29	723aa, >A0A9Y4KID6|unreview... at 91.70%
+30	721aa, >A0A9Y4KIE2|unreview... at 91.68%
+31	723aa, >A0AAQ5ZYR0|unreview... at 91.56%
+32	721aa, >A0AAV1PJC8|unreview... at 90.01%
+33	716aa, >I3JJ85|unreviewed|P... at 90.64%
+34	554aa, >I3JJ86|unreviewed|P... at 90.07%
+>Cluster 179
+0	750aa, >A0A8X6JMT6|unreview... at 91.60%
+1	777aa, >A0A8X6U5S0|unreview... *
+2	664aa, >A0AAV2A2Z1|unreview... at 91.11%
+>Cluster 180
+0	717aa, >A0A1A8B1Y0|unreview... at 91.07%
+1	524aa, >A0A1A8E7B1|unreview... at 90.65%
+2	674aa, >A0A1A8LCZ1|unreview... at 90.36%
+3	719aa, >A0A2I4D356|unreview... at 92.77%
+4	215aa, >A0A3B3U2W4|unreview... at 96.74%
+5	592aa, >A0A3B3XFU5|unreview... at 91.55%
+6	722aa, >A0A3B3XG13|unreview... at 98.61%
+7	725aa, >A0A3B5Q594|unreview... at 97.79%
+8	727aa, >A0A3P9Q085|unreview... at 99.31%
+9	597aa, >A0A3P9Q086|unreview... at 92.46%
+10	774aa, >A0A3P9Q0A5|unreview... *
+11	723aa, >A0A3Q1JMR5|unreview... at 90.04%
+12	721aa, >A0A3Q2FJY8|unreview... at 94.31%
+13	725aa, >A0A3Q2P6T2|unreview... at 94.90%
+14	726aa, >A0A3Q2QGB1|unreview... at 94.49%
+15	725aa, >A0A484DPP1|unreview... at 90.48%
+16	725aa, >A0A8C9YZF3|unreview... at 90.48%
+17	719aa, >A0AA88NB77|unreview... at 90.26%
+18	721aa, >A0AAN8ATB0|unreview... at 90.01%
+19	727aa, >A0AAV1EMQ6|unreview... at 90.51%
+20	722aa, >A0AAV9SRR1|unreview... at 94.46%
+21	485aa, >A0ABV0UWS1|unreview... at 91.96%
+>Cluster 181
+0	774aa, >A0A4Y7N183|unreview... *
+>Cluster 182
+0	774aa, >A0A6L2PBV7|unreview... *
+>Cluster 183
+0	766aa, >A0A077YVY3|unreview... *
+>Cluster 184
+0	765aa, >A0AAJ7X2E2|unreview... *
+>Cluster 185
+0	696aa, >A0AAW0XG59|unreview... at 99.43%
+1	464aa, >A0AAW0XI74|unreview... at 90.09%
+2	765aa, >A0AAW0XJ75|unreview... *
+>Cluster 186
+0	764aa, >A0A4Y7NLY9|unreview... *
+>Cluster 187
+0	662aa, >A0A673MBG6|unreview... at 92.60%
+1	656aa, >A0A7J6CB29|unreview... at 97.41%
+2	662aa, >A0A8C2BYC1|unreview... at 94.11%
+3	555aa, >A0A9J7YVX2|unreview... at 95.32%
+4	119aa, >A0ABD0PN15|unreview... at 98.32%
+5	764aa, >A0ABR3M6A5|unreview... *
+>Cluster 188
+0	763aa, >A0A6A4W2B4|unreview... *
+>Cluster 189
+0	677aa, >A0A8J6F0N9|unreview... at 94.39%
+1	739aa, >A0AAV7B161|unreview... at 99.05%
+2	553aa, >A0AAV7B251|unreview... at 96.75%
+3	747aa, >A0AAV7B3N8|unreview... at 97.99%
+4	761aa, >A0AAV7B3Z5|unreview... *
+5	626aa, >A0AAV7B4K1|unreview... at 95.85%
+>Cluster 190
+0	745aa, >A0A1S3RGS5|unreview... at 93.56%
+1	717aa, >A0A1S3RGT5|unreview... at 92.47%
+2	644aa, >A0A1S3RGU6|unreview... at 93.63%
+3	760aa, >A0A3P9A6S7|unreview... *
+4	748aa, >A0A673ZR09|unreview... at 93.32%
+5	742aa, >A0A8C7JTC8|unreview... at 93.40%
+6	751aa, >A0A8C7PNJ5|unreview... at 92.68%
+7	723aa, >A0A8C7PQV7|unreview... at 91.42%
+8	751aa, >A0A8C8D9A7|unreview... at 92.01%
+9	720aa, >A0A8U1EXE4|unreview... at 91.39%
+10	746aa, >A0AAN8LAF9|unreview... at 94.10%
+>Cluster 191
+0	740aa, >A0A2U9BB13|unreview... at 93.51%
+1	723aa, >A0A3P8UNT0|unreview... at 91.98%
+2	733aa, >A0A3P8UPY8|unreview... at 91.13%
+3	690aa, >A0A3P8UPZ3|unreview... at 92.17%
+4	717aa, >A0A3Q3BCI9|unreview... at 91.77%
+5	733aa, >A0A3Q3CTS9|unreview... at 91.41%
+6	760aa, >A0A3Q3SI88|unreview... *
+7	722aa, >A0A4U5UBD1|unreview... at 94.60%
+8	752aa, >A0A4W6EFB0|unreview... at 90.03%
+9	727aa, >A0A665WW01|unreview... at 94.36%
+10	700aa, >A0A665WW11|unreview... at 95.57%
+11	740aa, >A0A672GZQ7|unreview... at 91.76%
+12	697aa, >A0A672ZSV0|unreview... at 90.96%
+13	721aa, >A0A6G1P934|unreview... at 93.90%
+14	723aa, >A0A6J2PG21|unreview... at 94.61%
+15	721aa, >A0A6J2PGW2|unreview... at 94.59%
+16	728aa, >A0A6P7LY74|unreview... at 92.03%
+17	732aa, >A0A6P7M0R2|unreview... at 91.39%
+18	724aa, >A0A8A0R252|unreview... at 94.61%
+19	723aa, >A0A8C2WLY5|unreview... at 92.81%
+20	721aa, >A0A8C4HFE3|unreview... at 93.62%
+21	736aa, >A0A8C4HGX8|unreview... at 91.03%
+22	710aa, >A0A8C9YWR5|unreview... at 94.93%
+23	732aa, >A0A8D3A3C7|unreview... at 93.99%
+24	721aa, >A0A8S4A9E1|unreview... at 92.23%
+25	631aa, >A0A9W2XND2|unreview... at 90.81%
+26	695aa, >A0AAD3R3F1|unreview... at 91.37%
+27	722aa, >A0AAN8IFA9|unreview... at 93.77%
+28	544aa, >A0AAQ5YZ10|unreview... at 92.65%
+29	722aa, >A0AAW1G7R7|unreview... at 93.77%
+30	722aa, >A0ABD2HHM4|unreview... at 93.77%
+31	725aa, >A0ACB8XBK5|unreview... at 95.03%
+>Cluster 192
+0	760aa, >A0A4Y7MUP1|unreview... *
+>Cluster 193
+0	758aa, >A0A067RG23|unreview... *
+>Cluster 194
+0	706aa, >A0A493T683|unreview... at 92.21%
+1	617aa, >A0A669QKJ5|unreview... at 97.08%
+2	617aa, >A0A672TTT0|unreview... at 97.24%
+3	617aa, >A0A6J0J050|unreview... at 97.08%
+4	646aa, >A0A6J0J072|unreview... at 93.34%
+5	617aa, >A0A6J2GXN9|unreview... at 97.08%
+6	617aa, >A0A6J3D5Q6|unreview... at 98.87%
+7	617aa, >A0A803YCS5|unreview... at 97.24%
+8	596aa, >A0A8B9C735|unreview... at 92.62%
+9	758aa, >A0A8B9D1W3|unreview... *
+10	617aa, >A0A8B9IX61|unreview... at 97.41%
+11	582aa, >A0A8B9RXY8|unreview... at 97.77%
+12	617aa, >A0A8B9ZL22|unreview... at 98.87%
+13	617aa, >A0A8B9ZPN7|unreview... at 99.03%
+14	644aa, >A0A8C0B604|unreview... at 93.63%
+15	516aa, >A0A8C0U3L4|unreview... at 95.54%
+16	567aa, >A0A8C4JQG0|unreview... at 94.00%
+17	617aa, >A0A8C4XLG7|unreview... at 97.41%
+18	620aa, >A0A8C5T742|unreview... at 90.81%
+19	646aa, >A0A8C6J071|unreview... at 93.65%
+20	617aa, >A0A8C7A0R2|unreview... at 94.81%
+21	617aa, >A0A8C8E8T2|unreview... at 97.41%
+22	628aa, >A0A8D0FY55|unreview... at 96.34%
+23	617aa, >A0A8V0Z834|unreview... at 97.08%
+24	585aa, >A0ABQ9DK82|unreview... at 91.97%
+>Cluster 195
+0	739aa, >A0A1S3SMC1|unreview... at 93.50%
+1	715aa, >A0A4W5LFI4|unreview... at 95.94%
+2	738aa, >A0A674C0J8|unreview... at 94.04%
+3	738aa, >A0A8C7FFI8|unreview... at 94.44%
+4	756aa, >A0A8K9XI87|unreview... *
+>Cluster 196
+0	291aa, >A0A8J6L097|unreview... at 93.81%
+1	752aa, >A0ABM2WLI3|unreview... at 99.34%
+2	304aa, >A0ABM2WLK5|unreview... at 100.00%
+3	654aa, >A0ABM2WLL0|unreview... at 100.00%
+4	755aa, >A0ABM2WTH2|unreview... *
+>Cluster 197
+0	754aa, >A0A226E3L9|unreview... *
+>Cluster 198
+0	692aa, >A0A1D5RK45|unreview... at 94.08%
+1	692aa, >A0A2J8QFG6|unreview... at 93.64%
+2	663aa, >A0A2J8QFH0|unreview... at 90.35%
+3	663aa, >A0A2J8SDG0|unreview... at 90.20%
+4	692aa, >A0A2J8SDH5|unreview... at 93.50%
+5	694aa, >A0A2J8SDL1|unreview... at 93.66%
+6	694aa, >A0A2K6CLJ9|unreview... at 93.66%
+7	680aa, >A0A2K6CLM8|unreview... at 90.74%
+8	694aa, >A0A2R9CCE2|unreview... at 93.80%
+9	663aa, >A0A2R9CCL9|unreview... at 90.65%
+10	694aa, >A0A6D2X657|unreview... at 93.80%
+11	692aa, >A0A7N9CAL9|unreview... at 94.08%
+12	694aa, >A0A8J8XKG0|unreview... at 93.66%
+13	694aa, >A0A8J8YSU4|unreview... at 93.66%
+14	754aa, >A0A9L0ISX0|unreview... *
+15	694aa, >G7NNK7|unreviewed|S... at 93.66%
+16	694aa, >G7PXJ3|unreviewed|S... at 93.66%
+17	699aa, >H2NYS1|unreviewed|S... at 93.71%
+18	663aa, >H2QGA5|unreviewed|S... at 90.65%
+19	694aa, >K7DRE0|unreviewed|S... at 93.80%
+20	692aa, >K7DUB6|unreviewed|S... at 94.22%
+21	692aa, >M0QZ22|unreviewed|S... at 93.64%
+22	694aa, >Q5PRF9|reviewed|Pro... at 93.80%
+23	664aa, >Q66K25|unreviewed|S... at 91.11%
+>Cluster 199
+0	124aa, >A0A6G1RUN2|unreview... at 95.16%
+1	147aa, >A0A7K6TEE4|unreview... at 90.48%
+2	145aa, >A0A7K9Z0K4|unreview... at 95.86%
+3	146aa, >A0A7L0SG98|unreview... at 94.52%
+4	145aa, >A0A851NIN1|unreview... at 96.55%
+5	754aa, >A0AAN7MAE8|unreview... *
+>Cluster 200
+0	738aa, >A0AAV2LL35|unreview... at 95.93%
+1	754aa, >A0AAV2LM31|unreview... *
+>Cluster 201
+0	592aa, >A0A1I7Y9M0|unreview... at 90.71%
+1	592aa, >A0A1I7Y9N8|unreview... at 90.54%
+2	753aa, >A0A1I7Y9W4|unreview... *
+>Cluster 202
+0	753aa, >A0AA35T797|unreview... *
+1	212aa, >A0AA35T7C2|unreview... at 100.00%
+2	611aa, >A0AA35T7T8|unreview... at 100.00%
+>Cluster 203
+0	705aa, >A0A151N400|unreview... at 94.89%
+1	717aa, >A0A1U7RGQ7|unreview... at 93.58%
+2	705aa, >A0A1U7RNE0|unreview... at 95.18%
+3	604aa, >A0A1U8D4D5|unreview... at 94.54%
+4	713aa, >A0A3Q0GI11|unreview... at 94.11%
+5	689aa, >A0A452HGP8|unreview... at 95.94%
+6	736aa, >A0A674K354|unreview... at 98.78%
+7	705aa, >A0A674K6L2|unreview... at 97.87%
+8	701aa, >A0A6P8RUR8|unreview... at 90.44%
+9	736aa, >A0A8C3I4P2|unreview... at 99.05%
+10	705aa, >A0A8C3I5L2|unreview... at 98.01%
+11	688aa, >A0A8C3I7S7|unreview... at 97.38%
+12	615aa, >A0A8C3XNJ9|unreview... at 97.40%
+13	723aa, >A0A8C4VMF7|unreview... at 95.71%
+14	704aa, >A0A8C8VF67|unreview... at 94.74%
+15	658aa, >A0A8C8VF69|unreview... at 92.55%
+16	752aa, >A0A8T1SHX4|unreview... *
+17	705aa, >H3BIH5|unreviewed|P... at 90.07%
+18	681aa, >K7FIW7|unreviewed|P... at 96.18%
+>Cluster 204
+0	707aa, >A0A5F8GUC5|unreview... at 98.30%
+1	701aa, >A0A5F8HE05|unreview... at 90.87%
+2	701aa, >A0A6P5KMR6|unreview... at 98.43%
+3	751aa, >A0A6P5KPX3|unreview... *
+4	679aa, >A0A6P5KPX7|unreview... at 98.97%
+5	702aa, >A0A6P5KQ82|unreview... at 99.57%
+6	707aa, >A0A6P5KS94|unreview... at 99.01%
+7	650aa, >A0A6P5KSA3|unreview... at 100.00%
+8	696aa, >F6YE78|unreviewed|P... at 91.24%
+9	679aa, >F7FY08|unreviewed|P... at 98.23%
+10	701aa, >G3WDW4|unreviewed|P... at 90.30%
+11	696aa, >G3WDW6|unreviewed|P... at 90.66%
+>Cluster 205
+0	751aa, >A0A8X7CMC3|unreview... *
+>Cluster 206
+0	751aa, >A0AA88XXR9|unreview... *
+>Cluster 207
+0	750aa, >A0A8X7XKL5|unreview... *
+>Cluster 208
+0	218aa, >A0A2I3HP51|unreview... at 94.50%
+1	219aa, >A0A2I3SQC3|unreview... at 93.15%
+2	748aa, >A0A2K5VVG9|unreview... *
+3	218aa, >A0A2K6BX82|unreview... at 95.87%
+4	218aa, >A0A2K6MWM6|unreview... at 95.87%
+5	219aa, >A0A2R9BYE1|unreview... at 93.15%
+6	218aa, >G2HDT2|unreviewed|S... at 94.95%
+>Cluster 209
+0	748aa, >A0A7R9DYL7|unreview... *
+>Cluster 210
+0	570aa, >A0A2C9KN11|unreview... at 96.84%
+1	204aa, >A0A2C9KRC3|unreview... at 96.08%
+2	748aa, >A0A9W2ZTF1|unreview... *
+3	679aa, >A0AAD8F0Z7|unreview... at 98.82%
+>Cluster 211
+0	747aa, >A0A8S4PLH5|unreview... *
+>Cluster 212
+0	746aa, >A0A674C0F3|unreview... *
+>Cluster 213
+0	746aa, >A0A6P7TI16|unreview... *
+1	746aa, >A0AA36BI35|unreview... at 99.60%
+>Cluster 214
+0	745aa, >A0A6B2EIG7|unreview... *
+>Cluster 215
+0	745aa, >A0A7J8AQ45|unreview... *
+1	718aa, >A0A7J8AR67|unreview... at 90.95%
+2	640aa, >G1P1V0|unreviewed|P... at 91.72%
+>Cluster 216
+0	745aa, >A0A8C2VJZ6|unreview... *
+1	597aa, >A6KE35|unreviewed|P... at 90.95%
+>Cluster 217
+0	744aa, >A0A3P8YGS4|unreview... *
+>Cluster 218
+0	606aa, >A0A2I2Y2S3|unreview... at 97.69%
+1	617aa, >A0A2I2YI95|unreview... at 97.41%
+2	684aa, >A0A2I2YJU9|unreview... at 93.71%
+3	631aa, >A0A2I2ZGH4|unreview... at 95.25%
+4	608aa, >A0A2I2ZR03|unreview... at 93.75%
+5	606aa, >A0A2I3SV66|unreview... at 97.69%
+6	648aa, >A0A2I3T7S4|unreview... at 97.53%
+7	617aa, >A0A485MHA9|unreview... at 100.00%
+8	744aa, >A0A485MK37|unreview... *
+9	718aa, >A0A667H5Y4|unreview... at 91.50%
+10	695aa, >A0A667HUU2|unreview... at 94.68%
+11	718aa, >A0A673UB85|unreview... at 90.95%
+12	309aa, >A0A6J0A5D9|unreview... at 100.00%
+13	617aa, >A0A6J1ZVH6|unreview... at 99.84%
+14	718aa, >A0A6J1ZY74|unreview... at 91.64%
+15	718aa, >A0A6P6HHM7|unreview... at 92.06%
+16	718aa, >A0A8C8WL13|unreview... at 91.78%
+17	718aa, >A0A8C9KM49|unreview... at 90.67%
+18	309aa, >A0A9V1FQJ7|unreview... at 100.00%
+19	617aa, >A0A9V1FQM9|unreview... at 100.00%
+20	718aa, >A0A9V1FQQ8|unreview... at 91.78%
+21	678aa, >A0ABI7Z1H4|unreview... at 99.85%
+22	718aa, >A0ABI7Z1U7|unreview... at 91.78%
+23	617aa, >G2HFL4|unreviewed|P... at 97.08%
+24	574aa, >G2HH78|unreviewed|P... at 97.21%
+>Cluster 219
+0	743aa, >A0A5S6QWT3|unreview... *
+>Cluster 220
+0	742aa, >A0A673UBZ6|unreview... *
+1	741aa, >A0A8C0LXK9|unreview... at 94.47%
+>Cluster 221
+0	736aa, >A0ABM0MAL4|unreview... *
+>Cluster 222
+0	735aa, >A0A7R5KAX9|unreview... *
+>Cluster 223
+0	734aa, >A0A087TGW8|unreview... *
+>Cluster 224
+0	734aa, >A0A1Y3ELC5|unreview... *
+>Cluster 225
+0	734aa, >A0A4Y7LNK0|unreview... *
+>Cluster 226
+0	733aa, >A0A6P8GL47|unreview... *
+>Cluster 227
+0	732aa, >A0A8J7TJY1|unreview... *
+>Cluster 228
+0	688aa, >A0A8C9Q8Z0|unreview... at 94.19%
+1	731aa, >A0A8C9QCJ9|unreview... *
+>Cluster 229
+0	730aa, >A0A6I8PF77|unreview... *
+>Cluster 230
+0	729aa, >A0A1X7VAU4|unreview... *
+>Cluster 231
+0	729aa, >A0A293LZH0|unreview... *
+>Cluster 232
+0	605aa, >A0A4Y2PG79|unreview... at 96.53%
+1	729aa, >A0A8T0FG16|unreview... *
+>Cluster 233
+0	684aa, >A0A3P9AI47|unreview... at 98.39%
+1	655aa, >A0A6Q2ZHW2|unreview... at 93.44%
+2	583aa, >A0AAY5KCQ8|unreview... at 95.88%
+3	728aa, >A0AAY5KG58|unreview... *
+4	662aa, >A0AAY5L6Y7|unreview... at 98.19%
+5	218aa, >A0AAY5LBE7|unreview... at 99.08%
+6	684aa, >A0ABD0WMX9|unreview... at 92.11%
+7	682aa, >A0ACC2FVT4|unreview... at 94.43%
+>Cluster 234
+0	728aa, >A0ABY6KUL3|unreview... *
+>Cluster 235
+0	421aa, >A0A4Z2CBX9|unreview... at 96.20%
+1	227aa, >A0A4Z2CC15|unreview... at 92.95%
+2	727aa, >A0A5C6PEH8|unreview... *
+3	666aa, >H2SQP6|unreviewed|S... at 96.70%
+4	678aa, >H3DFJ1|unreviewed|S... at 93.22%
+5	711aa, >Q4RRR3|unreviewed|S... at 91.42%
+>Cluster 236
+0	725aa, >A0A8B7YIB2|unreview... *
+1	720aa, >A0A8B7YNF5|unreview... at 100.00%
+2	715aa, >A0A914B5B4|unreview... at 90.77%
+3	720aa, >A0A914B657|unreview... at 90.83%
+>Cluster 237
+0	215aa, >A0A2D4JME6|unreview... at 94.88%
+1	706aa, >A0A670HRA2|unreview... at 92.92%
+2	703aa, >A0A670XXL7|unreview... at 91.75%
+3	703aa, >A0A6J1U6S3|unreview... at 91.61%
+4	703aa, >A0A6P9DCX6|unreview... at 91.89%
+5	705aa, >A0A8B9P9V1|unreview... at 90.78%
+6	604aa, >A0A8C0J155|unreview... at 90.40%
+7	703aa, >A0A8C4VL84|unreview... at 90.47%
+8	702aa, >A0A8C6VLC9|unreview... at 91.45%
+9	706aa, >A0A8D0BWM8|unreview... at 91.36%
+10	705aa, >A0A8D2ILA7|unreview... at 92.20%
+11	647aa, >A0A9Q1B8W0|unreview... at 94.13%
+12	705aa, >A0AAW1C4L8|unreview... at 92.77%
+13	705aa, >A0ABM4EEX3|unreview... at 90.92%
+14	706aa, >A0ABM5FC30|unreview... at 99.86%
+15	723aa, >A0ABM5FC38|unreview... *
+16	641aa, >K7FIW2|unreviewed|P... at 90.17%
+>Cluster 238
+0	722aa, >A0A671GCK2|unreview... *
+>Cluster 239
+0	692aa, >A0A3Q3GDX2|unreview... at 90.75%
+1	627aa, >A0A665TQ84|unreview... at 90.11%
+2	674aa, >A0A671UN09|unreview... at 91.84%
+3	722aa, >A0A7N6BIB4|unreview... *
+4	449aa, >A0A7N8YFJ5|unreview... at 92.20%
+>Cluster 240
+0	686aa, >A0A452I3N7|unreview... at 97.23%
+1	686aa, >A0A4D9DUD6|unreview... at 98.10%
+2	686aa, >A0A674IKN1|unreview... at 98.25%
+3	686aa, >A0A8C0GMV4|unreview... at 97.52%
+4	686aa, >A0A8C3I118|unreview... at 98.98%
+5	722aa, >A0A8C3I155|unreview... *
+6	651aa, >A0A8C3SU26|unreview... at 98.31%
+7	679aa, >A0A8C4VSG8|unreview... at 95.14%
+8	682aa, >A0A8C4VVR3|unreview... at 94.87%
+9	687aa, >A0A8C8RLS0|unreview... at 94.91%
+10	686aa, >A0A8T1SHQ9|unreview... at 97.81%
+11	629aa, >A0A9D3XK57|unreview... at 95.55%
+12	681aa, >K7FG73|unreviewed|S... at 95.89%
+>Cluster 241
+0	693aa, >A0A3B3DVK0|unreview... at 90.04%
+1	697aa, >A0A3P8P8L2|unreview... at 90.53%
+2	691aa, >A0A3P8P8T7|unreview... at 90.88%
+3	715aa, >A0A665WX73|unreview... at 92.87%
+4	688aa, >A0A669DB98|unreview... at 92.59%
+5	684aa, >A0A671VTX4|unreview... at 94.88%
+6	686aa, >A0A8C2YY64|unreview... at 93.73%
+7	722aa, >A0A8C4HGG9|unreview... *
+8	699aa, >A0AAQ6AIV0|unreview... at 94.13%
+>Cluster 242
+0	721aa, >A0AA35KNJ7|unreview... *
+>Cluster 243
+0	721aa, >A0AAN9BFA3|unreview... *
+>Cluster 244
+0	720aa, >A0ABD0LTJ7|unreview... *
+>Cluster 245
+0	719aa, >A0A3P9LWX4|unreview... *
+>Cluster 246
+0	712aa, >A0A1L8F9T5|unreview... at 95.22%
+1	719aa, >A0A6I8SPP2|unreview... *
+2	719aa, >A0A8J0SVX7|unreview... at 98.05%
+3	712aa, >A0A8J6F4N5|unreview... at 90.03%
+4	521aa, >A0A8J6F7E4|unreview... at 90.40%
+5	703aa, >A0A8T2JXW8|unreview... at 92.18%
+6	710aa, >A0A8T2K3J5|unreview... at 92.11%
+7	710aa, >A0A974C2Y7|unreview... at 94.51%
+8	712aa, >A0A974C993|unreview... at 95.22%
+9	703aa, >A0AAV2ZEW0|unreview... at 90.04%
+10	710aa, >F6ZXM4|unreviewed|P... at 99.15%
+11	712aa, >Q0IHW3|reviewed|Pro... at 98.74%
+12	710aa, >Q5FWP2|reviewed|Pro... at 94.65%
+>Cluster 247
+0	718aa, >A0A4D9ED42|unreview... *
+>Cluster 248
+0	717aa, >A0A6P8RZ60|unreview... *
+1	709aa, >A0A6P8S0C4|unreview... at 100.00%
+>Cluster 249
+0	717aa, >A0A7E6FKS0|unreview... *
+>Cluster 250
+0	569aa, >A0A8T2N9V6|unreview... at 97.36%
+1	717aa, >A0A8T3DCV1|unreview... *
+2	684aa, >A0A9D3PRI0|unreview... at 94.74%
+3	681aa, >A0A9Q1I9P4|unreview... at 94.42%
+4	711aa, >A0AAD7SZZ4|unreview... at 97.47%
+5	692aa, >W5N2P7|unreviewed|P... at 90.32%
+>Cluster 251
+0	211aa, >A0A6P5ANC4|unreview... at 98.10%
+1	715aa, >A0A8J9ZUM5|unreview... at 99.16%
+2	717aa, >A0A9J7N7F7|unreview... *
+>Cluster 252
+0	365aa, >A0A061HUK2|unreview... at 96.44%
+1	717aa, >G3HJD1|unreviewed|P... *
+>Cluster 253
+0	716aa, >A0A4W5RLI7|unreview... *
+>Cluster 254
+0	714aa, >A0A210PGZ2|unreview... *
+>Cluster 255
+0	689aa, >A0A0F7Z2V0|unreview... at 94.78%
+1	115aa, >A0A2D4G7L1|unreview... at 93.91%
+2	134aa, >A0A2D4G7M4|unreview... at 97.76%
+3	694aa, >A0A670YRJ8|unreview... at 97.98%
+4	606aa, >A0A670YRS2|unreview... at 96.20%
+5	694aa, >A0A670YTW8|unreview... at 97.69%
+6	714aa, >A0A670YY71|unreview... *
+7	581aa, >A0A670Z0C7|unreview... at 99.48%
+8	687aa, >A0A6J1VZN7|unreview... at 97.53%
+9	684aa, >A0A6J1W176|unreview... at 97.95%
+10	198aa, >A0A6J1WA17|unreview... at 97.47%
+11	686aa, >A0A6P9DCI6|unreview... at 96.21%
+12	685aa, >A0A8C5WXT6|unreview... at 97.37%
+13	687aa, >A0A8C6XIK1|unreview... at 97.09%
+14	685aa, >A0A9F5J4E1|unreview... at 94.74%
+15	688aa, >A0AA97KFT3|unreview... at 92.01%
+16	674aa, >A0ABM1JMG0|unreview... at 91.39%
+17	688aa, >A0ACB8FT48|unreview... at 91.28%
+18	688aa, >H9GEP0|unreviewed|P... at 90.70%
+>Cluster 256
+0	714aa, >A0A6I8PRQ7|unreview... *
+>Cluster 257
+0	714aa, >A0ABM1B877|unreview... *
+1	710aa, >A0ABM1B879|unreview... at 100.00%
+>Cluster 258
+0	164aa, >A0A7K8YJ37|unreview... at 96.34%
+1	165aa, >A0A7L3FEQ7|unreview... at 95.15%
+2	165aa, >A0A7L3WEU7|unreview... at 95.76%
+3	164aa, >A0A974B8R7|unreview... at 96.34%
+4	714aa, >A0ABM4EEX7|unreview... *
+>Cluster 259
+0	700aa, >A0A498LKU1|unreview... at 93.86%
+1	680aa, >A0A671LZY6|unreview... at 98.53%
+2	713aa, >A0A671M3E8|unreview... *
+3	675aa, >A0A672P9J3|unreview... at 98.22%
+4	678aa, >A0A672PA81|unreview... at 97.49%
+5	672aa, >A0A672Q8S7|unreview... at 94.49%
+6	680aa, >A0A673FS92|unreview... at 94.26%
+7	689aa, >A0A673FV64|unreview... at 94.78%
+8	672aa, >A0A673FVZ5|unreview... at 94.94%
+9	675aa, >A0A673G3X7|unreview... at 93.63%
+10	603aa, >A0A673G4W6|unreview... at 97.51%
+11	678aa, >A0A6P6LMB8|unreview... at 95.87%
+12	679aa, >A0A6P6LPP5|unreview... at 95.73%
+13	679aa, >A0A6P6MNT6|unreview... at 95.14%
+14	678aa, >A0A6P6MQL6|unreview... at 95.28%
+15	679aa, >A0A7J6C414|unreview... at 96.32%
+16	693aa, >A0A8C0YBY2|unreview... at 94.52%
+17	670aa, >A0A8C1FKD0|unreview... at 94.48%
+18	693aa, >A0A8C1GHC8|unreview... at 94.37%
+19	679aa, >A0A8C1GI00|unreview... at 96.32%
+20	693aa, >A0A8C1GS17|unreview... at 94.52%
+21	702aa, >A0A8C1GS77|unreview... at 93.59%
+22	688aa, >A0A8C1I9J0|unreview... at 94.04%
+23	672aa, >A0A8C1IXS3|unreview... at 95.54%
+24	654aa, >A0A8C1IXX7|unreview... at 93.43%
+25	690aa, >A0A8C1IYP8|unreview... at 95.07%
+26	663aa, >A0A8C1Q9N8|unreview... at 96.53%
+27	672aa, >A0A8C1XM95|unreview... at 95.83%
+28	654aa, >A0A8C2E3Y8|unreview... at 93.27%
+29	672aa, >A0A8C2E4L0|unreview... at 95.39%
+30	690aa, >A0A8C2E9H5|unreview... at 94.78%
+31	693aa, >A0A8C2IRA7|unreview... at 94.66%
+32	703aa, >A0A8C2IRC1|unreview... at 95.59%
+33	690aa, >A0A8C2IT82|unreview... at 96.09%
+34	593aa, >A0A8C2ITY6|unreview... at 94.44%
+35	684aa, >A0A8M3AU41|unreview... at 92.69%
+36	702aa, >A0A9J7WUP4|unreview... at 93.73%
+37	688aa, >A0A9J7YFU7|unreview... at 94.19%
+38	693aa, >A0A9J7ZB96|unreview... at 94.66%
+39	679aa, >A0A9J7ZL27|unreview... at 96.47%
+40	678aa, >A0A9J7ZPL1|unreview... at 96.61%
+41	693aa, >A0A9J8CNM5|unreview... at 94.81%
+42	677aa, >A0A9W7TWV6|unreview... at 92.02%
+43	678aa, >A0AA88TQ18|unreview... at 95.87%
+44	680aa, >A0AAN9D2N8|unreview... at 93.82%
+45	650aa, >A0AAW1ZDY8|unreview... at 90.31%
+46	679aa, >A0ABR3LYJ0|unreview... at 95.88%
+47	685aa, >X1WG96|unreviewed|P... at 92.55%
+>Cluster 260
+0	713aa, >A0AAE0SGG6|unreview... *
+1	712aa, >A0ABD3WQA1|unreview... at 95.79%
+>Cluster 261
+0	712aa, >A0AAV7AK59|unreview... *
+>Cluster 262
+0	92aa, >A0A7L2SQN0|unreview... at 94.57%
+1	712aa, >A0ABM4FZW9|unreview... *
+>Cluster 263
+0	706aa, >A0A4W3IA72|unreview... at 95.47%
+1	687aa, >A0A4W3IA84|unreview... at 95.63%
+2	708aa, >A0A4W3IUM5|unreview... at 95.06%
+3	710aa, >A0A4W3IUN6|unreview... *
+>Cluster 264
+0	710aa, >A0A6G0J297|unreview... *
+>Cluster 265
+0	710aa, >A0A7M7PQT4|unreview... *
+1	643aa, >A0A7M7PT79|unreview... at 100.00%
+>Cluster 266
+0	521aa, >A0AAD1TLT0|unreview... at 99.23%
+1	710aa, >A0AAD1TLZ0|unreview... *
+2	703aa, >A0AAD1WYG2|unreview... at 100.00%
+>Cluster 267
+0	709aa, >A0A401NK52|unreview... *
+1	709aa, >A0A401T7W9|unreview... at 96.33%
+>Cluster 268
+0	673aa, >A0A3Q1BWE7|unreview... at 94.80%
+1	709aa, >A0AAQ5ZAL6|unreview... *
+>Cluster 269
+0	709aa, >A0ABS2XPD8|unreview... *
+>Cluster 270
+0	683aa, >A0A1L8F416|unreview... at 93.41%
+1	684aa, >A0A6I8SG00|unreview... at 99.12%
+2	683aa, >A0A6I8SXW1|unreview... at 97.95%
+3	675aa, >A0A8J0SM26|unreview... at 99.11%
+4	684aa, >A0A8J0TIB1|unreview... at 93.27%
+5	558aa, >A0A8J0TMT1|unreview... at 91.22%
+6	676aa, >A0A974C7Z9|unreview... at 93.93%
+7	683aa, >A0A974H679|unreview... at 93.41%
+8	675aa, >A0A974H6N3|unreview... at 94.52%
+9	709aa, >F7EFX5|unreviewed|P... *
+10	675aa, >Q58E80|unreviewed|P... at 94.37%
+11	676aa, >Q6GLT9|unreviewed|P... at 93.93%
+>Cluster 271
+0	708aa, >A0A8J5ZS97|unreview... *
+>Cluster 272
+0	707aa, >A0A293LW67|unreview... *
+>Cluster 273
+0	707aa, >A0A401PK07|unreview... *
+1	707aa, >A0A401SR78|unreview... at 97.03%
+>Cluster 274
+0	707aa, >A0A811L5B5|unreview... *
+>Cluster 275
+0	707aa, >A0A8C5Q569|unreview... *
+1	644aa, >A0A8C5Q8E5|unreview... at 99.69%
+2	645aa, >A0A8C5Q929|unreview... at 99.53%
+>Cluster 276
+0	705aa, >A0A4W4DP31|unreview... *
+1	666aa, >A0A4W4DP62|unreview... at 98.05%
+2	690aa, >A0A4W4DPQ5|unreview... at 97.10%
+3	679aa, >A0AAD8YUF0|unreview... at 98.67%
+>Cluster 277
+0	705aa, >A0A674C003|unreview... *
+1	674aa, >A0A8C7FFX4|unreview... at 95.55%
+2	663aa, >A0A8L0DNS7|unreview... at 98.04%
+>Cluster 278
+0	704aa, >A0A4W3GY55|unreview... *
+1	681aa, >A0A4W3HI84|unreview... at 94.13%
+2	282aa, >V9L1I4|unreviewed|P... at 97.16%
+>Cluster 279
+0	699aa, >A0A2D0RL77|unreview... at 98.71%
+1	694aa, >A0A5N5N5V8|unreview... at 97.98%
+2	704aa, >A0A7J6AL62|unreview... *
+3	692aa, >A0A8J4UQ33|unreview... at 95.09%
+4	692aa, >A0A8T0BAG6|unreview... at 95.66%
+5	700aa, >A0A9D3NSR7|unreview... at 97.00%
+6	683aa, >A0A9F7REC4|unreview... at 96.34%
+7	697aa, >A0AA88MQI0|unreview... at 96.84%
+8	682aa, >A0AAD5A6V8|unreview... at 95.60%
+9	694aa, >A0ACC5WUY6|unreview... at 97.84%
+10	694aa, >A0ACC5YNK5|unreview... at 97.55%
+11	700aa, >W5UFT8|unreviewed|P... at 98.71%
+>Cluster 280
+0	704aa, >A0A8C4ZDM7|unreview... *
+>Cluster 281
+0	703aa, >A0A4W4FMG2|unreview... *
+>Cluster 282
+0	254aa, >A0A8C0B5J5|unreview... at 92.91%
+1	703aa, >A0A8C0U5R8|unreview... *
+2	644aa, >A0A8C3U5T6|unreview... at 99.07%
+>Cluster 283
+0	702aa, >A0A5A9MZD9|unreview... *
+>Cluster 284
+0	702aa, >A0A6P8GMR9|unreview... *
+>Cluster 285
+0	309aa, >A0A3Q7P653|unreview... at 91.26%
+1	309aa, >A0A6J2B132|unreview... at 91.26%
+2	240aa, >A0A9L0TGB3|unreview... at 99.58%
+3	702aa, >A0ABM4MCA8|unreview... *
+>Cluster 286
+0	701aa, >A0A2R5LNZ2|unreview... *
+>Cluster 287
+0	701aa, >A0A669CSY0|unreview... *
+1	678aa, >A0A669F8V5|unreview... at 98.23%
+2	650aa, >A0A6P7JEQ1|unreview... at 90.15%
+>Cluster 288
+0	700aa, >A0A1S3IQS7|unreview... *
+>Cluster 289
+0	700aa, >A0A7M5UGJ3|unreview... *
+1	688aa, >A0A7M5V2A4|unreview... at 99.71%
+>Cluster 290
+0	691aa, >A0A8D0DSS6|unreview... at 90.45%
+1	693aa, >A0A8D2JH82|unreview... at 91.34%
+2	700aa, >A0A9Q1AQN9|unreview... *
+3	694aa, >A0ABM5ET62|unreview... at 93.08%
+>Cluster 291
+0	700aa, >A0ABP1PQB9|unreview... *
+>Cluster 292
+0	237aa, >A0A5F9DEG1|unreview... at 91.14%
+1	700aa, >G1SJP2|unreviewed|P... *
+>Cluster 293
+0	699aa, >A0A3B5JYU5|unreview... *
+1	687aa, >H2UQ35|unreviewed|P... at 99.71%
+>Cluster 294
+0	699aa, >A0A5A9NPG2|unreview... *
+1	566aa, >A0A671M6R4|unreview... at 90.46%
+>Cluster 295
+0	634aa, >A0A7M4FMX5|unreview... at 90.85%
+1	699aa, >A0A7M4FR95|unreview... *
+2	661aa, >A0A8B9PEQ9|unreview... at 91.23%
+3	655aa, >A0A8C4JSH0|unreview... at 92.82%
+4	576aa, >A0A8C4JTT0|unreview... at 94.10%
+5	604aa, >A0A8C4VRA2|unreview... at 94.37%
+6	657aa, >A0A9D3X1U9|unreview... at 92.54%
+>Cluster 296
+0	537aa, >A0A3Q1JAT0|unreview... at 96.83%
+1	683aa, >A0A3Q3MQF2|unreview... at 93.56%
+2	695aa, >A0A4W6EHM3|unreview... at 92.23%
+3	679aa, >A0A672GWM1|unreview... at 92.19%
+4	699aa, >A0A7N6AQ17|unreview... *
+>Cluster 297
+0	699aa, >A0A8C2XXM8|unreview... *
+>Cluster 298
+0	631aa, >A0A6I9HDZ1|unreview... at 97.46%
+1	618aa, >A0A803VUP1|unreview... at 95.95%
+2	617aa, >A0A8C3ENZ2|unreview... at 97.41%
+3	631aa, >A0A8C3N7F0|unreview... at 97.62%
+4	650aa, >A0A8C3XGK8|unreview... at 94.92%
+5	699aa, >A0A8C9U1A2|unreview... *
+>Cluster 299
+0	698aa, >A0A668AXM7|unreview... *
+>Cluster 300
+0	698aa, >A0AAD8Z5A5|unreview... *
+>Cluster 301
+0	678aa, >A0A444UJF9|unreview... at 94.25%
+1	662aa, >A0A662YZH2|unreview... at 92.60%
+2	680aa, >A0ABR0YDB4|unreview... at 94.26%
+3	680aa, >A0ABR0ZSB3|unreview... at 93.97%
+4	698aa, >A0ABS2Y4P9|unreview... *
+>Cluster 302
+0	697aa, >A0A8D2MA56|unreview... *
+>Cluster 303
+0	678aa, >A0A8T2LHU1|unreview... at 95.28%
+1	689aa, >A0AAR2KAH9|unreview... at 98.11%
+2	697aa, >A0AAR2M4F0|unreview... *
+>Cluster 304
+0	635aa, >A0AAY4B5Y0|unreview... at 98.90%
+1	697aa, >A0AAY4B6G9|unreview... *
+2	653aa, >A0AAY4B6I4|unreview... at 100.00%
+>Cluster 305
+0	696aa, >A0A8W8I3U4|unreview... *
+1	490aa, >A0A8W8I4A3|unreview... at 100.00%
+2	696aa, >K1QEH5|unreviewed|S... at 99.71%
+>Cluster 306
+0	695aa, >A0A3Q2VNZ0|unreview... *
+1	684aa, >A0AAZ1Y412|unreview... at 95.32%
+>Cluster 307
+0	695aa, >A0AAN8D5P1|unreview... *
+>Cluster 308
+0	685aa, >A0A6P7ZEL7|unreview... at 95.18%
+1	693aa, >A0A6P7ZHK6|unreview... at 96.39%
+2	685aa, >A0A6P7ZIK6|unreview... at 96.50%
+3	686aa, >A0A6P8RYC3|unreview... at 100.00%
+4	694aa, >A0A6P8RZ66|unreview... *
+>Cluster 309
+0	664aa, >A0A8C4ZBI6|unreview... at 98.95%
+1	635aa, >A0A8C5A410|unreview... at 96.22%
+2	656aa, >A0A8C5AYP0|unreview... at 95.88%
+3	694aa, >A0A8C5FWJ4|unreview... *
+4	667aa, >A0A9Q0IBN2|unreview... at 94.45%
+5	648aa, >A0AA47MAA7|unreview... at 93.98%
+>Cluster 310
+0	677aa, >A0A8C9S5F0|unreview... at 99.11%
+1	447aa, >A0A8C9S7D9|unreview... at 95.97%
+2	683aa, >A0A8C9TJ27|unreview... at 98.10%
+3	694aa, >A0A8C9VA60|unreview... *
+4	679aa, >A0A8C9VTF3|unreview... at 98.53%
+5	665aa, >A0A8C9W306|unreview... at 95.04%
+6	675aa, >A0A8C9WH06|unreview... at 98.96%
+7	683aa, >A0A8D0CNG0|unreview... at 98.10%
+>Cluster 311
+0	677aa, >A0A3B4DZP6|unreview... at 98.52%
+1	673aa, >A0A8B9L8I8|unreview... at 94.21%
+2	693aa, >A0A8B9L8M1|unreview... at 92.06%
+3	694aa, >A0AAR2KX05|unreview... *
+4	685aa, >A0AAR2L1J4|unreview... at 94.31%
+5	474aa, >A0AAR2L256|unreview... at 94.09%
+6	673aa, >A0AAR2LNS7|unreview... at 99.26%
+7	690aa, >A0AAR2LVH3|unreview... at 93.19%
+8	673aa, >W5LNV8|unreviewed|S... at 94.06%
+>Cluster 312
+0	693aa, >A0A6I8NQG1|unreview... *
+>Cluster 313
+0	693aa, >A0A815VAT5|unreview... *
+>Cluster 314
+0	676aa, >A0AAV6VQN9|unreview... at 97.63%
+1	693aa, >A0AAV6VQY2|unreview... *
+>Cluster 315
+0	688aa, >A0A671M291|unreview... at 93.17%
+1	692aa, >A0A673G418|unreview... *
+2	671aa, >A0A8C1IXT0|unreview... at 90.76%
+3	587aa, >A0A8C1XN27|unreview... at 92.33%
+4	671aa, >A0A8C1XSP7|unreview... at 91.06%
+5	587aa, >A0A8C2E237|unreview... at 92.16%
+6	671aa, >A0A8C2E2R6|unreview... at 90.61%
+7	671aa, >A0A9J7ZEY9|unreview... at 90.91%
+>Cluster 316
+0	692aa, >A0A8B8DTY5|unreview... *
+>Cluster 317
+0	692aa, >A0ACB7EH91|unreview... *
+>Cluster 318
+0	691aa, >A0A1U7T3T9|unreview... *
+>Cluster 319
+0	590aa, >A0A3B3I2G1|unreview... at 99.66%
+1	574aa, >A0A3P9HK89|unreview... at 97.56%
+2	691aa, >A0A3P9KCW9|unreview... *
+>Cluster 320
+0	691aa, >A0A670JCI6|unreview... *
+>Cluster 321
+0	643aa, >A0A8C5E3J0|unreview... at 93.00%
+1	670aa, >A0A8C5E3M5|unreview... at 94.48%
+2	677aa, >A0A8C5E3U4|unreview... at 94.53%
+3	690aa, >A0A8C5EDN7|unreview... *
+>Cluster 322
+0	690aa, >A0AAV5UYA1|unreview... *
+>Cluster 323
+0	648aa, >A0AAQ4RSS8|unreview... at 97.99%
+1	642aa, >G3P9N6|unreviewed|S... at 98.60%
+2	690aa, >G3P9N7|unreviewed|S... *
+>Cluster 324
+0	689aa, >A0A3P9KD17|unreview... *
+>Cluster 325
+0	689aa, >A0A9J7M168|unreview... *
+1	688aa, >C3XZ12|unreviewed|S... at 95.64%
+>Cluster 326
+0	663aa, >A0AAV4Q6T7|unreview... at 98.04%
+1	689aa, >A0AAV4Q800|unreview... *
+>Cluster 327
+0	686aa, >A0A674NQ31|unreview... at 91.98%
+1	689aa, >H3DN85|unreviewed|P... *
+>Cluster 328
+0	665aa, >A0A671UPB9|unreview... at 90.98%
+1	681aa, >A0A8C4I1M2|unreview... at 94.86%
+2	654aa, >A0A8C4I1S3|unreview... at 93.88%
+3	688aa, >A0A8C4I4E7|unreview... *
+>Cluster 329
+0	685aa, >A0A8C4SNF3|unreview... at 99.85%
+1	651aa, >A0A8C4SNG3|unreview... at 97.24%
+2	688aa, >A0A8C4XBW7|unreview... *
+3	468aa, >A0A8X7WXY8|unreview... at 97.01%
+>Cluster 330
+0	688aa, >A0A8D0L869|unreview... *
+>Cluster 331
+0	688aa, >T1IPZ4|unreviewed|S... *
+>Cluster 332
+0	438aa, >A0A8T3DEA9|unreview... at 94.29%
+1	687aa, >A0A9D3PXT6|unreview... *
+2	682aa, >A0A9Q1D3N2|unreview... at 91.06%
+3	684aa, >A0A9Q1FWV8|unreview... at 92.54%
+4	684aa, >A0AAD7T5C2|unreview... at 94.59%
+5	682aa, >W5NBG9|unreviewed|S... at 90.47%
+>Cluster 333
+0	687aa, >A0AAD5FQZ8|unreview... *
+>Cluster 334
+0	687aa, >A0AAV7N0S5|unreview... *
+>Cluster 335
+0	686aa, >A0A6J2VN97|unreview... *
+>Cluster 336
+0	686aa, >A0A6P3Y3B9|unreview... *
+1	676aa, >A0A6P3Y3C3|unreview... at 99.85%
+2	685aa, >A0A6P3Y4U8|unreview... at 99.85%
+3	643aa, >A0A6P3Y4V3|unreview... at 97.20%
+4	679aa, >A0A6P3Y5G8|unreview... at 100.00%
+5	685aa, >A0A6P3Y5H8|unreview... at 100.00%
+6	675aa, >A0A6P3Y5I1|unreview... at 99.85%
+7	634aa, >A0A6P3Y5I5|unreview... at 100.00%
+>Cluster 337
+0	679aa, >A0A674DDH4|unreview... at 92.93%
+1	686aa, >A0A8K9XWI1|unreview... *
+>Cluster 338
+0	686aa, >A0A9Q0DTH9|unreview... *
+>Cluster 339
+0	683aa, >A0A6P3WD71|unreview... at 92.68%
+1	686aa, >A0AAV6G7K7|unreview... *
+2	685aa, >A0ABD1KA95|unreview... at 92.55%
+>Cluster 340
+0	679aa, >A0A3B3QGX5|unreview... at 98.67%
+1	685aa, >A0A3B3QH00|unreview... *
+>Cluster 341
+0	685aa, >A0A3B3RQJ2|unreview... *
+>Cluster 342
+0	598aa, >A0A671P0R9|unreview... at 92.47%
+1	623aa, >A0A671P2P7|unreview... at 95.02%
+2	651aa, >A0A671P447|unreview... at 95.70%
+3	646aa, >A0A673LDG9|unreview... at 95.67%
+4	634aa, >A0A673LKS6|unreview... at 95.27%
+5	658aa, >A0A673MHC4|unreview... at 93.92%
+6	653aa, >A0A6P6QVD7|unreview... at 94.33%
+7	661aa, >A0A6P6QY08|unreview... at 93.19%
+8	685aa, >A0A9J7Y825|unreview... *
+>Cluster 343
+0	685aa, >A0ABQ9TUY7|unreview... *
+1	365aa, >Q8IXP7|unreviewed|S... at 96.99%
+>Cluster 344
+0	684aa, >A0A151N0D3|unreview... *
+>Cluster 345
+0	684aa, >A0A8C1JQ67|unreview... *
+>Cluster 346
+0	593aa, >A0A1S3GUE4|unreview... at 90.56%
+1	684aa, >A0AAW0HN89|unreview... *
+>Cluster 347
+0	684aa, >A0ABQ7TQE7|unreview... *
+>Cluster 348
+0	683aa, >A0A087XSL3|unreview... *
+>Cluster 349
+0	683aa, >A0A6J3EM87|unreview... *
+>Cluster 350
+0	683aa, >A0A8T2JZG0|unreview... *
+>Cluster 351
+0	683aa, >A0AA36DMX2|unreview... *
+>Cluster 352
+0	680aa, >A0A671M2B6|unreview... at 92.35%
+1	665aa, >A0A672PC14|unreview... at 94.44%
+2	665aa, >A0A672PC35|unreview... at 94.44%
+3	664aa, >A0A672Q7Z0|unreview... at 93.98%
+4	678aa, >A0A672QA12|unreview... at 92.04%
+5	669aa, >A0A8C1FAW2|unreview... at 92.68%
+6	669aa, >A0A8C1GJN3|unreview... at 92.83%
+7	682aa, >A0A8C1IXR9|unreview... *
+8	647aa, >A0A8C1XN18|unreview... at 96.91%
+9	647aa, >A0A8C2E2T5|unreview... at 95.98%
+10	647aa, >A0A8C2E4N2|unreview... at 96.75%
+11	625aa, >A0A8C2IT67|unreview... at 94.56%
+>Cluster 353
+0	674aa, >A0AAV3A0X3|unreview... at 100.00%
+1	682aa, >A0AAV3A4M0|unreview... *
+>Cluster 354
+0	681aa, >A0A2I0LUG5|unreview... *
+>Cluster 355
+0	388aa, >A0A1A7WPA9|unreview... at 90.72%
+1	680aa, >A0A8C6KSB8|unreview... *
+>Cluster 356
+0	680aa, >A0A8C8IUW9|unreview... *
+>Cluster 357
+0	680aa, >A0A8C9EN73|unreview... *
+>Cluster 358
+0	679aa, >A0A3Q3GX67|unreview... *
+>Cluster 359
+0	679aa, >A0A672Q7K1|unreview... *
+>Cluster 360
+0	676aa, >A0A8U7N2B8|unreview... *
+>Cluster 361
+0	676aa, >A0A9F2NBD8|unreview... *
+>Cluster 362
+0	676aa, >A0AC58KJX5|unreview... *
+>Cluster 363
+0	670aa, >A0A452UZZ1|unreview... at 96.27%
+1	668aa, >A0A452V036|unreview... at 95.36%
+2	670aa, >L5L3H7|unreviewed|S... at 95.97%
+3	676aa, >L5LEI2|unreviewed|S... *
+>Cluster 364
+0	675aa, >A0A0B2VBT0|unreview... *
+1	654aa, >A0A183UKE0|unreview... at 99.85%
+>Cluster 365
+0	675aa, >A0A8J6GNL5|unreview... *
+>Cluster 366
+0	675aa, >A0A8S4BP07|unreview... *
+>Cluster 367
+0	675aa, >A0AAY4AJX1|unreview... *
+>Cluster 368
+0	674aa, >A0A1W0X312|unreview... *
+>Cluster 369
+0	674aa, >A0A6J2VMV5|unreview... *
+>Cluster 370
+0	658aa, >A0A1S3SMC5|unreview... at 93.47%
+1	674aa, >A0A6Q2YBB8|unreview... *
+>Cluster 371
+0	674aa, >A0A8C5WE48|unreview... *
+>Cluster 372
+0	674aa, >A0ABQ0FHW3|unreview... *
+>Cluster 373
+0	673aa, >A0A087XH98|unreview... *
+1	671aa, >A0A146ZUE5|unreview... at 94.63%
+2	671aa, >A0A1A7ZZ93|unreview... at 90.31%
+3	671aa, >A0A1A8D419|unreview... at 90.31%
+4	669aa, >A0A1A8HC31|unreview... at 90.43%
+5	671aa, >A0A1A8HY69|unreview... at 90.46%
+6	671aa, >A0A1A8MAF8|unreview... at 90.61%
+7	671aa, >A0A1A8SNG6|unreview... at 90.61%
+8	671aa, >A0A2I4BJJ7|unreview... at 91.36%
+9	646aa, >A0A2I4BJL0|unreview... at 90.09%
+10	673aa, >A0A315VFD2|unreview... at 95.99%
+11	673aa, >A0A3B3W019|unreview... at 99.70%
+12	648aa, >A0A3B3W0I9|unreview... at 98.77%
+13	673aa, >A0A3B3Y7G7|unreview... at 100.00%
+14	673aa, >A0A3B5RCC2|unreview... at 98.07%
+15	673aa, >A0A3P9P1F1|unreview... at 96.58%
+16	642aa, >A0A3P9P1N9|unreview... at 98.13%
+17	671aa, >A0A3Q2EEC5|unreview... at 94.78%
+18	663aa, >A0A3Q2GP98|unreview... at 93.67%
+19	646aa, >A0A3Q2NUZ6|unreview... at 93.50%
+20	645aa, >A0AAV9QZQ1|unreview... at 94.42%
+21	638aa, >A0ABU7C1E5|unreview... at 94.04%
+22	664aa, >A0ABU7EMT9|unreview... at 95.18%
+23	639aa, >A0ABV0UJP3|unreview... at 93.58%
+24	639aa, >A0ABV0Z211|unreview... at 94.21%
+>Cluster 374
+0	631aa, >A0A260ZII5|unreview... at 97.78%
+1	673aa, >A0A260ZYI9|unreview... *
+2	668aa, >A0A6A5GBV7|unreview... at 97.60%
+3	671aa, >E3LJZ5|unreviewed|S... at 95.83%
+>Cluster 375
+0	650aa, >A0A8K9USW2|unreview... at 100.00%
+1	648aa, >A0A8K9XD44|unreview... at 98.92%
+2	673aa, >A0A8L0DJY5|unreview... *
+>Cluster 376
+0	658aa, >A0A8C0KUU6|unreview... at 94.68%
+1	673aa, >L9LBT4|unreviewed|S... *
+>Cluster 377
+0	672aa, >A0A2I3HF37|unreview... *
+>Cluster 378
+0	672aa, >A0AAN8WZ28|unreview... *
+>Cluster 379
+0	672aa, >A0AAW0MXJ6|unreview... *
+>Cluster 380
+0	671aa, >A0AAD9BWH0|unreview... *
+>Cluster 381
+0	669aa, >A0A1A7YL64|unreview... *
+1	457aa, >A0A1A8P9A5|unreview... at 96.72%
+2	659aa, >A0A8C6KHH3|unreview... at 96.05%
+>Cluster 382
+0	647aa, >A0A3Q1CDN0|unreview... at 94.44%
+1	650aa, >A0A3Q4N5F1|unreview... at 92.62%
+2	639aa, >A0A667XX97|unreview... at 92.02%
+3	619aa, >A0A667Y450|unreview... at 91.92%
+4	548aa, >A0A669E6C5|unreview... at 91.97%
+5	553aa, >A0A672ZJU6|unreview... at 91.50%
+6	667aa, >A0A6J2QYS7|unreview... at 94.15%
+7	669aa, >A0A8D0AY51|unreview... *
+8	653aa, >A0AAX7TI15|unreview... at 92.96%
+9	650aa, >A0AAX7U5X5|unreview... at 92.62%
+>Cluster 383
+0	433aa, >A0AAQ4Q657|unreview... at 97.92%
+1	652aa, >A0AAQ4RID0|unreview... at 96.63%
+2	669aa, >G3PZ49|unreviewed|P... *
+>Cluster 384
+0	668aa, >A0A3B4C7M2|unreview... *
+1	652aa, >A0AAR2K053|unreview... at 96.17%
+>Cluster 385
+0	654aa, >A0A6J1TM12|unreview... at 93.43%
+1	668aa, >A0A6P8ZIP0|unreview... *
+2	653aa, >A0AAE1L6B7|unreview... at 92.50%
+3	655aa, >A0AAV7XF09|unreview... at 91.30%
+>Cluster 386
+0	635aa, >A0A2B4SCQ3|unreview... at 93.07%
+1	664aa, >A0A3M6THM1|unreview... at 95.48%
+2	668aa, >A0AAU9W2R0|unreview... *
+>Cluster 387
+0	667aa, >A0A4W3H291|unreview... *
+>Cluster 388
+0	667aa, >A0A553NIG7|unreview... *
+>Cluster 389
+0	665aa, >A0A2K5VAR8|unreview... at 97.44%
+1	666aa, >A0A4X1SWC1|unreview... *
+2	659aa, >A0A7N4NMX7|unreview... at 91.96%
+>Cluster 390
+0	665aa, >A0A672M6X9|unreview... *
+>Cluster 391
+0	664aa, >A0A9W9ZEL6|unreview... *
+>Cluster 392
+0	663aa, >A0A4W3H1T6|unreview... *
+>Cluster 393
+0	619aa, >A0A4X2KPE3|unreview... at 98.22%
+1	619aa, >A0A5F8GVQ6|unreview... at 98.06%
+2	619aa, >A0A6P5KMR9|unreview... at 98.87%
+3	663aa, >A0A6P5KMV0|unreview... *
+>Cluster 394
+0	662aa, >A0A087XSG4|unreview... *
+1	662aa, >A0A096MAU6|unreview... at 99.09%
+>Cluster 395
+0	662aa, >A0A663LTS4|unreview... *
+>Cluster 396
+0	662aa, >A0AAV6HI51|unreview... *
+>Cluster 397
+0	662aa, >A0ABQ0EYE7|unreview... *
+>Cluster 398
+0	661aa, >A0A670JEN4|unreview... *
+>Cluster 399
+0	617aa, >A0A8C6CY21|unreview... at 94.33%
+1	661aa, >A0A8C6CZR9|unreview... *
+>Cluster 400
+0	661aa, >A0A9D3N1V0|unreview... *
+>Cluster 401
+0	648aa, >A0A8C6VPW0|unreview... at 96.76%
+1	661aa, >V8PJ86|unreviewed|P... *
+>Cluster 402
+0	613aa, >A0A3Q2YHQ2|unreview... at 95.11%
+1	653aa, >A0A3Q2YHR1|unreview... at 99.54%
+2	659aa, >A0A3Q2YJ47|unreview... *
+>Cluster 403
+0	659aa, >A0A553MXY6|unreview... *
+>Cluster 404
+0	658aa, >A0A3Q3W769|unreview... *
+>Cluster 405
+0	657aa, >A0A8S1E7C1|unreview... *
+>Cluster 406
+0	656aa, >A0A4W4DNU4|unreview... *
+>Cluster 407
+0	656aa, >A0A672G0U2|unreview... *
+>Cluster 408
+0	655aa, >A0A8C7RSE8|unreview... *
+>Cluster 409
+0	513aa, >A0A226MDP9|unreview... at 99.42%
+1	654aa, >A0A669QHQ4|unreview... *
+2	648aa, >A0A8B9TK32|unreview... at 90.59%
+3	644aa, >A0ABC9XWB2|unreview... at 91.30%
+>Cluster 410
+0	654aa, >A0A9Q1ELM8|unreview... *
+>Cluster 411
+0	653aa, >A0A158Q2I3|unreview... *
+>Cluster 412
+0	651aa, >A0A8C2BW75|unreview... at 97.24%
+1	653aa, >A0A9J8BTP3|unreview... *
+>Cluster 413
+0	653aa, >H3AUE5|unreviewed|S... *
+>Cluster 414
+0	652aa, >A0A4W5QZ37|unreview... *
+1	636aa, >A0A8C8MDX4|unreview... at 94.03%
+>Cluster 415
+0	652aa, >H9GN74|unreviewed|P... *
+>Cluster 416
+0	651aa, >A0A8R1DGZ0|unreview... *
+1	631aa, >A0A8R1DHV9|unreview... at 100.00%
+>Cluster 417
+0	650aa, >M3ZPT2|unreviewed|S... *
+>Cluster 418
+0	649aa, >A0A3B4AC67|unreview... *
+>Cluster 419
+0	649aa, >A0A7R5KWN7|unreview... *
+>Cluster 420
+0	649aa, >A0A8D0GK11|unreview... *
+1	617aa, >A0AA97KLL4|unreview... at 91.09%
+2	617aa, >A0ABM1JNF4|unreview... at 90.60%
+>Cluster 421
+0	617aa, >A0A151N3F7|unreview... at 94.33%
+1	629aa, >A0A1U7RZT4|unreview... at 92.85%
+2	648aa, >A0A674K6M6|unreview... *
+3	567aa, >A0A7M4FLK8|unreview... at 92.06%
+4	648aa, >A0A8C3I4Y4|unreview... at 99.69%
+5	570aa, >A0A8C8VEZ8|unreview... at 92.11%
+>Cluster 422
+0	648aa, >A0A7R9SEU9|unreview... *
+>Cluster 423
+0	648aa, >A0AAV2J056|unreview... *
+>Cluster 424
+0	647aa, >A0A7R5KKS4|unreview... *
+>Cluster 425
+0	647aa, >A0A8C6NIT2|unreview... *
+>Cluster 426
+0	607aa, >A0A2I2Y1V1|unreview... at 92.92%
+1	629aa, >A0A2I2Z3K3|unreview... at 99.68%
+2	647aa, >G3RNS4|unreviewed|S... *
+3	636aa, >G3RXL0|unreviewed|S... at 99.06%
+>Cluster 427
+0	646aa, >A0A643BMN0|unreview... *
+>Cluster 428
+0	646aa, >A0A9D3RNR1|unreview... *
+>Cluster 429
+0	645aa, >A0A232F858|unreview... *
+>Cluster 430
+0	645aa, >A0A671QKX2|unreview... *
+1	644aa, >A0A671QSA6|unreview... at 99.22%
+>Cluster 431
+0	645aa, >A0A8C5WE47|unreview... *
+>Cluster 432
+0	644aa, >A0A6S7FUL5|unreview... *
+1	623aa, >A0A6S7FWB8|unreview... at 100.00%
+>Cluster 433
+0	644aa, >A0A913YFL7|unreview... *
+>Cluster 434
+0	643aa, >A0A3Q1ATX0|unreview... *
+1	638aa, >A0A665WWT3|unreview... at 91.38%
+2	624aa, >A0A8C4HF65|unreview... at 93.91%
+>Cluster 435
+0	643aa, >A0A6P8GFX8|unreview... *
+>Cluster 436
+0	642aa, >A0A668UZ59|unreview... *
+>Cluster 437
+0	642aa, >A0A6P8IUK8|unreview... *
+>Cluster 438
+0	642aa, >A0AAW0MNG5|unreview... *
+>Cluster 439
+0	641aa, >A0A672ZSI4|unreview... *
+>Cluster 440
+0	641aa, >A0A834J863|unreview... *
+1	635aa, >A0A834JAV0|unreview... at 99.84%
+2	636aa, >A0A834NC79|unreview... at 99.53%
+3	614aa, >A0AAD9VLQ8|unreview... at 92.51%
+4	641aa, >A0ABD2BQR6|unreview... at 99.84%
+5	639aa, >A0ABD2C2F6|unreview... at 97.97%
+6	624aa, >A0ABM1IVU2|unreview... at 91.35%
+>Cluster 441
+0	641aa, >A0AAJ7BJG2|unreview... *
+>Cluster 442
+0	640aa, >A0A3Q3WMP3|unreview... *
+>Cluster 443
+0	615aa, >A0A0J7LAI3|unreview... at 100.00%
+1	640aa, >A0AAV2N898|unreview... *
+2	615aa, >A0AAV2N934|unreview... at 100.00%
+3	615aa, >E2A6J2|unreviewed|P... at 92.52%
+>Cluster 444
+0	639aa, >A0A8C6KES8|unreview... *
+>Cluster 445
+0	638aa, >A0A7R9EPD6|unreview... *
+>Cluster 446
+0	633aa, >A0A1S3RIC0|unreview... at 94.47%
+1	621aa, >A0A1S3SMD3|unreview... at 93.88%
+2	637aa, >A0A3P8YH06|unreview... *
+3	633aa, >A0A673ZR31|unreview... at 94.63%
+4	624aa, >A0A674BZW1|unreview... at 93.91%
+5	624aa, >A0A8C7FFU2|unreview... at 94.23%
+6	630aa, >A0A8C7JF92|unreview... at 94.60%
+7	633aa, >A0A8C7PMP6|unreview... at 94.47%
+8	633aa, >A0A8C8D8T1|unreview... at 93.52%
+9	625aa, >A0A8U0PFT5|unreview... at 93.60%
+>Cluster 447
+0	504aa, >A0A3B4GUE0|unreview... at 98.02%
+1	620aa, >A0A3B4GWY7|unreview... at 98.71%
+2	620aa, >A0A3P9CD81|unreview... at 98.55%
+3	600aa, >A0A3Q2QGA1|unreview... at 90.67%
+4	500aa, >A0A3Q2VQ59|unreview... at 98.60%
+5	637aa, >A0A3Q2X689|unreview... *
+6	503aa, >A0A3Q3GSG1|unreview... at 91.05%
+7	620aa, >A0A3Q4GSP8|unreview... at 98.55%
+8	502aa, >A0A3Q4GZH8|unreview... at 97.81%
+9	620aa, >A0A668V473|unreview... at 98.23%
+10	620aa, >A0A669F6R0|unreview... at 98.23%
+11	598aa, >A0A672ZV06|unreview... at 90.80%
+12	595aa, >A0A8C2YY81|unreview... at 90.92%
+>Cluster 448
+0	637aa, >A0A671LDR5|unreview... *
+1	624aa, >A0A671LE39|unreview... at 95.19%
+2	632aa, >A0A671LJI1|unreview... at 93.51%
+>Cluster 449
+0	574aa, >A0A8C4RAY3|unreview... at 93.73%
+1	554aa, >A0A8C4RB89|unreview... at 95.85%
+2	637aa, >A0A8C4RC73|unreview... *
+>Cluster 450
+0	637aa, >A0ABN8N0W7|unreview... *
+1	604aa, >A0ABN8SA21|unreview... at 99.34%
+>Cluster 451
+0	603aa, >A0A1I7TQT0|unreview... at 100.00%
+1	636aa, >A0A1I7TQT1|unreview... *
+>Cluster 452
+0	636aa, >A0A452V032|unreview... *
+>Cluster 453
+0	636aa, >A0A674GBV2|unreview... *
+>Cluster 454
+0	636aa, >A0A834XUG1|unreview... *
+>Cluster 455
+0	348aa, >A0ABQ9TCG2|unreview... at 97.99%
+1	636aa, >A0ABQ9U0Y2|unreview... *
+>Cluster 456
+0	636aa, >M7AT34|unreviewed|S... *
+>Cluster 457
+0	627aa, >A0A3B4YIK3|unreview... at 93.46%
+1	627aa, >A0A3Q1JMT1|unreview... at 91.07%
+2	625aa, >A0A3Q3GIG8|unreview... at 92.96%
+3	630aa, >A0A4W6EHL5|unreview... at 93.17%
+4	625aa, >A0A6J2PEQ6|unreview... at 95.04%
+5	627aa, >A0A6J2PHC4|unreview... at 95.06%
+6	624aa, >A0A6P7HQ66|unreview... at 91.19%
+7	635aa, >A0A6P8SSU6|unreview... *
+8	629aa, >A0A8C9YZC3|unreview... at 94.28%
+9	635aa, >A0A8D3A3D5|unreview... at 92.13%
+10	627aa, >A0A8P4KLC1|unreview... at 93.30%
+11	633aa, >A0AAV1EMT6|unreview... at 91.63%
+>Cluster 458
+0	618aa, >A0A670HRB2|unreview... at 92.88%
+1	615aa, >A0A6J1U5F7|unreview... at 91.06%
+2	615aa, >A0A6P9D173|unreview... at 91.38%
+3	617aa, >A0A8B9PCU0|unreview... at 90.44%
+4	516aa, >A0A8C0J0I1|unreview... at 90.12%
+5	615aa, >A0A8C4VII6|unreview... at 90.08%
+6	514aa, >A0A8C5RN56|unreview... at 90.47%
+7	615aa, >A0A8C6VSP2|unreview... at 91.38%
+8	618aa, >A0A8D0BRM6|unreview... at 91.26%
+9	618aa, >A0AA35JRI2|unreview... at 92.88%
+10	453aa, >A0AA35JU86|unreview... at 90.29%
+11	617aa, >A0ABM4EF09|unreview... at 90.60%
+12	635aa, >A0ABM5FC35|unreview... *
+13	618aa, >A0ABM5FC45|unreview... at 99.84%
+>Cluster 459
+0	634aa, >A0A2A2J9S6|unreview... *
+>Cluster 460
+0	634aa, >E2C1I0|unreviewed|S... *
+>Cluster 461
+0	633aa, >A0A151XBI9|unreview... *
+1	618aa, >A0A158NII7|unreview... at 90.61%
+2	618aa, >A0A195B6H7|unreview... at 90.61%
+3	618aa, >A0A195EL93|unreview... at 90.45%
+4	618aa, >A0A195ESP9|unreview... at 90.29%
+5	52aa, >A0A6V7JNQ7|unreview... at 90.38%
+6	617aa, >A0A836EMK4|unreview... at 90.44%
+7	617aa, >A0A836ET41|unreview... at 90.44%
+8	617aa, >A0A836K2R2|unreview... at 90.44%
+9	617aa, >F4WCJ9|unreviewed|P... at 90.44%
+>Cluster 462
+0	633aa, >A0A8C1IXY9|unreview... *
+1	633aa, >A0A9J7YWS4|unreview... at 99.84%
+>Cluster 463
+0	632aa, >A0AAV7B4K0|unreview... *
+>Cluster 464
+0	632aa, >A0ABM1AYG3|unreview... *
+>Cluster 465
+0	632aa, >G1RQE9|unreviewed|P... *
+>Cluster 466
+0	529aa, >A0A485MJ40|unreview... at 100.00%
+1	630aa, >A0A8C9KEC5|unreview... *
+2	560aa, >H2R081|unreviewed|P... at 97.32%
+>Cluster 467
+0	629aa, >A0A6Q2XMG8|unreview... *
+>Cluster 468
+0	629aa, >A0A7N8XXJ4|unreview... *
+>Cluster 469
+0	629aa, >O76699|unreviewed|S... *
+>Cluster 470
+0	622aa, >A0A026VV79|unreview... at 99.84%
+1	628aa, >A0A3L8D550|unreview... *
+>Cluster 471
+0	628aa, >A0A3M0JCI6|unreview... *
+1	164aa, >A0A7K5R2I9|unreview... at 95.12%
+2	164aa, >A0A7K6V0N5|unreview... at 95.12%
+3	164aa, >A0A7L4E703|unreview... at 99.39%
+>Cluster 472
+0	628aa, >A0A4S2KT00|unreview... *
+1	501aa, >A0A6J1QEV2|unreview... at 99.00%
+>Cluster 473
+0	627aa, >A0A1D1UJS2|unreview... *
+>Cluster 474
+0	627aa, >A0A3B3I865|unreview... *
+>Cluster 475
+0	627aa, >A0A8C9EZ40|unreview... *
+1	622aa, >A0A8C9FR92|unreview... at 98.71%
+>Cluster 476
+0	627aa, >A0ABM4CFU8|unreview... *
+1	615aa, >A0ABM4CFV1|unreview... at 99.67%
+2	627aa, >T2MC61|unreviewed|S... at 99.52%
+>Cluster 477
+0	626aa, >A0ABM4EEX8|unreview... *
+>Cluster 478
+0	625aa, >A0A3Q2DTE0|unreview... *
+>Cluster 479
+0	624aa, >A0A8J6F658|unreview... *
+1	622aa, >A0A8T2JZM9|unreview... at 90.68%
+>Cluster 480
+0	604aa, >A0A3B4ZM83|unreview... at 90.56%
+1	623aa, >A0A3P9HJW0|unreview... *
+2	622aa, >A0A3P9KCN0|unreview... at 99.84%
+>Cluster 481
+0	623aa, >A0A482WVT2|unreview... *
+>Cluster 482
+0	623aa, >A0A6J0BBE2|unreview... *
+1	622aa, >A0ABM3GIQ3|unreview... at 100.00%
+2	620aa, >A0ABM3GIQ7|unreview... at 100.00%
+>Cluster 483
+0	622aa, >A0A0P7WI17|unreview... *
+1	604aa, >A0A8C9SN57|unreview... at 91.06%
+>Cluster 484
+0	621aa, >A0A674DCZ0|unreview... *
+1	598aa, >A0A8C7WB43|unreview... at 92.81%
+>Cluster 485
+0	621aa, >A0A8C4QE58|unreview... *
+>Cluster 486
+0	604aa, >A0A8S1CII6|unreview... at 100.00%
+1	621aa, >A0A8S1CQC4|unreview... *
+>Cluster 487
+0	621aa, >A0AAV7XF87|unreview... *
+>Cluster 488
+0	621aa, >A0ABN7RXU3|unreview... *
+>Cluster 489
+0	620aa, >A0A3Q0FNE8|unreview... *
+>Cluster 490
+0	620aa, >A0A4C1UDV5|unreview... *
+>Cluster 491
+0	613aa, >A0A2A3E3M9|unreview... at 96.08%
+1	613aa, >A0A6J3KHL5|unreview... at 94.78%
+2	613aa, >A0A6P3URE6|unreview... at 95.11%
+3	613aa, >A0A6P8MY72|unreview... at 95.11%
+4	606aa, >A0A6V7H4T8|unreview... at 99.17%
+5	613aa, >A0A7M7GPP6|unreview... at 96.08%
+6	620aa, >A0A833RRA8|unreview... *
+7	613aa, >A0A9B2JJG2|unreview... at 95.11%
+8	613aa, >A0AA40KTM3|unreview... at 96.41%
+9	611aa, >A0AAJ7IU74|unreview... at 95.09%
+10	613aa, >A0AAW1AC68|unreview... at 97.88%
+11	614aa, >A0ABP1NUA2|unreview... at 95.28%
+>Cluster 492
+0	619aa, >A0A0C9RCR1|unreview... *
+1	165aa, >A0A6V7JKJ1|unreview... at 90.91%
+2	619aa, >A0A9R1TYC3|unreview... at 99.84%
+>Cluster 493
+0	619aa, >A0A674GSN8|unreview... *
+>Cluster 494
+0	619aa, >A0A8C5Q7F8|unreview... *
+>Cluster 495
+0	618aa, >A0A4W3H0H2|unreview... *
+>Cluster 496
+0	618aa, >A0A4W3I389|unreview... *
+1	449aa, >V9KVB8|unreviewed|S... at 99.78%
+>Cluster 497
+0	618aa, >A0A6A4TEB9|unreview... *
+>Cluster 498
+0	618aa, >A0A6I9WAH8|unreview... *
+>Cluster 499
+0	617aa, >A0A195C4I9|unreview... *
+1	617aa, >A0A836E6J6|unreview... at 94.65%
+>Cluster 500
+0	602aa, >A0A672PGR8|unreview... at 96.68%
+1	581aa, >A0A673FV14|unreview... at 95.18%
+2	607aa, >A0A8C1GHU7|unreview... at 96.05%
+3	596aa, >A0A8C1IZ12|unreview... at 93.79%
+4	599aa, >A0A8C1XVV7|unreview... at 96.49%
+5	599aa, >A0A8C2E3A5|unreview... at 95.99%
+6	617aa, >A0A8C2ISJ9|unreview... *
+7	601aa, >A0A9J7Y7D4|unreview... at 96.17%
+8	607aa, >A0A9J8A470|unreview... at 96.71%
+>Cluster 501
+0	617aa, >A0AA39F643|unreview... *
+>Cluster 502
+0	617aa, >A0AAW2GHW8|unreview... *
+1	557aa, >A0AAW2GIV0|unreview... at 97.85%
+>Cluster 503
+0	616aa, >A0A8D0ATZ0|unreview... *
+>Cluster 504
+0	616aa, >A0AA39EWR4|unreview... *
+>Cluster 505
+0	615aa, >A0A8C6TF62|unreview... *
+>Cluster 506
+0	614aa, >A0A8J2HEE9|unreview... *
+1	614aa, >A0AAV7I5X6|unreview... at 99.35%
+>Cluster 507
+0	614aa, >A0AC55DAB3|unreview... *
+>Cluster 508
+0	613aa, >A0A6P8RUE4|unreview... *
+>Cluster 509
+0	613aa, >S4RUV1|unreviewed|S... *
+>Cluster 510
+0	612aa, >A0A3B1IVV8|unreview... *
+1	601aa, >A0AAR2KCT7|unreview... at 93.34%
+>Cluster 511
+0	587aa, >A0A3B4YIM6|unreview... at 90.29%
+1	612aa, >A0A3Q2XLW4|unreview... *
+2	584aa, >A0A672GVB3|unreview... at 90.24%
+>Cluster 512
+0	612aa, >A0A6P8GL51|unreview... *
+1	574aa, >A0ABD1IRF9|unreview... at 90.94%
+>Cluster 513
+0	612aa, >A0A8C8FSF6|unreview... *
+>Cluster 514
+0	612aa, >A0AAW1TVF0|unreview... *
+>Cluster 515
+0	611aa, >A0ABN9LEZ6|unreview... *
+>Cluster 516
+0	610aa, >A0A7M7H7S6|unreview... *
+>Cluster 517
+0	609aa, >A0A2T7NXT2|unreview... *
+>Cluster 518
+0	609aa, >A0ABD2WRU7|unreview... *
+>Cluster 519
+0	608aa, >A0A2D0RL71|unreview... *
+1	607aa, >A0A2D0RMU6|unreview... at 100.00%
+>Cluster 520
+0	608aa, >A0A8C1ZRP1|unreview... *
+>Cluster 521
+0	608aa, >A0AAJ6YE45|unreview... *
+>Cluster 522
+0	607aa, >A0A6P6FBB7|unreview... at 96.87%
+1	607aa, >A0A9B2JR30|unreview... at 97.03%
+2	608aa, >A0ABP1NRT4|unreview... *
+>Cluster 523
+0	607aa, >A0ABM1MT47|unreview... *
+>Cluster 524
+0	606aa, >A0AAN5DBZ3|unreview... *
+>Cluster 525
+0	604aa, >A0A3B3QHK0|unreview... *
+>Cluster 526
+0	604aa, >A0A3B4B5P5|unreview... *
+>Cluster 527
+0	604aa, >A0A7L3XF36|unreview... *
+>Cluster 528
+0	598aa, >A0A4W4DPX8|unreview... at 90.80%
+1	507aa, >A0A8B9LCZ7|unreview... at 91.72%
+2	604aa, >A0AAR2J732|unreview... *
+>Cluster 529
+0	603aa, >A0A8C3UCH0|unreview... *
+>Cluster 530
+0	602aa, >A0A7F5RMJ2|unreview... *
+>Cluster 531
+0	413aa, >A0A8B6E969|unreview... at 97.58%
+1	602aa, >A0A8B6F0J4|unreview... *
+2	595aa, >A0A8B6F3B0|unreview... at 99.16%
+3	591aa, >A0A8S3SRB2|unreview... at 98.98%
+>Cluster 532
+0	602aa, >A0A8C1R4X4|unreview... *
+1	585aa, >A0A8C1ZNM8|unreview... at 99.32%
+>Cluster 533
+0	602aa, >A0A8U8C315|unreview... *
+>Cluster 534
+0	602aa, >A0AAY4AJW9|unreview... *
+>Cluster 535
+0	602aa, >A0ABM4MCB4|unreview... *
+1	509aa, >A6KE36|unreviewed|P... at 91.16%
+>Cluster 536
+0	602aa, >A0ABN9LIX7|unreview... *
+>Cluster 537
+0	601aa, >A0A3Q1JM36|unreview... *
+>Cluster 538
+0	581aa, >A0AAW2HAT4|unreview... at 100.00%
+1	601aa, >A0AAW2HAW6|unreview... *
+>Cluster 539
+0	601aa, >A0ACC2PLG6|unreview... *
+>Cluster 540
+0	600aa, >A0A669CWL1|unreview... *
+>Cluster 541
+0	599aa, >A0A3Q2DVX1|unreview... *
+1	594aa, >M4A611|unreviewed|P... at 91.25%
+>Cluster 542
+0	599aa, >A0A6J2VJR1|unreview... *
+>Cluster 543
+0	599aa, >A0ABD0STU2|unreview... *
+1	599aa, >A0ABR3HQH0|unreview... at 99.83%
+>Cluster 544
+0	486aa, >A0A3B4V0M2|unreview... at 93.62%
+1	583aa, >A0A3P8UKG7|unreview... at 91.08%
+2	596aa, >A0A671VXL6|unreview... *
+>Cluster 545
+0	596aa, >A0A6J2VMT0|unreview... *
+>Cluster 546
+0	596aa, >A0A8C6NL85|unreview... *
+>Cluster 547
+0	595aa, >A0A3B3RQW9|unreview... *
+>Cluster 548
+0	595aa, >A0A3B3UY19|unreview... *
+>Cluster 549
+0	595aa, >A0A3P9CDC7|unreview... *
+1	587aa, >A0A3Q0SS16|unreview... at 90.46%
+>Cluster 550
+0	595aa, >A0A8B8HSZ4|unreview... *
+1	570aa, >A0A8B8HWA0|unreview... at 92.63%
+>Cluster 551
+0	594aa, >A0A8C7MDY1|unreview... at 99.66%
+1	595aa, >A0A8C8CNR3|unreview... *
+2	595aa, >A0A8L0DU58|unreview... at 99.66%
+>Cluster 552
+0	595aa, >A0ABN8B3M8|unreview... *
+>Cluster 553
+0	594aa, >A0A8C5Q254|unreview... *
+>Cluster 554
+0	592aa, >E0W3G2|unreviewed|P... *
+>Cluster 555
+0	591aa, >A0A9P1IUX9|unreview... *
+>Cluster 556
+0	591aa, >A0AAD9VAZ4|unreview... *
+>Cluster 557
+0	590aa, >A0A2A2LIF0|unreview... *
+>Cluster 558
+0	589aa, >A0A9P0C2Z2|unreview... *
+>Cluster 559
+0	588aa, >A0A7I8W4V9|unreview... *
+>Cluster 560
+0	587aa, >A0A154PHP0|unreview... *
+>Cluster 561
+0	587aa, >A0A8B9NBS7|unreview... *
+1	540aa, >A0A8B9NCP0|unreview... at 90.93%
+>Cluster 562
+0	586aa, >A0A3P7KWS3|unreview... *
+>Cluster 563
+0	586aa, >A0AA39LVZ4|unreview... *
+>Cluster 564
+0	584aa, >A0A834DGS4|unreview... *
+1	537aa, >A0ABM0RI86|unreview... at 95.90%
+>Cluster 565
+0	584aa, >A0AAD8E2A2|unreview... *
+>Cluster 566
+0	584aa, >A0AAV4VNI9|unreview... *
+>Cluster 567
+0	583aa, >A0A0L7QNZ4|unreview... *
+1	577aa, >A0A0M9ADF3|unreview... at 95.15%
+>Cluster 568
+0	583aa, >A0AAY4B978|unreview... *
+>Cluster 569
+0	582aa, >A0A7E5A0J9|unreview... *
+>Cluster 570
+0	582aa, >A0AAN8P514|unreview... *
+>Cluster 571
+0	581aa, >A0A8C6QXA1|unreview... *
+>Cluster 572
+0	581aa, >A0A8K9XQG5|unreview... *
+>Cluster 573
+0	581aa, >A0ABD2MH45|unreview... *
+>Cluster 574
+0	579aa, >A0A8C6THD5|unreview... *
+>Cluster 575
+0	577aa, >A0A3Q3WM73|unreview... at 94.97%
+1	575aa, >A0A667XUI2|unreview... at 92.70%
+2	572aa, >A0A672ZJR1|unreview... at 94.06%
+3	484aa, >A0A672ZLY9|unreview... at 90.70%
+4	480aa, >A0A8C2X2J7|unreview... at 91.04%
+5	578aa, >A0A8C4I510|unreview... *
+6	570aa, >A0A8D3BNV5|unreview... at 94.74%
+>Cluster 576
+0	577aa, >A0A8K0GM10|unreview... *
+>Cluster 577
+0	577aa, >R7UDX4|unreviewed|S... *
+>Cluster 578
+0	576aa, >A0A3Q3JC54|unreview... *
+>Cluster 579
+0	576aa, >A0AAV8Y5C2|unreview... *
+>Cluster 580
+0	575aa, >A0A8C0EX73|unreview... *
+>Cluster 581
+0	574aa, >A0AAN7PHP4|unreview... *
+>Cluster 582
+0	573aa, >A0AAV8WAR2|unreview... *
+>Cluster 583
+0	471aa, >A0A3P8RL12|unreview... at 99.58%
+1	572aa, >A0A3Q1CAD2|unreview... *
+>Cluster 584
+0	572aa, >A0AAR2M5C3|unreview... *
+>Cluster 585
+0	571aa, >A0A287B077|unreview... *
+1	571aa, >A0A8D0P1Q2|unreview... at 99.82%
+2	571aa, >A0A8D1VG57|unreview... at 99.65%
+3	571aa, >A0A8D1XDL4|unreview... at 100.00%
+>Cluster 586
+0	571aa, >A0AAD5QDI4|unreview... *
+>Cluster 587
+0	569aa, >A0A1Y1MNJ4|unreview... *
+1	565aa, >A0AAN7V7J8|unreview... at 93.98%
+>Cluster 588
+0	569aa, >A0A9N7VXQ0|unreview... *
+>Cluster 589
+0	568aa, >A0A5B7DCV0|unreview... *
+>Cluster 590
+0	568aa, >A0A7M7K3M8|unreview... *
+>Cluster 591
+0	567aa, >A0A674AFN4|unreview... *
+>Cluster 592
+0	566aa, >A0A9P0CMH9|unreview... *
+1	459aa, >A0A9P0CRY1|unreview... at 97.39%
+>Cluster 593
+0	565aa, >A0A0T6B5V6|unreview... *
+1	385aa, >A0AAW1N3V4|unreview... at 94.81%
+2	391aa, >A0ACB9TAY0|unreview... at 93.86%
+3	391aa, >A0ACB9TB39|unreview... at 94.12%
+>Cluster 594
+0	565aa, >A0A1B6DMR5|unreview... *
+1	434aa, >A0A1B6E981|unreview... at 100.00%
+>Cluster 595
+0	565aa, >A0A482VLT3|unreview... *
+1	563aa, >A0AA38IRT6|unreview... at 91.83%
+>Cluster 596
+0	565aa, >A0A8T2NP82|unreview... *
+>Cluster 597
+0	564aa, >A0A6P7GRT2|unreview... *
+1	564aa, >A0A9N9SM21|unreview... at 97.52%
+>Cluster 598
+0	564aa, >A0A803TTT5|unreview... *
+>Cluster 599
+0	563aa, >A0A8B9ZEJ1|unreview... *
+>Cluster 600
+0	563aa, >A0A8C1ZRM2|unreview... *
+>Cluster 601
+0	563aa, >A0A9N9SF45|unreview... *
+>Cluster 602
+0	562aa, >A0A2I3GLF5|unreview... *
+>Cluster 603
+0	562aa, >A0A6F9DQY7|unreview... *
+>Cluster 604
+0	562aa, >A0ABQ8RXR2|unreview... *
+>Cluster 605
+0	562aa, >D2A1R9|unreviewed|S... *
+>Cluster 606
+0	561aa, >A0A9N9TEC4|unreview... *
+>Cluster 607
+0	560aa, >A0A833YU20|unreview... *
+>Cluster 608
+0	560aa, >A0AC35TNR9|unreview... *
+>Cluster 609
+0	559aa, >A0AAW0UXT9|unreview... *
+>Cluster 610
+0	558aa, >A0A4U5NW42|unreview... *
+1	501aa, >A0A4V6A4Q0|unreview... at 100.00%
+>Cluster 611
+0	558aa, >A0A653CUG7|unreview... *
+>Cluster 612
+0	558aa, >A0A9P0LHM9|unreview... *
+>Cluster 613
+0	557aa, >A0A267G5H2|unreview... *
+>Cluster 614
+0	555aa, >A0A3P8BIK1|unreview... *
+>Cluster 615
+0	555aa, >A0A8C5A5Q4|unreview... *
+>Cluster 616
+0	554aa, >A0A3B5KRH7|unreview... *
+>Cluster 617
+0	554aa, >A0A8C8FTW3|unreview... *
+>Cluster 618
+0	549aa, >A0A6J2XUQ5|unreview... *
+>Cluster 619
+0	548aa, >A0A1B6EQB0|unreview... *
+1	539aa, >A0A1B6FK46|unreview... at 100.00%
+2	263aa, >A0A1B6HCY3|unreview... at 98.86%
+3	254aa, >A0A1B6IFQ7|unreview... at 98.82%
+>Cluster 620
+0	547aa, >A0A834MC08|unreview... *
+>Cluster 621
+0	547aa, >A0A8C4QDY4|unreview... *
+>Cluster 622
+0	546aa, >N6UCL1|unreviewed|S... *
+1	546aa, >U4U7N9|unreviewed|S... at 99.82%
+>Cluster 623
+0	545aa, >A0A672JXD8|unreview... *
+1	537aa, >A0A672JXG2|unreview... at 98.70%
+>Cluster 624
+0	545aa, >A0ABP0FJ16|unreview... *
+>Cluster 625
+0	543aa, >A0A9P0FME8|unreview... *
+>Cluster 626
+0	543aa, >A0ACB9XVZ8|unreview... *
+>Cluster 627
+0	542aa, >A0A5E4QKU6|unreview... *
+>Cluster 628
+0	541aa, >A0A9P0F7E7|unreview... *
+>Cluster 629
+0	540aa, >A0ABY7FEB3|unreview... *
+>Cluster 630
+0	536aa, >A0A085LUZ3|unreview... *
+1	536aa, >A0A085NIP4|unreview... at 99.81%
+>Cluster 631
+0	535aa, >A0A671P132|unreview... *
+>Cluster 632
+0	534aa, >A0A7L3V7F7|unreview... *
+>Cluster 633
+0	533aa, >A0A5N3V365|unreview... *
+1	533aa, >A0A5N3XLY0|unreview... at 98.87%
+>Cluster 634
+0	533aa, >A0A8D3DSA5|unreview... *
+>Cluster 635
+0	508aa, >A0ABR1DTH3|unreview... at 94.88%
+1	531aa, >A0ABR1DVZ1|unreview... *
+>Cluster 636
+0	527aa, >A0ABM0K3Y9|unreview... *
+>Cluster 637
+0	525aa, >A0A6I8PGV2|unreview... *
+>Cluster 638
+0	525aa, >A0A7I4YTG1|unreview... *
+>Cluster 639
+0	525aa, >A0A8D8WTE1|unreview... *
+>Cluster 640
+0	157aa, >A0A914CHZ7|unreview... at 95.54%
+1	525aa, >A0A914ECI3|unreview... *
+>Cluster 641
+0	521aa, >A0A672M6Q3|unreview... *
+1	489aa, >A0A672M6W1|unreview... at 98.57%
+2	495aa, >A0A672M6W5|unreview... at 96.36%
+>Cluster 642
+0	519aa, >A0A069DV84|unreview... *
+1	216aa, >A0A0V0GCX4|unreview... at 97.69%
+2	519aa, >A0A224XLQ0|unreview... at 99.04%
+3	514aa, >A0AAW1DP48|unreview... at 90.47%
+>Cluster 643
+0	518aa, >A0A8C7XHF2|unreview... *
+>Cluster 644
+0	518aa, >A0A9N9ML84|unreview... *
+>Cluster 645
+0	516aa, >E4XGF1|unreviewed|S... *
+>Cluster 646
+0	515aa, >A0A674AFD4|unreview... *
+>Cluster 647
+0	515aa, >A0AC35FNX4|unreview... *
+>Cluster 648
+0	506aa, >A0A0A9XT79|unreview... at 100.00%
+1	513aa, >A0A0A9XXM1|unreview... *
+2	228aa, >A0A0K8S923|unreview... at 100.00%
+3	221aa, >A0A0K8SL75|unreview... at 100.00%
+4	506aa, >A0A6A4JI31|unreview... at 93.08%
+>Cluster 649
+0	513aa, >A0ABN7B8P8|unreview... *
+>Cluster 650
+0	436aa, >A0A3L8S977|unreview... at 91.28%
+1	512aa, >A0AAN7RYN6|unreview... *
+>Cluster 651
+0	510aa, >A0AC34FKG6|unreview... *
+>Cluster 652
+0	508aa, >A0A8I6RF13|unreview... *
+1	498aa, >A0A8I6RG12|unreview... at 100.00%
+>Cluster 653
+0	507aa, >A0A060VZN3|unreview... *
+>Cluster 654
+0	506aa, >A0A7I8WDG9|unreview... *
+>Cluster 655
+0	505aa, >A0A9P0HIV4|unreview... *
+>Cluster 656
+0	502aa, >A0A0K0D9M5|unreview... *
+>Cluster 657
+0	502aa, >A0A8B9LCU9|unreview... *
+>Cluster 658
+0	500aa, >A0A8C8LSQ0|unreview... *
+>Cluster 659
+0	497aa, >A0A8D0DH86|unreview... *
+>Cluster 660
+0	495aa, >A0A3Q3JJW1|unreview... *
+1	495aa, >A0A672G6T4|unreview... at 92.53%
+2	488aa, >A0A7N8XU32|unreview... at 93.85%
+>Cluster 661
+0	495aa, >A0A669EBI6|unreview... *
+>Cluster 662
+0	494aa, >F6T065|unreviewed|S... *
+>Cluster 663
+0	491aa, >A0A3B5LQU7|unreview... *
+>Cluster 664
+0	490aa, >A0A4W4DP10|unreview... *
+>Cluster 665
+0	490aa, >W2TKP1|unreviewed|U... *
+>Cluster 666
+0	485aa, >A0A7F8RPI3|unreview... *
+>Cluster 667
+0	482aa, >A0A8C5G5L4|unreview... *
+>Cluster 668
+0	480aa, >A0A674NS86|unreview... *
+>Cluster 669
+0	473aa, >A0A224Z628|unreview... *
+1	401aa, >L7LZ39|unreviewed|U... at 94.26%
+>Cluster 670
+0	468aa, >A0A7K5BII9|unreview... *
+>Cluster 671
+0	467aa, >A0A9N6WQX7|unreview... *
+>Cluster 672
+0	466aa, >A0A9D4KXF6|unreview... *
+>Cluster 673
+0	459aa, >A0A023FSH9|unreview... *
+>Cluster 674
+0	457aa, >A0A1S3D7E8|unreview... *
+>Cluster 675
+0	457aa, >A0AA40LPE3|unreview... *
+>Cluster 676
+0	455aa, >A0A667Y443|unreview... *
+>Cluster 677
+0	451aa, >A0A091M9V5|unreview... *
+>Cluster 678
+0	445aa, >A0A8S4S2C4|unreview... *
+1	253aa, >S4P7V5|unreviewed|S... at 100.00%
+>Cluster 679
+0	444aa, >A0A443QP99|unreview... *
+>Cluster 680
+0	444aa, >A0ABQ9JWJ0|unreview... *
+>Cluster 681
+0	439aa, >A0A1I7XMB1|unreview... *
+>Cluster 682
+0	438aa, >A0AAJ6VXA3|unreview... *
+>Cluster 683
+0	437aa, >B3RJT1|unreviewed|S... *
+>Cluster 684
+0	434aa, >A0A7J8CLD5|unreview... *
+>Cluster 685
+0	431aa, >A0A4U1FJS2|unreview... *
+>Cluster 686
+0	431aa, >A7RJ95|unreviewed|S... *
+>Cluster 687
+0	431aa, >L9JDK1|unreviewed|P... *
+>Cluster 688
+0	429aa, >A0A8J5TP96|unreview... *
+>Cluster 689
+0	423aa, >A0A7J8CLD4|unreview... at 95.74%
+1	425aa, >A0A833YS68|unreview... *
+>Cluster 690
+0	425aa, >A0A914XF09|unreview... *
+>Cluster 691
+0	424aa, >A0AAV5SP18|unreview... *
+>Cluster 692
+0	423aa, >A0ABD0YSQ3|unreview... *
+>Cluster 693
+0	419aa, >A0A1V9XF14|unreview... *
+>Cluster 694
+0	345aa, >A0A096NV58|unreview... at 95.65%
+1	345aa, >A0A2I2ZXF0|unreview... at 97.39%
+2	345aa, >A0A2J8PHI8|unreview... at 97.39%
+3	345aa, >A0A2J8WKY3|unreview... at 97.39%
+4	344aa, >A0A2K5EZ57|unreview... at 95.35%
+5	345aa, >A0A2K5J1J7|unreview... at 95.36%
+6	345aa, >A0A2K5NW66|unreview... at 95.65%
+7	337aa, >A0A2K5QGU7|unreview... at 94.66%
+8	345aa, >A0A2K5ZEM9|unreview... at 95.65%
+9	345aa, >A0A2K6BXE4|unreview... at 95.36%
+10	345aa, >A0A2K6MWL7|unreview... at 95.65%
+11	345aa, >A0A2K6QN40|unreview... at 95.65%
+12	344aa, >A0A2R8M431|unreview... at 94.77%
+13	327aa, >A0A452SKU6|unreview... at 90.83%
+14	345aa, >A0A6D2X328|unreview... at 97.39%
+15	345aa, >A0A8C9IXE3|unreview... at 95.65%
+16	345aa, >A0A8D2EYY0|unreview... at 95.65%
+17	418aa, >A0A8I5U304|unreview... *
+18	345aa, >G3V2R1|unreviewed|S... at 97.10%
+19	383aa, >Q8WW19|unreviewed|S... at 92.17%
+>Cluster 695
+0	417aa, >A0A3M0IP54|unreview... *
+>Cluster 696
+0	414aa, >A0ABM1DZ45|unreview... *
+>Cluster 697
+0	413aa, >A0A060XDK3|unreview... *
+>Cluster 698
+0	405aa, >V4BWU5|unreviewed|S... *
+>Cluster 699
+0	404aa, >T1KQ93|unreviewed|S... *
+>Cluster 700
+0	400aa, >A0A423U9B0|unreview... *
+>Cluster 701
+0	400aa, >A0A7K7NT10|unreview... *
+>Cluster 702
+0	398aa, >A0A5N5TPU2|unreview... *
+>Cluster 703
+0	397aa, >A0A915D7Y8|unreview... *
+>Cluster 704
+0	390aa, >A0ABQ7SS87|unreview... *
+>Cluster 705
+0	378aa, >A0A1A6GIS7|unreview... *
+>Cluster 706
+0	377aa, >A0A0B1TAW6|unreview... *
+>Cluster 707
+0	372aa, >A0A8D0DEA3|unreview... *
+>Cluster 708
+0	336aa, >A0A6J2B6M8|unreview... at 91.37%
+1	370aa, >A0ABM4MCB6|unreview... *
+>Cluster 709
+0	369aa, >A0A7J7SLR4|unreview... *
+>Cluster 710
+0	369aa, >A0ACB9TB00|unreview... *
+>Cluster 711
+0	366aa, >A0AB34HBR7|unreview... *
+>Cluster 712
+0	362aa, >Q4RGI5|unreviewed|(... *
+>Cluster 713
+0	356aa, >A0A016T529|unreview... at 100.00%
+1	359aa, >A0A016T581|unreview... *
+>Cluster 714
+0	357aa, >A0A6I9YK04|unreview... *
+>Cluster 715
+0	356aa, >H2ZCX7|unreviewed|S... *
+>Cluster 716
+0	350aa, >A0A2Y9NAG7|unreview... *
+>Cluster 717
+0	346aa, >A0A368FYX9|unreview... *
+>Cluster 718
+0	341aa, >A0A2K6G8E7|unreview... at 92.08%
+1	346aa, >A0A8C5VV93|unreview... *
+>Cluster 719
+0	346aa, >A0AAX6TB72|unreview... *
+>Cluster 720
+0	345aa, >A0A2R9BYY9|unreview... *
+>Cluster 721
+0	343aa, >A0A643C5Z7|unreview... *
+>Cluster 722
+0	335aa, >A0A7F8R1F8|unreview... *
+>Cluster 723
+0	332aa, >A0A8V0Y095|unreview... *
+>Cluster 724
+0	329aa, >A0A2K6SSK5|unreview... *
+>Cluster 725
+0	329aa, >A0A452ULF0|unreview... *
+>Cluster 726
+0	329aa, >A0AAU9YWX6|unreview... *
+>Cluster 727
+0	329aa, >A0AAV2RWM6|unreview... *
+>Cluster 728
+0	318aa, >A0A8C1W4G0|unreview... *
+>Cluster 729
+0	313aa, >A0A8J4XRK7|unreview... *
+>Cluster 730
+0	308aa, >A0A2P4S5Z3|unreview... *
+>Cluster 731
+0	300aa, >A0A0R3PQ67|unreview... *
+>Cluster 732
+0	291aa, >A0A0L8GD64|unreview... *
+>Cluster 733
+0	291aa, >A0A8K0NW01|unreview... *
+>Cluster 734
+0	282aa, >A0A914US58|unreview... *
+1	108aa, >A0A914V8Q6|unreview... at 100.00%
+2	118aa, >A0A914WQ86|unreview... at 98.31%
+>Cluster 735
+0	257aa, >A0A8C2P4N1|unreview... *
+>Cluster 736
+0	254aa, >A0A5F9DM84|unreview... *
+>Cluster 737
+0	239aa, >A0A8C1W714|unreview... *
+>Cluster 738
+0	232aa, >A0A0N4XIL7|unreview... *
+>Cluster 739
+0	211aa, >A0A8C4QVW8|unreview... *
+>Cluster 740
+0	210aa, >A0A1B6KEM9|unreview... *
+1	201aa, >A0A1B6LLP1|unreview... at 100.00%
+>Cluster 741
+0	206aa, >A0A835TNL4|unreview... *
+>Cluster 742
+0	148aa, >A0A1D2NC96|unreview... *
+>Cluster 743
+0	124aa, >A0ABQ9TH89|unreview... *
+>Cluster 744
+0	117aa, >G9KMC5|unreviewed|S... *
+>Cluster 745
+0	114aa, >A0A2I3BRV2|unreview... *

@@ -1,0 +1,37 @@
+# 1. Creación del entorno de trabajo con los canales necesarios[cite: 1]
+pepe@pepe-VivoBook:~/TrabajoAB$ conda create -n bioinfo -c bioconda -c conda-forge cd-hit[cite: 1]
+
+## Package Plan ##
+  environment location: /home/pepe/miniconda3/envs/bioinfo[cite: 1]
+  added / updated specs:
+    - cd-hit[cite: 1]
+
+The following NEW packages will be INSTALLED:
+  cd-hit             bioconda/linux-64::cd-hit-4.8.1-h5ca1c30_13[cite: 1]
+  ...
+Preparing transaction: done[cite: 1]
+Verifying transaction: done[cite: 1]
+Executing transaction: done[cite: 1]
+
+# 2. Activación del entorno[cite: 1]
+pepe@pepe-VivoBook:~/TrabajoAB$ conda activate bioinfo[cite: 1]
+
+# 3. Ejecución de CD-HIT para eliminar redundancia al 90%[cite: 1]
+(bioinfo) pepe@pepe-VivoBook:~/TrabajoAB$ cd-hit -i protein-matching-IPR037093.fasta -o smaug_clean.fasta -c 0.90 -n 5[cite: 1]
+
+================================================================[cite: 1]
+Program: CD-HIT, V4.8.1 (+OpenMP), Apr 24 2025, 22:00:32[cite: 1]
+Command: cd-hit -i protein-matching-IPR037093.fasta -o smaug_clean.fasta -c 0.90 -n 5[cite: 1]
+================================================================[cite: 1]
+                            Output                               
+----------------------------------------------------------------[cite: 1]
+total seq: 2920[cite: 1]
+longest and shortest : 2239 and 52[cite: 1]
+Total letters: 1907428[cite: 1]
+Sequences have been sorted[cite: 1]
+comparing sequences from          0  to       2920[cite: 1]
+      2920  finished        746  clusters[cite: 1]
+writing new database[cite: 1]
+writing clustering information[cite: 1]
+program completed ![cite: 1]
+Total CPU time 0.78[cite: 1]

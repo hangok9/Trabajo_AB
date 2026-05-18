@@ -1,0 +1,1 @@
+cd-hit -i protein-matching-IPR037093.fasta -o smaug_clean.fasta -c 0.90 -n

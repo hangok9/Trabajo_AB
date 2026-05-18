@@ -1,0 +1,320 @@
+Script started on 2026-04-30 15:05:23+02:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="94" LINES="7"]
+[?2004h(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mconda install -c bioconda cd[27m[7m-[27m[7mhit[27m[A(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda install -c bioconda cd-hit
+[?2004lRetrieving notices: - \ done
+Channels:
+ - bioconda
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ done
+Solving environment: / - done
+
+## Package Plan ##
+
+  environment location: /home/pepe/miniconda3
+
+  added / updated specs:
+    - cd-hit
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    cd-hit-4.8.1               |       h2e03b76_5         251 KB  bioconda
+    certifi-2026.4.22          |  py312h06a4308_0         133 KB
+    openssl-3.0.18             |       hd6dcaed_0         4.5 MB
+    ------------------------------------------------------------
+                                           Total:         4.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  cd-hit             bioconda/linux-64::cd-hit-4.8.1-h2e03b76_5 
+
+The following packages will be UPDATED:
+
+  ca-certificates                      2025.2.25-h06a4308_0 --> 2026.3.19-h06a4308_0 
+  certifi            anaconda::certifi-2025.6.15-py312h06a~ --> pkgs/main::certifi-2026.4.22-py312h06a4308_0 
+  openssl                                 3.0.16-h5eee18b_0 --> 3.0.18-hd6dcaed_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+openssl-3.0.18       | 4.5 MB    |                                                     |   0% 
+cd-hit-4.8.1         | 251 KB    |                                                     |   0% [A
+
+certifi-2026.4.22    | 133 KB    |                                                     |   0% [A[Aopenssl-3.0.18       | 4.5 MB    | 1                                                   |   0% 
+
+certifi-2026.4.22    | 133 KB    | ######1                                             |  12% [A[A
+
+certifi-2026.4.22    | 133 KB    | ################################################### | 100% [A[A
+
+certifi-2026.4.22    | 133 KB    | ################################################### | 100% [A[Aopenssl-3.0.18       | 4.5 MB    | ##########4                                         |  21% 
+cd-hit-4.8.1         | 251 KB    | ###2                                                |   6% [Aopenssl-3.0.18       | 4.5 MB    | ###########################5                        |  54% 
+cd-hit-4.8.1         | 251 KB    | ##########################################2         |  83% [A
+cd-hit-4.8.1         | 251 KB    | ################################################### | 100% [Aopenssl-3.0.18       | 4.5 MB    | ######################################7             |  76% 
+cd-hit-4.8.1         | 251 KB    | ################################################### | 100% [Aopenssl-3.0.18       | 4.5 MB    | ################################################### | 100% openssl-3.0.18       | 4.5 MB    | ################################################### | 100% openssl-3.0.18       | 4.5 MB    | ################################################### | 100%                                                                                               
+                                                                                              [A
+
+                                                                                              [A[A
+Preparing transaction: / done
+Verifying transaction: \ failed
+
+RemoveError: 'packaging' is a dependency of conda and cannot be removed from
+conda's operating environment.
+RemoveError: 'requests' is a dependency of conda and cannot be removed from
+conda's operating environment.
+
+[?2004h(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mconda create -n bioinfo cd-h[27m[7mi[27m[7mt[27m[A(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda create -n bioinfo cd-hit[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lChannels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - done
+Solving environment: | failed
+
+PackagesNotFoundError: The following packages are not available from current channels:
+
+  - cd-hit
+
+Current channels:
+
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+
+To search for alternate channels that may provide the conda package you're
+looking for, navigate to
+
+    https://anaconda.org
+
+and use the search bar at the top of the page.
+
+
+[?2004h(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda create -n bioinfo cd-hit[A(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconda actia[Kvate bioinfo
+[?2004l
+EnvironmentNameNotFound: Could not find conda environment: bioinfo
+You can list all discoverable environments with `conda info --envs`.
+
+
+[?2004h(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda activate bioinfo[K[7mconda activate bioinfo[27mconda activate bioinfo
+[?2004l
+EnvironmentNameNotFound: Could not find conda environment: bioinfo
+You can list all discoverable environments with `conda info --envs`.
+
+
+[?2004h(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mconda create -n bioinfo -c b[27m[7mi[27m[7moconda -c conda-forge cd-hit[27m[A(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda create -n bioinfo -c bioconda -c conda-forge cd-hit
+[?2004lChannels:
+ - bioconda
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - \ | / - done
+Solving environment: | / done
+
+## Package Plan ##
+
+  environment location: /home/pepe/miniconda3/envs/bioinfo
+
+  added / updated specs:
+    - cd-hit
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    _openmp_mutex-4.5          |           20_gnu          28 KB  conda-forge
+    cd-hit-4.8.1               |      h5ca1c30_13         181 KB  bioconda
+    libgcc-15.2.0              |      he0feb66_18        1017 KB  conda-forge
+    libgomp-15.2.0             |      he0feb66_18         589 KB  conda-forge
+    libstdcxx-15.2.0           |      h934c35e_18         5.6 MB  conda-forge
+    libzlib-1.3.2              |       h25fd6f3_2          62 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         7.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  _openmp_mutex      conda-forge/linux-64::_openmp_mutex-4.5-20_gnu 
+  cd-hit             bioconda/linux-64::cd-hit-4.8.1-h5ca1c30_13 
+  libgcc             conda-forge/linux-64::libgcc-15.2.0-he0feb66_18 
+  libgomp            conda-forge/linux-64::libgomp-15.2.0-he0feb66_18 
+  libstdcxx          conda-forge/linux-64::libstdcxx-15.2.0-h934c35e_18 
+  libzlib            conda-forge/linux-64::libzlib-1.3.2-h25fd6f3_2 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+libstdcxx-15.2.0     | 5.6 MB    |                                                     |   0% 
+libgcc-15.2.0        | 1017 KB   |                                                     |   0% [A
+
+libgomp-15.2.0       | 589 KB    |                                                     |   0% [A[A
+
+
+cd-hit-4.8.1         | 181 KB    |                                                     |   0% [A[A[A
+
+
+
+libzlib-1.3.2        | 62 KB     |                                                     |   0% [A[A[A[A
+
+
+
+
+_openmp_mutex-4.5    | 28 KB     |                                                     |   0% [A[A[A[A[A
+
+
+cd-hit-4.8.1         | 181 KB    | ####5                                               |   9% [A[A[A
+
+
+
+libzlib-1.3.2        | 62 KB     | #############1                                      |  26% [A[A[A[A
+
+libgomp-15.2.0       | 589 KB    | #3                                                  |   3% [A[Alibstdcxx-15.2.0     | 5.6 MB    | 1                                                   |   0% 
+
+
+
+libzlib-1.3.2        | 62 KB     | ################################################### | 100% [A[A[A[A
+libgcc-15.2.0        | 1017 KB   | 8                                                   |   2% [A
+
+
+
+libzlib-1.3.2        | 62 KB     | ################################################### | 100% [A[A[A[A
+
+
+cd-hit-4.8.1         | 181 KB    | ################################################### | 100% [A[A[A
+
+
+
+
+_openmp_mutex-4.5    | 28 KB     | ############################8                       |  57% [A[A[A[A[A
+
+
+
+
+_openmp_mutex-4.5    | 28 KB     | ################################################### | 100% [A[A[A[A[A
+
+
+
+
+_openmp_mutex-4.5    | 28 KB     | ################################################### | 100% [A[A[A[A[A
+
+
+cd-hit-4.8.1         | 181 KB    | ################################################### | 100% [A[A[A
+
+
+cd-hit-4.8.1         | 181 KB    | ################################################### | 100% [A[A[A
+
+libgomp-15.2.0       | 589 KB    | ################################################4   |  95% [A[Alibstdcxx-15.2.0     | 5.6 MB    | ####5                                               |   9% 
+
+libgomp-15.2.0       | 589 KB    | ################################################### | 100% [A[A
+libgcc-15.2.0        | 1017 KB   | ########################                            |  47% [A
+
+libgomp-15.2.0       | 589 KB    | ################################################### | 100% [A[A
+libgcc-15.2.0        | 1017 KB   | ################################################### | 100% [Alibstdcxx-15.2.0     | 5.6 MB    | #############4                                      |  26% 
+libgcc-15.2.0        | 1017 KB   | ################################################### | 100% [Alibstdcxx-15.2.0     | 5.6 MB    | ############################6                       |  56% libstdcxx-15.2.0     | 5.6 MB    | ############################################1       |  87% libstdcxx-15.2.0     | 5.6 MB    | ################################################### | 100% libstdcxx-15.2.0     | 5.6 MB    | ################################################### | 100%                                                                                               
+                                                                                              [A
+
+                                                                                              [A[A
+
+
+                                                                                              [A[A[A
+
+
+
+                                                                                              [A[A[A[A
+
+
+
+
+                                                                                              [A[A[A[A[A
+Preparing transaction: - done
+Verifying transaction: | done
+Executing transaction: - done
+#
+# To activate this environment, use
+#
+#     $ conda activate bioinfo
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+[?2004h(base) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ cona[Kda activate bioinfo
+[?2004l[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mconda config --add channe[27m[7ml[27m[7ms conda-forge[27m[A(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda config --add channels conda-forge
+[?2004l[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mconda config --add channe[27m[7ml[27m[7ms bioconda[27m[A(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda config --add channels bioconda
+[?2004l[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mconda config --set channe[27m[7ml[27m[7m_priority strict[27m[A(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ conda config --set channel_priority strict
+[?2004l[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mcd-hit -i protein-matchin[27m[7mg[27m[7m-IPR037093.fasta.fasta -o smaug_clean.fasta -c 0.90 -n 5[27m[A(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ cd-hit -i protein-matching-IPR037093.fasta.fasta -o smaug_clean.fasta -c 0.90 -n 5
+[?2004l================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Apr 24 2025, 22:00:32
+Command: cd-hit -i protein-matching-IPR037093.fasta.fasta -o
+         smaug_clean.fasta -c 0.90 -n 5
+
+Started: Thu Apr 30 15:10:06 2026
+================================================================
+                            Output                              
+----------------------------------------------------------------
+
+Fatal Error:
+Failed to open the database file
+Program halted !!
+
+[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mcd-hit -i protein-matchin[27m[7mg[27m[7m-IPR037093.fasta.fasta -o smaug_clean.fasta -c 0.90 -n 5[27m[A(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ cd-hit -i protein-matching-IPR037093.fasta.fasta -o smaug_clean.fasta -c 0.90 -n 5
+[?2004l================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Apr 24 2025, 22:00:32
+Command: cd-hit -i protein-matching-IPR037093.fasta.fasta -o
+         smaug_clean.fasta -c 0.90 -n 5
+
+Started: Thu Apr 30 15:11:42 2026
+================================================================
+                            Output                              
+----------------------------------------------------------------
+
+Fatal Error:
+Failed to open the database file
+Program halted !!
+
+[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mls *.fasta*[27mls *.fasta*
+[?2004lprotein-matching-IPR037093.fasta
+[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ [7mcd-hit -i protein-matchin[27m[7mg[27m[7m-IPR037093.fasta -o smaug_clean.fasta -c 0.90 -n 5[27m[A(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ cd-hit -i protein-matching-IPR037093.fasta -o smaug_clean.fasta -c 0.90 -n 5
+[?2004l================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Apr 24 2025, 22:00:32
+Command: cd-hit -i protein-matching-IPR037093.fasta -o
+         smaug_clean.fasta -c 0.90 -n 5
+
+Started: Thu Apr 30 15:12:34 2026
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 2920
+longest and shortest : 2239 and 52
+Total letters: 1907428
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 2M
+Buffer          : 1 X 16M = 16M
+Table           : 1 X 65M = 65M
+Miscellaneous   : 0M
+Total           : 84M
+
+Table limit with the given memory limit:
+Max number of representatives: 901183
+Max number of word counting entries: 89469408
+
+comparing sequences from          0  to       2920
+..
+     2920  finished        746  clusters
+
+Approximated maximum memory consumption: 88M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.78
+[?2004h(bioinfo) ]0;pepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA: ~/TrabajoAB[01;32mpepe@pepe-VivoBook-ASUSLaptop-X421EAYB-K413EA[00m:[01;34m~/TrabajoAB[00m$ exit
+[?2004lexit
+
+Script done on 2026-04-30 15:14:19+02:00 [COMMAND_EXIT_CODE="0"]
