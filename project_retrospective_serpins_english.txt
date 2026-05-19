@@ -1,0 +1,30 @@
+Project Retrospective: Multiple Sequence Alignment (MSA) Consistency vs. Pairwise Alignments
+Course: Algorithms in Biology
+Team: Òscar, Pepe, and Resi
+
+1. Introduction and Objective
+This document details the development of our project, the objective of which was to evaluate the loss of consistency in progressive multiple sequence alignment algorithms (specifically MAFFT) compared to optimal pairwise alignments (Needleman-Wunsch). We aimed to quantify how initial decisions in the guide tree propagate errors throughout the rest of the alignment.
+
+2. The Initial Problem: The SAM Domain (IPR037093)
+Initially, we selected the Smaug protein family (IPR037093), focusing on the RNA-binding domain (SAM). However, we made a methodological error during data retrieval: we used full-length sequences exceeding 800 amino acids, instead of restricting the data to the domain region (~70 amino acids). 
+This generated a severe issue regarding biological interpretation. MAFFT introduced large blocks of gaps in the disordered "linker" regions (which is a biologically correct behavior), but our code quantified this as massive positional shifts (Max_Shift_Magnitude). Without the exact coordinates of the structural domain, we were unable to distinguish whether the algorithm was failing in the functional region or simply adapting to the linkers. This would have invalidated our Phase 3 conclusions.
+
+3. The Methodological Solution: The Serpin Family (PF00079)
+To ensure the scientific rigor of our analysis, we pivoted to the Serpin (Serine Protease Inhibitor) family (PF00079). This decision resolved several core issues:
+- Ideal Structural Architecture: Serpins feature a structural dichotomy that perfectly tests progressive algorithms. They possess a highly conserved rigid core (central beta-sheets) and a hypervariable Reactive Center Loop (RCL) that undergoes natural insertions and deletions to trap specific proteases.
+- Controlled Sequence Volume: We downloaded the "Full" alignment from Pfam, but by applying a strict CD-HIT identity threshold (50-60%), we successfully reduced thousands of sequences to a highly diverse, representative subset of approximately 500 sequences. This provided the exact volume needed to balance statistical robustness with computational viability (handling ~124,750 pairwise combinations).
+- Biological Reference Frame: Using human Alpha-1-antitrypsin (A1AT, UniProt: P01009) as our baseline, we defined the RCL (residues 377-393) as a gap-tolerant region, and the flanking beta-sheets (residues 310-340 and 394-414) as strictly conserved. This provided an empirical metric: any algorithmic shift within these beta-sheet coordinates was classified as a critical alignment failure.
+
+4. Technical Pipeline Development
+
+Phase 1 (Òscar - Data Architecture):
+After applying the strict CD-HIT filtering to achieve our ~500 sequence target, we implemented a multiprocessing script to compute all possible sequence pairs using Needleman-Wunsch. A critical adjustment during this phase was ensuring the export of the sequence identity percentage (identity_pct) to the output JSON, as this is a fundamental data point for the subsequent Phase 3 correlations.
+
+Phase 2 (Pepe - Alignment Engineering):
+A MAFFT parameter sweep was executed by modifying the Gap Open Penalty (GOP) and Gap Extension Penalty (GEP). To cross-reference the multiple alignment matrix with the pairwise JSON, a vectorized mapping system was developed using cumulative coordinates (numpy.cumsum). To optimize memory usage given the high volume of data, positional errors (Delta) were compressed using Run-Length Encoding (RLE).
+
+Phase 3 (Resi - Error and Consistency Analysis):
+With the structured data exported to a CSV, we proceeded with the statistical validation. The topological distance within the Newick guide trees was analyzed to demonstrate error propagation in downstream branches. Finally, the biological evaluation consisted of mapping the detected shifts against the coordinates of the A1AT reference sequence. This allowed us to statistically demonstrate whether a specific parameter regime successfully protected the beta-sheet integrity, or if it incorrectly forced gaps into the structural core while struggling with the hypervariable RCL.
+
+5. Conclusion
+This project has demonstrated that the development of bioinformatics pipelines does not rely solely on computational efficiency (such as vectorization or RLE). It is imperative to have a deep, foundational understanding of the underlying biological structures in order to correctly interpret and evaluate algorithmic performance.
