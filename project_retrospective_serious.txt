@@ -1,0 +1,30 @@
+Retrospectiva del Projecte: Consistència d'Alineaments Múltiples (MSA) vs. Alineaments per Parelles
+Assignatura: Algorismes en Biologia
+Equip: Òscar, Pepe i Resi
+
+1. Introducció i Objectiu
+Aquest document detalla el desenvolupament del nostre projecte, l'objectiu del qual era avaluar la pèrdua de consistència en els algorismes d'alineament múltiple progressiu (específicament MAFFT) en comparació amb els alineaments òptims per parelles (Needleman-Wunsch). Volíem quantificar com les decisions inicials en l'arbre guia propaguen errors a la resta de l'alineament.
+
+2. El Problema Inicial: El domini SAM (IPR037093)
+Inicialment vam seleccionar la família de proteïnes Smaug (IPR037093), centrada en el domini d'unió a l'ARN (SAM). No obstant això, vam cometre un error metodològic en la descàrrega de dades: vam utilitzar seqüències completes (full-length) que superaven els 800 aminoàcids, en lloc de l'alineament de la regió del domini (~70 aminoàcids). 
+Això va generar un problema greu d'interpretació biològica. MAFFT introduïa grans blocs de gaps en les regions "linker" desordenades (un comportament biològicament correcte), però el nostre codi ho quantificava com a desplaçaments massius (Max_Shift_Magnitude). Sense les coordenades exactes del domini, érem incapaços de distingir si l'algorisme estava fallant en la regió funcional o simplement adaptant els linkers. Això hauria invalidat les nostres conclusions a la Fase 3.
+
+3. La Solució Metodològica: Citocrom P450 (PF00067)
+Per garantir el rigor científic de l'anàlisi, vam pivotar cap a la família del Citocrom P450 i vam utilitzar l'alineament "Seed" curat de Pfam. Aquesta decisió va resoldre diversos problemes:
+- Mida òptima: Domini globular únic de 400-500 aminoàcids, ideal per a l'eficiència computacional.
+- Arquitectura idònia per a la prova: Combina regions hipervariables (Substrate Recognition Sites), on els gaps són tolerables, amb un motiu d'unió a l'hemo altament conservat.
+- Marc de referència biològic: En la referència humana (CYP3A4), la Cisteïna 442 és essencial. Això ens va proporcionar una dada empírica per avaluar el rendiment de MAFFT: qualsevol desplaçament algorísmic que afectés aquesta coordenada es considerava una fallada crítica de l'alineament.
+
+4. Desenvolupament del Pipeline Tècnic
+
+Fase 1 (Òscar - Arquitectura de Dades):
+Vam aplicar CD-HIT per eliminar la redundància de seqüències i evitar biaixos estadístics. Posteriorment, vam implementar un script amb multiprocessament per calcular tots els parells possibles amb Needleman-Wunsch. Un ajust crític va ser assegurar-nos d'exportar el percentatge d'identitat (identity_pct) al JSON de sortida, dada fonamental per a les correlacions posteriors de la Fase 3.
+
+Fase 2 (Pepe - Enginyeria d'Alineament):
+Es va executar un barrit de paràmetres de MAFFT modificant les penalitzacions d'obertura (GOP) i extensió de gaps (GEP). Per creuar la matriu múltiple amb el JSON de parelles, es va desenvolupar un mapeig vectoritzat utilitzant coordenades acumulatives (numpy.cumsum). Per optimitzar l'ús de memòria davant l'elevat volum de dades, els errors posicionals (Delta) es van comprimir utilitzant Run-Length Encoding (RLE).
+
+Fase 3 (Resi - Anàlisi d'Errors i Consistència):
+Amb les dades estructurades al CSV, vam procedir a la validació. Es va analitzar la distància topològica en els arbres Newick per demostrar la propagació d'errors en les branques posteriors. Finalment, l'avaluació biològica va consistir a creuar els desplaçaments detectats amb les coordenades de la Cisteïna 442 per demostrar estadísticament quin règim de paràmetres protegeix millor la integritat estructural de la proteïna i quin genera excés de gaps (gap soup).
+
+5. Conclusió
+El projecte ens ha ensenyat que el desenvolupament de pipelines bioinformàtics no depèn únicament de l'eficiència del codi (com la vectorització o el RLE), sinó que és imperatiu tenir un coneixement profund de l'estructura biològica subjacent per poder avaluar correctament el rendiment d'un algorisme.
