@@ -1,0 +1,30 @@
+Project Retrospective: Multiple Sequence Alignment (MSA) Consistency vs. Pairwise Alignments
+Course: Algorithms in Biology
+Team: Òscar, Pepe, and Resi
+
+1. Introduction and Objective
+This document details the development of our project, the objective of which was to evaluate the loss of consistency in progressive multiple sequence alignment algorithms (specifically MAFFT) compared to optimal pairwise alignments (Needleman-Wunsch). We aimed to quantify how initial decisions in the guide tree propagate errors throughout the rest of the alignment.
+
+2. The Initial Problem: The SAM Domain (IPR037093)
+Initially, we selected the Smaug protein family (IPR037093), focusing on the RNA-binding domain (SAM). However, we made a methodological error during data retrieval: we used full-length sequences exceeding 800 amino acids, instead of restricting the data to the domain region (~70 amino acids). 
+This generated a severe issue regarding biological interpretation. MAFFT introduced large blocks of gaps in the disordered "linker" regions (which is a biologically correct behavior), but our code quantified this as massive positional shifts (Max_Shift_Magnitude). Without the exact coordinates of the structural domain, we were unable to distinguish whether the algorithm was failing in the functional region or simply adapting to the linkers. This would have invalidated our Phase 3 conclusions.
+
+3. The Methodological Solution: Cytochrome P450 (PF00067)
+To ensure the scientific rigor of our analysis, we pivoted to the Cytochrome P450 family and utilized the curated "Seed" alignment from Pfam. This decision resolved several core issues:
+- Optimal size: A single globular domain of 400-500 amino acids, which is ideal for computational efficiency.
+- Ideal architecture for testing: It combines hypervariable regions (Substrate Recognition Sites), where gaps are tolerable, with a highly conserved Heme-binding motif.
+- Biological reference frame: In the human reference sequence (CYP3A4), Cysteine 442 is essential. This provided us with an empirical metric to evaluate MAFFT's performance: any algorithmic shift affecting this specific coordinate was considered a critical alignment failure.
+
+4. Technical Pipeline Development
+
+Phase 1 (Òscar - Data Architecture):
+We applied CD-HIT to remove sequence redundancy and prevent statistical biases. Subsequently, we implemented a multiprocessing script to compute all possible sequence pairs using Needleman-Wunsch. A critical adjustment during this phase was ensuring the export of the sequence identity percentage (identity_pct) to the output JSON, as this is a fundamental data point for the subsequent Phase 3 correlations.
+
+Phase 2 (Pepe - Alignment Engineering):
+A MAFFT parameter sweep was executed by modifying the Gap Open Penalty (GOP) and Gap Extension Penalty (GEP). To cross-reference the multiple alignment matrix with the pairwise JSON, a vectorized mapping system was developed using cumulative coordinates (numpy.cumsum). To optimize memory usage given the high volume of data, positional errors (Delta) were compressed using Run-Length Encoding (RLE).
+
+Phase 3 (Resi - Error and Consistency Analysis):
+With the structured data exported to a CSV, we proceeded with the statistical validation. The topological distance within the Newick guide trees was analyzed to demonstrate error propagation in downstream branches. Finally, the biological evaluation consisted of mapping the detected shifts against the coordinates of Cysteine 442 to statistically demonstrate which parameter regime best protects the structural integrity of the protein, and which generates an excess of non-biological gaps ("gap soup").
+
+5. Conclusion
+This project has demonstrated that the development of bioinformatics pipelines does not rely solely on computational efficiency (such as vectorization or RLE). It is imperative to have a deep, foundational understanding of the underlying biological structures in order to correctly interpret and evaluate algorithmic performance.
