@@ -1,0 +1,493 @@
+>Cluster 0
+0	536aa, >Q9VLU4|reviewed|Ser... *
+>Cluster 1
+0	504aa, >P97290|reviewed|Pla... *
+>Cluster 2
+0	504aa, >Q6P734|reviewed|Pla... *
+>Cluster 3
+0	500aa, >P05155|reviewed|Pla... *
+>Cluster 4
+0	499aa, >P05546|reviewed|Hep... *
+1	480aa, >P47776|reviewed|Hep... at 87.71%
+>Cluster 5
+0	492aa, >P28800|reviewed|Alp... *
+>Cluster 6
+0	491aa, >P08697|reviewed|Alp... *
+>Cluster 7
+0	491aa, >Q61247|reviewed|Alp... *
+>Cluster 8
+0	478aa, >P49182|reviewed|Hep... at 93.72%
+1	479aa, >Q64268|reviewed|Hep... *
+>Cluster 9
+0	477aa, >P01015|reviewed|Ang... *
+1	477aa, >P11859|reviewed|Ang... at 86.79%
+>Cluster 10
+0	476aa, >P01019|reviewed|Ang... at 86.55%
+1	476aa, >Q9GLN8|reviewed|Ang... at 86.34%
+2	476aa, >Q9GLP6|reviewed|Ang... at 86.76%
+3	477aa, >Q9TSZ0|reviewed|Ang... *
+>Cluster 11
+0	476aa, >P01017|reviewed|Ang... *
+1	476aa, >P20757|reviewed|Ang... at 93.70%
+>Cluster 12
+0	468aa, >P50448|reviewed|Fac... *
+>Cluster 13
+0	464aa, >P01008|reviewed|Ant... at 87.50%
+1	465aa, >P32261|reviewed|Ant... *
+2	464aa, >Q5R5A3|reviewed|Ant... at 87.72%
+>Cluster 14
+0	465aa, >P32262|reviewed|Ant... *
+1	465aa, >P41361|reviewed|Ant... at 95.48%
+>Cluster 15
+0	459aa, >P46201|reviewed|Ute... *
+>Cluster 16
+0	450aa, >Q0E8C8|reviewed|Ser... *
+>Cluster 17
+0	436aa, >Q62975|reviewed|Pro... at 88.07%
+1	448aa, >Q8R121|reviewed|Pro... *
+>Cluster 18
+0	447aa, >Q9V3N1|reviewed|Ser... *
+>Cluster 19
+0	445aa, >Q53MD3|reviewed|Put... *
+>Cluster 20
+0	440aa, >Q5I2A0|reviewed|Ser... at 85.45%
+1	445aa, >Q80X76|reviewed|Ser... *
+>Cluster 21
+0	443aa, >Q5RDA8|reviewed|Pro... at 96.39%
+1	444aa, >Q9UK55|reviewed|Pro... *
+>Cluster 22
+0	439aa, >Q2R8P2|reviewed|Pro... *
+>Cluster 23
+0	436aa, >Q00387|reviewed|Ser... *
+>Cluster 24
+0	433aa, >O04582|reviewed|Pro... *
+>Cluster 25
+0	404aa, >E1BF81|reviewed|Cor... at 95.30%
+1	430aa, >P49920|reviewed|Cor... *
+>Cluster 26
+0	429aa, >P21814|reviewed|Ute... *
+>Cluster 27
+0	427aa, >P29622|reviewed|Kal... *
+1	427aa, >Q5RCR2|reviewed|Kal... at 98.13%
+>Cluster 28
+0	427aa, >Q9VFC2|reviewed|Ser... *
+>Cluster 29
+0	426aa, >Q5JJ64|reviewed|Unc... *
+>Cluster 30
+0	426aa, >Q8PTN8|reviewed|Unc... *
+>Cluster 31
+0	426aa, >Q8TNN7|reviewed|Unc... *
+>Cluster 32
+0	424aa, >A8MV23|reviewed|Ser... *
+>Cluster 33
+0	424aa, >Q53KS8|reviewed|Ser... *
+>Cluster 34
+0	422aa, >Q7TPA5|reviewed|Ser... at 93.60%
+1	424aa, >Q8CIE0|reviewed|Ser... *
+>Cluster 35
+0	424aa, >Q8TKL5|reviewed|Unc... *
+>Cluster 36
+0	424aa, >Q8TMP0|reviewed|Unc... *
+>Cluster 37
+0	423aa, >P01011|reviewed|Alp... *
+1	423aa, >Q5R536|reviewed|Alp... at 93.62%
+>Cluster 38
+0	423aa, >Q5NBM0|reviewed|Put... *
+>Cluster 39
+0	423aa, >Q9D7P9|reviewed|Ser... *
+>Cluster 40
+0	422aa, >Q53P09|reviewed|Put... *
+>Cluster 41
+0	422aa, >Q6P4P1|reviewed|Ser... *
+>Cluster 42
+0	422aa, >Q86U17|reviewed|Ser... *
+>Cluster 43
+0	421aa, >P20848|reviewed|Alp... *
+>Cluster 44
+0	421aa, >P38029|reviewed|Alp... *
+>Cluster 45
+0	421aa, >P50447|reviewed|Alp... *
+>Cluster 46
+0	417aa, >P16708|reviewed|Ute... at 89.45%
+1	420aa, >P46202|reviewed|Ute... *
+>Cluster 47
+0	420aa, >Q8BYY9|reviewed|Ser... *
+>Cluster 48
+0	418aa, >A6QPQ2|reviewed|Ser... *
+>Cluster 49
+0	396aa, >O00394|reviewed|Alp... at 92.68%
+1	418aa, >P01009|reviewed|Alp... *
+2	409aa, >P01010|reviewed|Alp... at 92.18%
+3	418aa, >Q5RCW5|reviewed|Alp... at 96.41%
+>Cluster 50
+0	418aa, >P07759|reviewed|Ser... *
+>Cluster 51
+0	418aa, >P09006|reviewed|Ser... *
+>Cluster 52
+0	418aa, >P35577|reviewed|Thy... *
+1	418aa, >P61939|reviewed|Thy... at 94.26%
+>Cluster 53
+0	418aa, >P36955|reviewed|Pig... *
+1	417aa, >P97298|reviewed|Pig... at 86.09%
+2	416aa, >Q95121|reviewed|Pig... at 87.74%
+>Cluster 54
+0	417aa, >P19324|reviewed|Ser... at 94.96%
+1	417aa, >P29457|reviewed|Ser... at 94.72%
+2	418aa, >P50454|reviewed|Ser... *
+3	418aa, >Q2KJH6|reviewed|Ser... at 96.17%
+4	417aa, >Q5RBS3|reviewed|Ser... at 95.44%
+>Cluster 55
+0	418aa, >Q03734|reviewed|Ser... *
+>Cluster 56
+0	418aa, >Q27085|reviewed|Int... *
+>Cluster 57
+0	418aa, >Q5MIW3|reviewed|FXa... *
+>Cluster 58
+0	418aa, >Q60396|reviewed|Ser... *
+>Cluster 59
+0	418aa, >Q91WP6|reviewed|Ser... *
+>Cluster 60
+0	418aa, >Q9D7D2|reviewed|Ser... *
+>Cluster 61
+0	417aa, >A2I7N3|reviewed|Ser... *
+>Cluster 62
+0	417aa, >B0UYL8|reviewed|Pro... *
+>Cluster 63
+0	417aa, >P29621|reviewed|Ser... *
+>Cluster 64
+0	417aa, >Q86WD7|reviewed|Ser... *
+>Cluster 65
+0	413aa, >P05544|reviewed|Ser... at 88.86%
+1	416aa, >P05545|reviewed|Ser... *
+>Cluster 66
+0	416aa, >P12725|reviewed|Alp... *
+1	416aa, >P34955|reviewed|Alp... at 94.23%
+>Cluster 67
+0	415aa, >P12388|reviewed|Pla... at 87.23%
+1	416aa, >P29524|reviewed|Pla... *
+>Cluster 68
+0	415aa, >A0A1S4FGH1|reviewed... *
+>Cluster 69
+0	415aa, >P05120|reviewed|Pla... *
+>Cluster 70
+0	415aa, >P05543|reviewed|Thy... *
+1	415aa, >P61640|reviewed|Thy... at 99.76%
+>Cluster 71
+0	415aa, >Q53MD1|reviewed|Put... *
+>Cluster 72
+0	411aa, >A2I7M9|reviewed|Ser... at 89.54%
+1	411aa, >A2I7N0|reviewed|Ser... at 93.19%
+2	411aa, >A2I7N1|reviewed|Ser... at 90.02%
+3	414aa, >A2I7N2|reviewed|Ser... *
+4	411aa, >Q3ZEJ6|reviewed|Ser... at 93.19%
+5	411aa, >Q9TTE1|reviewed|Ser... at 88.81%
+>Cluster 73
+0	414aa, >Q8IW75|reviewed|Ser... *
+>Cluster 74
+0	414aa, >Q94823|reviewed|Int... *
+>Cluster 75
+0	413aa, >O54757|reviewed|Alp... *
+1	413aa, >O54758|reviewed|Alp... at 89.83%
+2	413aa, >O54759|reviewed|Alp... at 89.59%
+3	413aa, >O54760|reviewed|Alp... at 89.35%
+4	413aa, >Q09055|reviewed|Hib... at 86.20%
+>Cluster 76
+0	413aa, >O54761|reviewed|Alp... *
+>Cluster 77
+0	413aa, >O54762|reviewed|Alp... *
+>Cluster 78
+0	413aa, >P07758|reviewed|Alp... *
+1	413aa, >P22599|reviewed|Alp... at 95.16%
+2	412aa, >P26595|reviewed|Alp... at 85.92%
+3	412aa, >Q00896|reviewed|Alp... at 98.30%
+4	413aa, >Q00897|reviewed|Alp... at 94.67%
+5	413aa, >Q00898|reviewed|Alp... at 94.19%
+6	413aa, >Q63969|reviewed|Alp... at 85.96%
+>Cluster 79
+0	413aa, >P23035|reviewed|Alp... *
+>Cluster 80
+0	413aa, >P97277|reviewed|Alp... *
+>Cluster 81
+0	413aa, >Q7TMF5|reviewed|Ser... *
+1	411aa, >Q8R4Z1|reviewed|Ser... at 87.59%
+>Cluster 82
+0	412aa, >O54763|reviewed|Alp... *
+>Cluster 83
+0	412aa, >P50450|reviewed|Thy... *
+1	412aa, >Q9TT35|reviewed|Thy... at 89.56%
+2	411aa, >Q9TT36|reviewed|Thy... at 96.11%
+>Cluster 84
+0	412aa, >Q63556|reviewed|Ser... *
+>Cluster 85
+0	411aa, >P17475|reviewed|Alp... *
+>Cluster 86
+0	411aa, >Q94DW6|reviewed|Ser... *
+>Cluster 87
+0	411aa, >Q9DCQ7|reviewed|Alp... *
+>Cluster 88
+0	410aa, >O35684|reviewed|Neu... *
+1	410aa, >Q99574|reviewed|Neu... at 86.34%
+2	410aa, >Q9JLD2|reviewed|Neu... at 91.71%
+>Cluster 89
+0	410aa, >O73790|reviewed|Het... *
+>Cluster 90
+0	410aa, >P22323|reviewed|Ser... *
+1	403aa, >P22324|reviewed|Alp... at 90.07%
+2	405aa, >P22325|reviewed|Alp... at 89.14%
+>Cluster 91
+0	410aa, >Q03044|reviewed|Alp... *
+>Cluster 92
+0	410aa, >Q90935|reviewed|Neu... *
+>Cluster 93
+0	409aa, >Q7QIJ8|reviewed|Ser... *
+>Cluster 94
+0	408aa, >Q27086|reviewed|Int... *
+>Cluster 95
+0	407aa, >Q9ZQR6|reviewed|Ser... *
+>Cluster 96
+0	406aa, >P05154|reviewed|Pla... *
+>Cluster 97
+0	405aa, >P08185|reviewed|Cor... at 86.17%
+1	406aa, >P50451|reviewed|Cor... *
+2	405aa, >Q5R9E3|reviewed|Cor... at 86.42%
+>Cluster 98
+0	406aa, >Q64118|reviewed|Alp... *
+>Cluster 99
+0	406aa, >Q9GK37|reviewed|Cor... *
+>Cluster 100
+0	405aa, >B2D1U1|reviewed|Cor... *
+>Cluster 101
+0	405aa, >O75830|reviewed|Ser... *
+>Cluster 102
+0	405aa, >P13731|reviewed|Ser... *
+>Cluster 103
+0	405aa, >P70458|reviewed|Pla... *
+>Cluster 104
+0	405aa, >Q10GX0|reviewed|Ser... *
+1	396aa, >Q75H81|reviewed|Ser... at 86.62%
+>Cluster 105
+0	405aa, >Q96P63|reviewed|Ser... *
+>Cluster 106
+0	405aa, >Q9JK88|reviewed|Ser... *
+>Cluster 107
+0	404aa, >Q53KS9|reviewed|Ser... *
+>Cluster 108
+0	404aa, >Q60543|reviewed|Cor... *
+>Cluster 109
+0	404aa, >Q9N2I2|reviewed|Pla... *
+>Cluster 110
+0	402aa, >P05121|reviewed|Pla... *
+1	402aa, >P13909|reviewed|Pla... at 85.32%
+2	400aa, >P50449|reviewed|Pla... at 85.75%
+3	402aa, >P79335|reviewed|Pla... at 86.32%
+>Cluster 111
+0	402aa, >P20961|reviewed|Pla... *
+1	402aa, >P22777|reviewed|Pla... at 89.05%
+>Cluster 112
+0	402aa, >Q06B72|reviewed|Iri... *
+>Cluster 113
+0	401aa, >Q7T6X8|reviewed|Unc... *
+>Cluster 114
+0	400aa, >A6QQ92|reviewed|Ser... *
+>Cluster 115
+0	400aa, >Q03383|reviewed|Ant... *
+>Cluster 116
+0	399aa, >P06293|reviewed|Ser... *
+>Cluster 117
+0	399aa, >P93693|reviewed|Ser... *
+1	398aa, >Q41593|reviewed|Ser... at 94.47%
+2	398aa, >Q9ST58|reviewed|Ser... at 94.47%
+>Cluster 118
+0	398aa, >P07093|reviewed|Gli... *
+1	397aa, >Q07235|reviewed|Gli... at 85.14%
+>Cluster 119
+0	398aa, >P93692|reviewed|Ser... *
+1	398aa, >Q9ST57|reviewed|Ser... at 89.20%
+>Cluster 120
+0	398aa, >Q40066|reviewed|Ser... *
+>Cluster 121
+0	398aa, >Q53Q32|reviewed|Ser... *
+>Cluster 122
+0	397aa, >A5PJK0|reviewed|Ser... *
+>Cluster 123
+0	397aa, >A9RA96|reviewed|Ser... *
+1	397aa, >B0CMB0|reviewed|Ser... at 89.67%
+2	397aa, >B1MTC3|reviewed|Ser... at 89.17%
+3	397aa, >P48595|reviewed|Ser... at 94.96%
+>Cluster 124
+0	397aa, >B2KI30|reviewed|Ser... *
+>Cluster 125
+0	397aa, >B3RFC3|reviewed|Ser... *
+>Cluster 126
+0	397aa, >B4USX2|reviewed|Ser... *
+>Cluster 127
+0	397aa, >P07092|reviewed|Gli... *
+>Cluster 128
+0	397aa, >Q06770|reviewed|Cor... *
+>Cluster 129
+0	397aa, >Q06B74|reviewed|Iri... *
+>Cluster 130
+0	397aa, >Q43492|reviewed|Ser... *
+>Cluster 131
+0	397aa, >Q8K1K6|reviewed|Ser... *
+1	397aa, >Q8K3K4|reviewed|Ser... at 87.15%
+>Cluster 132
+0	396aa, >P31211|reviewed|Cor... *
+>Cluster 133
+0	393aa, >A0A0K8RCY5|reviewed... *
+>Cluster 134
+0	393aa, >A0A0K8RJ89|reviewed... *
+>Cluster 135
+0	393aa, >Q53Q31|reviewed|Put... *
+>Cluster 136
+0	393aa, >Q9M1T7|reviewed|Ser... *
+>Cluster 137
+0	392aa, >A0A0K8RJV9|reviewed... *
+>Cluster 138
+0	392aa, >P14754|reviewed|Ala... *
+>Cluster 139
+0	392aa, >P22922|reviewed|Ant... *
+1	375aa, >P80034|reviewed|Ant... at 94.40%
+>Cluster 140
+0	392aa, >Q06B75|reviewed|Iri... *
+>Cluster 141
+0	392aa, >Q7XMK1|reviewed|Put... *
+>Cluster 142
+0	392aa, >Q96P15|reviewed|Ser... *
+>Cluster 143
+0	391aa, >Q9S7T8|reviewed|Ser... *
+>Cluster 144
+0	391aa, >Q9UIV8|reviewed|Ser... *
+>Cluster 145
+0	390aa, >P29508|reviewed|Ser... *
+1	390aa, >P48594|reviewed|Ser... at 91.79%
+>Cluster 146
+0	389aa, >O48706|reviewed|Ser... *
+>Cluster 147
+0	389aa, >Q8CDC0|reviewed|Ser... *
+>Cluster 148
+0	388aa, >P01014|reviewed|Ova... *
+>Cluster 149
+0	388aa, >Q9CQV3|reviewed|Ser... *
+>Cluster 150
+0	386aa, >E2RVI8|reviewed|Ova... *
+>Cluster 151
+0	386aa, >O73860|reviewed|Ova... *
+1	386aa, >P01012|reviewed|Ova... at 90.67%
+2	383aa, >P19104|reviewed|Ova... at 86.95%
+3	383aa, >Q6V115|reviewed|Ova... at 86.68%
+>Cluster 152
+0	386aa, >Q9VVW1|reviewed|Acc... *
+>Cluster 153
+0	385aa, >Q7XMK0|reviewed|Put... *
+>Cluster 154
+0	385aa, >Q9SH52|reviewed|Ser... *
+>Cluster 155
+0	385aa, >Q9SIR9|reviewed|Ser... *
+>Cluster 156
+0	383aa, >P23775|reviewed|Cor... *
+>Cluster 157
+0	383aa, >Q5MGH0|reviewed|Ser... *
+>Cluster 158
+0	379aa, >Q5M8J5|reviewed|Ser... at 87.34%
+1	383aa, >Q6GLQ1|reviewed|Ser... *
+>Cluster 159
+0	379aa, >Q4G075|reviewed|Leu... at 86.02%
+1	382aa, >Q8VHP7|reviewed|Leu... *
+2	379aa, >Q9D154|reviewed|Leu... at 86.81%
+>Cluster 160
+0	380aa, >O75635|reviewed|Ser... *
+>Cluster 161
+0	380aa, >Q9D695|reviewed|Ser... *
+>Cluster 162
+0	379aa, >P05619|reviewed|Leu... *
+>Cluster 163
+0	379aa, >P30740|reviewed|Leu... *
+>Cluster 164
+0	378aa, >O02739|reviewed|Ser... *
+>Cluster 165
+0	378aa, >P80229|reviewed|Leu... *
+>Cluster 166
+0	378aa, >Q60854|reviewed|Ser... *
+>Cluster 167
+0	377aa, >A0A090BX51|reviewed... *
+1	377aa, >Q9GP13|reviewed|Iri... at 94.43%
+>Cluster 168
+0	377aa, >Q1JPB0|reviewed|Leu... *
+>Cluster 169
+0	377aa, >Q52L45|reviewed|Leu... *
+1	377aa, >Q5I0S8|reviewed|Leu... at 88.33%
+>Cluster 170
+0	377aa, >Q6J201|reviewed|Ser... *
+>Cluster 171
+0	376aa, >P35237|reviewed|Ser... *
+1	376aa, >Q4R3G2|reviewed|Ser... at 96.01%
+2	376aa, >Q5R899|reviewed|Ser... at 99.20%
+>Cluster 172
+0	376aa, >P50453|reviewed|Ser... *
+>Cluster 173
+0	375aa, >A0A7H0DN13|reviewed... *
+1	369aa, >P18384|reviewed|Sup... at 92.95%
+2	369aa, >P20532|reviewed|Sup... at 92.95%
+3	373aa, >P33831|reviewed|Sup... at 91.96%
+4	369aa, >Q85339|reviewed|Sup... at 92.41%
+>Cluster 174
+0	375aa, >B1MTB7|reviewed|Ser... *
+1	375aa, >P36952|reviewed|Ser... at 96.53%
+2	375aa, >P70124|reviewed|Ser... at 88.80%
+3	375aa, >P70564|reviewed|Ser... at 87.73%
+>Cluster 175
+0	375aa, >Q5SV42|reviewed|Leu... *
+>Cluster 176
+0	374aa, >O08800|reviewed|Ser... *
+>Cluster 177
+0	374aa, >P50452|reviewed|Ser... *
+>Cluster 178
+0	374aa, >Q5BIR5|reviewed|Ser... *
+>Cluster 179
+0	357aa, >A0A7H0DNG4|reviewed... at 93.00%
+1	372aa, >P0DOT3|reviewed|Ser... *
+2	372aa, >P0DOT4|reviewed|Ser... at 100.00%
+3	353aa, >P15058|reviewed|Ser... at 94.33%
+4	353aa, >P20531|reviewed|Ser... at 93.20%
+5	355aa, >P42927|reviewed|Ser... at 95.21%
+6	357aa, >P42928|reviewed|Ser... at 95.24%
+>Cluster 180
+0	372aa, >P32759|reviewed|Alp... *
+>Cluster 181
+0	372aa, >Q7YTY6|reviewed|Ser... *
+>Cluster 182
+0	371aa, >Q8ZZW3|reviewed|Unc... *
+>Cluster 183
+0	369aa, >P12393|reviewed|Ser... *
+>Cluster 184
+0	358aa, >Q9J5F9|reviewed|Unc... *
+>Cluster 185
+0	148aa, >P14369|reviewed|Unc... at 91.22%
+1	355aa, >Q9J5J1|reviewed|Unc... *
+>Cluster 186
+0	344aa, >A0A7H0DNF9|reviewed... at 94.19%
+1	341aa, >P07385|reviewed|Ser... at 93.55%
+2	344aa, >P0DSW3|reviewed|Ser... at 92.44%
+3	344aa, >P0DSW4|reviewed|Ser... at 92.44%
+4	345aa, >P15059|reviewed|Ser... *
+5	116aa, >P20841|reviewed|Put... at 94.83%
+6	222aa, >P20842|reviewed|Put... at 96.40%
+7	345aa, >P42926|reviewed|Ser... at 97.97%
+>Cluster 187
+0	342aa, >Q9J531|reviewed|Unc... *
+>Cluster 188
+0	337aa, >Q9J5G3|reviewed|Unc... *
+>Cluster 189
+0	333aa, >P68565|reviewed|Ser... *
+1	333aa, >P68566|reviewed|Ser... at 100.00%
+>Cluster 190
+0	320aa, >Q08519|reviewed|Pro... *
+>Cluster 191
+0	307aa, >Q6UXR4|reviewed|Put... *
+>Cluster 192
+0	232aa, >P01013|reviewed|Ova... *
+>Cluster 193
+0	214aa, >P09005|reviewed|Ser... *
+>Cluster 194
+0	139aa, >A8MTL9|reviewed|Ser... *

@@ -1,0 +1,11 @@
+--- Two-Way ANOVA: GOP & GEP effects on CR_Score ---
+                            sum_sq       df         F    PR(>F)
+C(GOP_cat)                0.128592      1.0  8.237214  0.004105
+C(GEP_cat)                0.095027      1.0  6.087142  0.013619
+C(GOP_cat):C(GEP_cat)     0.036154      1.0  2.315947  0.128058
+Residual               1181.071206  75656.0       NaN       NaN
+
+Quick interpretation guide:
+- p < 0.05 for GOP_cat: GOP changes consistency
+- p < 0.05 for GEP_cat: GEP changes consistency
+- p < 0.05 for interaction: The effect of GOP depends on the GEP used
